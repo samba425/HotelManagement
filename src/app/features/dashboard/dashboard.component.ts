@@ -36,6 +36,7 @@ import type { EChartsOption } from 'echarts';
           [trend]="kpi.trend"
           [trendPercentage]="kpi.trendPercentage"
           [icon]="kpi.icon"
+          [accent]="kpi.accent"
           [sparklineData]="kpi.sparklineData || []">
         </app-kpi-card>
       </div>

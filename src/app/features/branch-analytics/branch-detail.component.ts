@@ -32,7 +32,7 @@ import type { EChartsOption } from 'echarts';
         <app-kpi-card *ngFor="let kpi of kpis()"
           [label]="kpi.label" [value]="kpi.value" [previousValue]="kpi.previousValue"
           [format]="kpi.format" [trend]="kpi.trend" [trendPercentage]="kpi.trendPercentage"
-          [icon]="kpi.icon" [sparklineData]="kpi.sparklineData || []">
+          [icon]="kpi.icon" [accent]="kpi.accent" [sparklineData]="kpi.sparklineData || []">
         </app-kpi-card>
       </div>
 

@@ -17,5 +17,6 @@ export interface KpiData {
   trend: 'up' | 'down' | 'flat';
   trendPercentage: number;
   icon: string;
+  accent: string;
   sparklineData?: number[];
 }

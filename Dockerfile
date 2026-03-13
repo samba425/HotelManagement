@@ -28,6 +28,6 @@ RUN addgroup -g 1001 -S appgroup && \
 EXPOSE 80
 
 HEALTHCHECK --interval=30s --timeout=3s --retries=3 \
-  CMD wget -qO- http://localhost/health || exit 1
+  CMD curl -sf http://localhost/health || exit 1
 
 CMD ["nginx", "-g", "daemon off;"]

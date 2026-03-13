@@ -57,6 +57,7 @@ export class KpiEngineService {
         trend: revenueTrend.direction,
         trendPercentage: revenueTrend.percentage,
         icon: 'dollar-sign',
+        accent: 'blue',
         sparklineData: current.map(f => f.dailyRevenue),
       },
       {
@@ -67,6 +68,7 @@ export class KpiEngineService {
         trend: this.getTrend(currentOcc, prevOcc).direction,
         trendPercentage: this.getTrend(currentOcc, prevOcc).percentage,
         icon: 'bed-double',
+        accent: 'cyan',
         sparklineData: current.map(f => this.calculateOccupancyRate(f.roomsOccupied, totalRooms)),
       },
       {
@@ -77,6 +79,7 @@ export class KpiEngineService {
         trend: this.getTrend(currentRevPAR, prevRevPAR).direction,
         trendPercentage: this.getTrend(currentRevPAR, prevRevPAR).percentage,
         icon: 'bar-chart-3',
+        accent: 'violet',
         sparklineData: current.map(f => this.calculateRevPAR(f.dailyRevenue, totalRooms)),
       },
       {
@@ -87,6 +90,7 @@ export class KpiEngineService {
         trend: this.getTrend(currentGOPPAR, prevGOPPAR).direction,
         trendPercentage: this.getTrend(currentGOPPAR, prevGOPPAR).percentage,
         icon: 'piggy-bank',
+        accent: 'emerald',
         sparklineData: current.map(f => this.calculateGOPPAR(f.dailyRevenue, f.operationalCosts, totalRooms)),
       },
     ];

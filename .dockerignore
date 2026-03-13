@@ -1,0 +1,13 @@
+node_modules
+dist
+.angular
+.git
+.gitignore
+.vscode
+.editorconfig
+.DS_Store
+*.md
+!README.md
+Thumbs.db
+coverage
+tmp

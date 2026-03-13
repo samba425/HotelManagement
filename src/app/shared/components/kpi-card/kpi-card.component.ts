@@ -53,7 +53,7 @@ import { PercentagePipe } from '../../pipes/percentage.pipe';
         </div>
         <span class="text-xs text-text-secondary">vs prev period</span>
       </div>
-      <div class="mt-3 h-8" *ngIf="sparklineData?.length">
+      <div class="mt-3 h-8" *ngIf="sparklineData.length">
         <canvas #sparkCanvas class="w-full h-full"></canvas>
       </div>
     </div>

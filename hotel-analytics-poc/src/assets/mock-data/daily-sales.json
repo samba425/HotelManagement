@@ -1,0 +1,2204 @@
+[
+  {
+    "date": "2026-02-11",
+    "dishId": "dish-002",
+    "unitsSold": 13,
+    "totalRevenue": 754
+  },
+  {
+    "date": "2026-02-11",
+    "dishId": "dish-018",
+    "unitsSold": 21,
+    "totalRevenue": 798
+  },
+  {
+    "date": "2026-02-11",
+    "dishId": "dish-016",
+    "unitsSold": 22,
+    "totalRevenue": 484
+  },
+  {
+    "date": "2026-02-11",
+    "dishId": "dish-015",
+    "unitsSold": 40,
+    "totalRevenue": 960
+  },
+  {
+    "date": "2026-02-11",
+    "dishId": "dish-009",
+    "unitsSold": 46,
+    "totalRevenue": 2576
+  },
+  {
+    "date": "2026-02-11",
+    "dishId": "dish-007",
+    "unitsSold": 9,
+    "totalRevenue": 432
+  },
+  {
+    "date": "2026-02-11",
+    "dishId": "dish-006",
+    "unitsSold": 43,
+    "totalRevenue": 1032
+  },
+  {
+    "date": "2026-02-11",
+    "dishId": "dish-028",
+    "unitsSold": 20,
+    "totalRevenue": 280
+  },
+  {
+    "date": "2026-02-11",
+    "dishId": "dish-003",
+    "unitsSold": 53,
+    "totalRevenue": 3286
+  },
+  {
+    "date": "2026-02-11",
+    "dishId": "dish-001",
+    "unitsSold": 49,
+    "totalRevenue": 2548
+  },
+  {
+    "date": "2026-02-12",
+    "dishId": "dish-027",
+    "unitsSold": 13,
+    "totalRevenue": 130
+  },
+  {
+    "date": "2026-02-12",
+    "dishId": "dish-015",
+    "unitsSold": 32,
+    "totalRevenue": 768
+  },
+  {
+    "date": "2026-02-12",
+    "dishId": "dish-029",
+    "unitsSold": 14,
+    "totalRevenue": 168
+  },
+  {
+    "date": "2026-02-12",
+    "dishId": "dish-018",
+    "unitsSold": 30,
+    "totalRevenue": 1140
+  },
+  {
+    "date": "2026-02-12",
+    "dishId": "dish-001",
+    "unitsSold": 30,
+    "totalRevenue": 1560
+  },
+  {
+    "date": "2026-02-12",
+    "dishId": "dish-011",
+    "unitsSold": 46,
+    "totalRevenue": 1472
+  },
+  {
+    "date": "2026-02-12",
+    "dishId": "dish-028",
+    "unitsSold": 24,
+    "totalRevenue": 336
+  },
+  {
+    "date": "2026-02-12",
+    "dishId": "dish-022",
+    "unitsSold": 10,
+    "totalRevenue": 260
+  },
+  {
+    "date": "2026-02-12",
+    "dishId": "dish-037",
+    "unitsSold": 54,
+    "totalRevenue": 648
+  },
+  {
+    "date": "2026-02-12",
+    "dishId": "dish-005",
+    "unitsSold": 37,
+    "totalRevenue": 2886
+  },
+  {
+    "date": "2026-02-12",
+    "dishId": "dish-007",
+    "unitsSold": 42,
+    "totalRevenue": 2016
+  },
+  {
+    "date": "2026-02-12",
+    "dishId": "dish-025",
+    "unitsSold": 15,
+    "totalRevenue": 210
+  },
+  {
+    "date": "2026-02-12",
+    "dishId": "dish-035",
+    "unitsSold": 32,
+    "totalRevenue": 384
+  },
+  {
+    "date": "2026-02-12",
+    "dishId": "dish-004",
+    "unitsSold": 13,
+    "totalRevenue": 884
+  },
+  {
+    "date": "2026-02-13",
+    "dishId": "dish-019",
+    "unitsSold": 25,
+    "totalRevenue": 450
+  },
+  {
+    "date": "2026-02-13",
+    "dishId": "dish-024",
+    "unitsSold": 37,
+    "totalRevenue": 666
+  },
+  {
+    "date": "2026-02-13",
+    "dishId": "dish-037",
+    "unitsSold": 48,
+    "totalRevenue": 576
+  },
+  {
+    "date": "2026-02-13",
+    "dishId": "dish-013",
+    "unitsSold": 31,
+    "totalRevenue": 868
+  },
+  {
+    "date": "2026-02-13",
+    "dishId": "dish-005",
+    "unitsSold": 26,
+    "totalRevenue": 2028
+  },
+  {
+    "date": "2026-02-13",
+    "dishId": "dish-003",
+    "unitsSold": 32,
+    "totalRevenue": 1984
+  },
+  {
+    "date": "2026-02-13",
+    "dishId": "dish-015",
+    "unitsSold": 52,
+    "totalRevenue": 1248
+  },
+  {
+    "date": "2026-02-13",
+    "dishId": "dish-040",
+    "unitsSold": 51,
+    "totalRevenue": 510
+  },
+  {
+    "date": "2026-02-13",
+    "dishId": "dish-006",
+    "unitsSold": 65,
+    "totalRevenue": 1560
+  },
+  {
+    "date": "2026-02-13",
+    "dishId": "dish-028",
+    "unitsSold": 48,
+    "totalRevenue": 672
+  },
+  {
+    "date": "2026-02-13",
+    "dishId": "dish-008",
+    "unitsSold": 27,
+    "totalRevenue": 1404
+  },
+  {
+    "date": "2026-02-13",
+    "dishId": "dish-031",
+    "unitsSold": 23,
+    "totalRevenue": 184
+  },
+  {
+    "date": "2026-02-13",
+    "dishId": "dish-004",
+    "unitsSold": 26,
+    "totalRevenue": 1768
+  },
+  {
+    "date": "2026-02-13",
+    "dishId": "dish-038",
+    "unitsSold": 25,
+    "totalRevenue": 300
+  },
+  {
+    "date": "2026-02-14",
+    "dishId": "dish-015",
+    "unitsSold": 29,
+    "totalRevenue": 696
+  },
+  {
+    "date": "2026-02-14",
+    "dishId": "dish-021",
+    "unitsSold": 68,
+    "totalRevenue": 2176
+  },
+  {
+    "date": "2026-02-14",
+    "dishId": "dish-004",
+    "unitsSold": 78,
+    "totalRevenue": 5304
+  },
+  {
+    "date": "2026-02-14",
+    "dishId": "dish-040",
+    "unitsSold": 68,
+    "totalRevenue": 680
+  },
+  {
+    "date": "2026-02-14",
+    "dishId": "dish-003",
+    "unitsSold": 69,
+    "totalRevenue": 4278
+  },
+  {
+    "date": "2026-02-14",
+    "dishId": "dish-039",
+    "unitsSold": 22,
+    "totalRevenue": 220
+  },
+  {
+    "date": "2026-02-14",
+    "dishId": "dish-026",
+    "unitsSold": 32,
+    "totalRevenue": 384
+  },
+  {
+    "date": "2026-02-14",
+    "dishId": "dish-018",
+    "unitsSold": 76,
+    "totalRevenue": 2888
+  },
+  {
+    "date": "2026-02-14",
+    "dishId": "dish-005",
+    "unitsSold": 90,
+    "totalRevenue": 7020
+  },
+  {
+    "date": "2026-02-14",
+    "dishId": "dish-007",
+    "unitsSold": 95,
+    "totalRevenue": 4560
+  },
+  {
+    "date": "2026-02-14",
+    "dishId": "dish-030",
+    "unitsSold": 62,
+    "totalRevenue": 620
+  },
+  {
+    "date": "2026-02-14",
+    "dishId": "dish-019",
+    "unitsSold": 46,
+    "totalRevenue": 828
+  },
+  {
+    "date": "2026-02-14",
+    "dishId": "dish-023",
+    "unitsSold": 43,
+    "totalRevenue": 946
+  },
+  {
+    "date": "2026-02-14",
+    "dishId": "dish-011",
+    "unitsSold": 30,
+    "totalRevenue": 960
+  },
+  {
+    "date": "2026-02-15",
+    "dishId": "dish-033",
+    "unitsSold": 64,
+    "totalRevenue": 640
+  },
+  {
+    "date": "2026-02-15",
+    "dishId": "dish-032",
+    "unitsSold": 51,
+    "totalRevenue": 612
+  },
+  {
+    "date": "2026-02-15",
+    "dishId": "dish-006",
+    "unitsSold": 57,
+    "totalRevenue": 1368
+  },
+  {
+    "date": "2026-02-15",
+    "dishId": "dish-004",
+    "unitsSold": 33,
+    "totalRevenue": 2244
+  },
+  {
+    "date": "2026-02-15",
+    "dishId": "dish-008",
+    "unitsSold": 60,
+    "totalRevenue": 3120
+  },
+  {
+    "date": "2026-02-15",
+    "dishId": "dish-010",
+    "unitsSold": 11,
+    "totalRevenue": 1045
+  },
+  {
+    "date": "2026-02-15",
+    "dishId": "dish-011",
+    "unitsSold": 71,
+    "totalRevenue": 2272
+  },
+  {
+    "date": "2026-02-15",
+    "dishId": "dish-028",
+    "unitsSold": 75,
+    "totalRevenue": 1050
+  },
+  {
+    "date": "2026-02-15",
+    "dishId": "dish-005",
+    "unitsSold": 20,
+    "totalRevenue": 1560
+  },
+  {
+    "date": "2026-02-15",
+    "dishId": "dish-013",
+    "unitsSold": 71,
+    "totalRevenue": 1988
+  },
+  {
+    "date": "2026-02-15",
+    "dishId": "dish-031",
+    "unitsSold": 58,
+    "totalRevenue": 464
+  },
+  {
+    "date": "2026-02-16",
+    "dishId": "dish-022",
+    "unitsSold": 48,
+    "totalRevenue": 1248
+  },
+  {
+    "date": "2026-02-16",
+    "dishId": "dish-008",
+    "unitsSold": 27,
+    "totalRevenue": 1404
+  },
+  {
+    "date": "2026-02-16",
+    "dishId": "dish-019",
+    "unitsSold": 48,
+    "totalRevenue": 864
+  },
+  {
+    "date": "2026-02-16",
+    "dishId": "dish-028",
+    "unitsSold": 40,
+    "totalRevenue": 560
+  },
+  {
+    "date": "2026-02-16",
+    "dishId": "dish-011",
+    "unitsSold": 46,
+    "totalRevenue": 1472
+  },
+  {
+    "date": "2026-02-16",
+    "dishId": "dish-030",
+    "unitsSold": 20,
+    "totalRevenue": 200
+  },
+  {
+    "date": "2026-02-16",
+    "dishId": "dish-001",
+    "unitsSold": 17,
+    "totalRevenue": 884
+  },
+  {
+    "date": "2026-02-16",
+    "dishId": "dish-017",
+    "unitsSold": 31,
+    "totalRevenue": 868
+  },
+  {
+    "date": "2026-02-16",
+    "dishId": "dish-012",
+    "unitsSold": 18,
+    "totalRevenue": 936
+  },
+  {
+    "date": "2026-02-16",
+    "dishId": "dish-033",
+    "unitsSold": 42,
+    "totalRevenue": 420
+  },
+  {
+    "date": "2026-02-16",
+    "dishId": "dish-035",
+    "unitsSold": 41,
+    "totalRevenue": 492
+  },
+  {
+    "date": "2026-02-16",
+    "dishId": "dish-004",
+    "unitsSold": 8,
+    "totalRevenue": 544
+  },
+  {
+    "date": "2026-02-17",
+    "dishId": "dish-021",
+    "unitsSold": 39,
+    "totalRevenue": 1248
+  },
+  {
+    "date": "2026-02-17",
+    "dishId": "dish-032",
+    "unitsSold": 12,
+    "totalRevenue": 144
+  },
+  {
+    "date": "2026-02-17",
+    "dishId": "dish-002",
+    "unitsSold": 42,
+    "totalRevenue": 2436
+  },
+  {
+    "date": "2026-02-17",
+    "dishId": "dish-008",
+    "unitsSold": 16,
+    "totalRevenue": 832
+  },
+  {
+    "date": "2026-02-17",
+    "dishId": "dish-024",
+    "unitsSold": 16,
+    "totalRevenue": 288
+  },
+  {
+    "date": "2026-02-17",
+    "dishId": "dish-020",
+    "unitsSold": 50,
+    "totalRevenue": 1100
+  },
+  {
+    "date": "2026-02-17",
+    "dishId": "dish-016",
+    "unitsSold": 38,
+    "totalRevenue": 836
+  },
+  {
+    "date": "2026-02-17",
+    "dishId": "dish-004",
+    "unitsSold": 43,
+    "totalRevenue": 2924
+  },
+  {
+    "date": "2026-02-17",
+    "dishId": "dish-034",
+    "unitsSold": 18,
+    "totalRevenue": 216
+  },
+  {
+    "date": "2026-02-17",
+    "dishId": "dish-029",
+    "unitsSold": 24,
+    "totalRevenue": 288
+  },
+  {
+    "date": "2026-02-17",
+    "dishId": "dish-019",
+    "unitsSold": 41,
+    "totalRevenue": 738
+  },
+  {
+    "date": "2026-02-17",
+    "dishId": "dish-003",
+    "unitsSold": 46,
+    "totalRevenue": 2852
+  },
+  {
+    "date": "2026-02-17",
+    "dishId": "dish-031",
+    "unitsSold": 35,
+    "totalRevenue": 280
+  },
+  {
+    "date": "2026-02-17",
+    "dishId": "dish-036",
+    "unitsSold": 21,
+    "totalRevenue": 294
+  },
+  {
+    "date": "2026-02-18",
+    "dishId": "dish-013",
+    "unitsSold": 43,
+    "totalRevenue": 1204
+  },
+  {
+    "date": "2026-02-18",
+    "dishId": "dish-020",
+    "unitsSold": 22,
+    "totalRevenue": 484
+  },
+  {
+    "date": "2026-02-18",
+    "dishId": "dish-026",
+    "unitsSold": 45,
+    "totalRevenue": 540
+  },
+  {
+    "date": "2026-02-18",
+    "dishId": "dish-024",
+    "unitsSold": 22,
+    "totalRevenue": 396
+  },
+  {
+    "date": "2026-02-18",
+    "dishId": "dish-029",
+    "unitsSold": 8,
+    "totalRevenue": 96
+  },
+  {
+    "date": "2026-02-18",
+    "dishId": "dish-034",
+    "unitsSold": 12,
+    "totalRevenue": 144
+  },
+  {
+    "date": "2026-02-18",
+    "dishId": "dish-036",
+    "unitsSold": 53,
+    "totalRevenue": 742
+  },
+  {
+    "date": "2026-02-18",
+    "dishId": "dish-008",
+    "unitsSold": 48,
+    "totalRevenue": 2496
+  },
+  {
+    "date": "2026-02-18",
+    "dishId": "dish-016",
+    "unitsSold": 11,
+    "totalRevenue": 242
+  },
+  {
+    "date": "2026-02-18",
+    "dishId": "dish-033",
+    "unitsSold": 22,
+    "totalRevenue": 220
+  },
+  {
+    "date": "2026-02-18",
+    "dishId": "dish-003",
+    "unitsSold": 12,
+    "totalRevenue": 744
+  },
+  {
+    "date": "2026-02-18",
+    "dishId": "dish-011",
+    "unitsSold": 10,
+    "totalRevenue": 320
+  },
+  {
+    "date": "2026-02-18",
+    "dishId": "dish-001",
+    "unitsSold": 29,
+    "totalRevenue": 1508
+  },
+  {
+    "date": "2026-02-18",
+    "dishId": "dish-019",
+    "unitsSold": 12,
+    "totalRevenue": 216
+  },
+  {
+    "date": "2026-02-19",
+    "dishId": "dish-016",
+    "unitsSold": 50,
+    "totalRevenue": 1100
+  },
+  {
+    "date": "2026-02-19",
+    "dishId": "dish-018",
+    "unitsSold": 35,
+    "totalRevenue": 1330
+  },
+  {
+    "date": "2026-02-19",
+    "dishId": "dish-032",
+    "unitsSold": 30,
+    "totalRevenue": 360
+  },
+  {
+    "date": "2026-02-19",
+    "dishId": "dish-014",
+    "unitsSold": 35,
+    "totalRevenue": 2975
+  },
+  {
+    "date": "2026-02-19",
+    "dishId": "dish-035",
+    "unitsSold": 34,
+    "totalRevenue": 408
+  },
+  {
+    "date": "2026-02-19",
+    "dishId": "dish-009",
+    "unitsSold": 37,
+    "totalRevenue": 2072
+  },
+  {
+    "date": "2026-02-19",
+    "dishId": "dish-031",
+    "unitsSold": 54,
+    "totalRevenue": 432
+  },
+  {
+    "date": "2026-02-19",
+    "dishId": "dish-040",
+    "unitsSold": 11,
+    "totalRevenue": 110
+  },
+  {
+    "date": "2026-02-19",
+    "dishId": "dish-034",
+    "unitsSold": 51,
+    "totalRevenue": 612
+  },
+  {
+    "date": "2026-02-19",
+    "dishId": "dish-026",
+    "unitsSold": 49,
+    "totalRevenue": 588
+  },
+  {
+    "date": "2026-02-19",
+    "dishId": "dish-037",
+    "unitsSold": 49,
+    "totalRevenue": 588
+  },
+  {
+    "date": "2026-02-19",
+    "dishId": "dish-007",
+    "unitsSold": 14,
+    "totalRevenue": 672
+  },
+  {
+    "date": "2026-02-19",
+    "dishId": "dish-004",
+    "unitsSold": 11,
+    "totalRevenue": 748
+  },
+  {
+    "date": "2026-02-19",
+    "dishId": "dish-028",
+    "unitsSold": 33,
+    "totalRevenue": 462
+  },
+  {
+    "date": "2026-02-20",
+    "dishId": "dish-007",
+    "unitsSold": 17,
+    "totalRevenue": 816
+  },
+  {
+    "date": "2026-02-20",
+    "dishId": "dish-016",
+    "unitsSold": 43,
+    "totalRevenue": 946
+  },
+  {
+    "date": "2026-02-20",
+    "dishId": "dish-013",
+    "unitsSold": 14,
+    "totalRevenue": 392
+  },
+  {
+    "date": "2026-02-20",
+    "dishId": "dish-038",
+    "unitsSold": 11,
+    "totalRevenue": 132
+  },
+  {
+    "date": "2026-02-20",
+    "dishId": "dish-035",
+    "unitsSold": 49,
+    "totalRevenue": 588
+  },
+  {
+    "date": "2026-02-20",
+    "dishId": "dish-029",
+    "unitsSold": 42,
+    "totalRevenue": 504
+  },
+  {
+    "date": "2026-02-20",
+    "dishId": "dish-009",
+    "unitsSold": 13,
+    "totalRevenue": 728
+  },
+  {
+    "date": "2026-02-20",
+    "dishId": "dish-028",
+    "unitsSold": 23,
+    "totalRevenue": 322
+  },
+  {
+    "date": "2026-02-20",
+    "dishId": "dish-012",
+    "unitsSold": 18,
+    "totalRevenue": 936
+  },
+  {
+    "date": "2026-02-20",
+    "dishId": "dish-034",
+    "unitsSold": 34,
+    "totalRevenue": 408
+  },
+  {
+    "date": "2026-02-20",
+    "dishId": "dish-015",
+    "unitsSold": 39,
+    "totalRevenue": 936
+  },
+  {
+    "date": "2026-02-20",
+    "dishId": "dish-008",
+    "unitsSold": 52,
+    "totalRevenue": 2704
+  },
+  {
+    "date": "2026-02-21",
+    "dishId": "dish-011",
+    "unitsSold": 25,
+    "totalRevenue": 800
+  },
+  {
+    "date": "2026-02-21",
+    "dishId": "dish-025",
+    "unitsSold": 33,
+    "totalRevenue": 462
+  },
+  {
+    "date": "2026-02-21",
+    "dishId": "dish-001",
+    "unitsSold": 44,
+    "totalRevenue": 2288
+  },
+  {
+    "date": "2026-02-21",
+    "dishId": "dish-039",
+    "unitsSold": 57,
+    "totalRevenue": 570
+  },
+  {
+    "date": "2026-02-21",
+    "dishId": "dish-017",
+    "unitsSold": 70,
+    "totalRevenue": 1960
+  },
+  {
+    "date": "2026-02-21",
+    "dishId": "dish-030",
+    "unitsSold": 53,
+    "totalRevenue": 530
+  },
+  {
+    "date": "2026-02-21",
+    "dishId": "dish-019",
+    "unitsSold": 14,
+    "totalRevenue": 252
+  },
+  {
+    "date": "2026-02-21",
+    "dishId": "dish-028",
+    "unitsSold": 70,
+    "totalRevenue": 980
+  },
+  {
+    "date": "2026-02-21",
+    "dishId": "dish-032",
+    "unitsSold": 35,
+    "totalRevenue": 420
+  },
+  {
+    "date": "2026-02-21",
+    "dishId": "dish-005",
+    "unitsSold": 17,
+    "totalRevenue": 1326
+  },
+  {
+    "date": "2026-02-22",
+    "dishId": "dish-011",
+    "unitsSold": 59,
+    "totalRevenue": 1888
+  },
+  {
+    "date": "2026-02-22",
+    "dishId": "dish-004",
+    "unitsSold": 12,
+    "totalRevenue": 816
+  },
+  {
+    "date": "2026-02-22",
+    "dishId": "dish-033",
+    "unitsSold": 60,
+    "totalRevenue": 600
+  },
+  {
+    "date": "2026-02-22",
+    "dishId": "dish-006",
+    "unitsSold": 16,
+    "totalRevenue": 384
+  },
+  {
+    "date": "2026-02-22",
+    "dishId": "dish-012",
+    "unitsSold": 44,
+    "totalRevenue": 2288
+  },
+  {
+    "date": "2026-02-22",
+    "dishId": "dish-005",
+    "unitsSold": 64,
+    "totalRevenue": 4992
+  },
+  {
+    "date": "2026-02-22",
+    "dishId": "dish-035",
+    "unitsSold": 58,
+    "totalRevenue": 696
+  },
+  {
+    "date": "2026-02-22",
+    "dishId": "dish-016",
+    "unitsSold": 56,
+    "totalRevenue": 1232
+  },
+  {
+    "date": "2026-02-22",
+    "dishId": "dish-026",
+    "unitsSold": 53,
+    "totalRevenue": 636
+  },
+  {
+    "date": "2026-02-22",
+    "dishId": "dish-039",
+    "unitsSold": 36,
+    "totalRevenue": 360
+  },
+  {
+    "date": "2026-02-22",
+    "dishId": "dish-029",
+    "unitsSold": 31,
+    "totalRevenue": 372
+  },
+  {
+    "date": "2026-02-22",
+    "dishId": "dish-019",
+    "unitsSold": 27,
+    "totalRevenue": 486
+  },
+  {
+    "date": "2026-02-22",
+    "dishId": "dish-008",
+    "unitsSold": 64,
+    "totalRevenue": 3328
+  },
+  {
+    "date": "2026-02-22",
+    "dishId": "dish-030",
+    "unitsSold": 68,
+    "totalRevenue": 680
+  },
+  {
+    "date": "2026-02-23",
+    "dishId": "dish-016",
+    "unitsSold": 14,
+    "totalRevenue": 308
+  },
+  {
+    "date": "2026-02-23",
+    "dishId": "dish-017",
+    "unitsSold": 12,
+    "totalRevenue": 336
+  },
+  {
+    "date": "2026-02-23",
+    "dishId": "dish-026",
+    "unitsSold": 42,
+    "totalRevenue": 504
+  },
+  {
+    "date": "2026-02-23",
+    "dishId": "dish-009",
+    "unitsSold": 21,
+    "totalRevenue": 1176
+  },
+  {
+    "date": "2026-02-23",
+    "dishId": "dish-020",
+    "unitsSold": 40,
+    "totalRevenue": 880
+  },
+  {
+    "date": "2026-02-23",
+    "dishId": "dish-030",
+    "unitsSold": 24,
+    "totalRevenue": 240
+  },
+  {
+    "date": "2026-02-23",
+    "dishId": "dish-021",
+    "unitsSold": 16,
+    "totalRevenue": 512
+  },
+  {
+    "date": "2026-02-23",
+    "dishId": "dish-005",
+    "unitsSold": 30,
+    "totalRevenue": 2340
+  },
+  {
+    "date": "2026-02-23",
+    "dishId": "dish-001",
+    "unitsSold": 12,
+    "totalRevenue": 624
+  },
+  {
+    "date": "2026-02-23",
+    "dishId": "dish-015",
+    "unitsSold": 23,
+    "totalRevenue": 552
+  },
+  {
+    "date": "2026-02-23",
+    "dishId": "dish-036",
+    "unitsSold": 31,
+    "totalRevenue": 434
+  },
+  {
+    "date": "2026-02-23",
+    "dishId": "dish-019",
+    "unitsSold": 26,
+    "totalRevenue": 468
+  },
+  {
+    "date": "2026-02-24",
+    "dishId": "dish-029",
+    "unitsSold": 14,
+    "totalRevenue": 168
+  },
+  {
+    "date": "2026-02-24",
+    "dishId": "dish-035",
+    "unitsSold": 55,
+    "totalRevenue": 660
+  },
+  {
+    "date": "2026-02-24",
+    "dishId": "dish-020",
+    "unitsSold": 43,
+    "totalRevenue": 946
+  },
+  {
+    "date": "2026-02-24",
+    "dishId": "dish-034",
+    "unitsSold": 17,
+    "totalRevenue": 204
+  },
+  {
+    "date": "2026-02-24",
+    "dishId": "dish-001",
+    "unitsSold": 25,
+    "totalRevenue": 1300
+  },
+  {
+    "date": "2026-02-24",
+    "dishId": "dish-038",
+    "unitsSold": 26,
+    "totalRevenue": 312
+  },
+  {
+    "date": "2026-02-24",
+    "dishId": "dish-007",
+    "unitsSold": 46,
+    "totalRevenue": 2208
+  },
+  {
+    "date": "2026-02-24",
+    "dishId": "dish-009",
+    "unitsSold": 21,
+    "totalRevenue": 1176
+  },
+  {
+    "date": "2026-02-24",
+    "dishId": "dish-017",
+    "unitsSold": 53,
+    "totalRevenue": 1484
+  },
+  {
+    "date": "2026-02-24",
+    "dishId": "dish-004",
+    "unitsSold": 29,
+    "totalRevenue": 1972
+  },
+  {
+    "date": "2026-02-24",
+    "dishId": "dish-040",
+    "unitsSold": 21,
+    "totalRevenue": 210
+  },
+  {
+    "date": "2026-02-25",
+    "dishId": "dish-033",
+    "unitsSold": 48,
+    "totalRevenue": 480
+  },
+  {
+    "date": "2026-02-25",
+    "dishId": "dish-032",
+    "unitsSold": 24,
+    "totalRevenue": 288
+  },
+  {
+    "date": "2026-02-25",
+    "dishId": "dish-017",
+    "unitsSold": 18,
+    "totalRevenue": 504
+  },
+  {
+    "date": "2026-02-25",
+    "dishId": "dish-004",
+    "unitsSold": 55,
+    "totalRevenue": 3740
+  },
+  {
+    "date": "2026-02-25",
+    "dishId": "dish-006",
+    "unitsSold": 36,
+    "totalRevenue": 864
+  },
+  {
+    "date": "2026-02-25",
+    "dishId": "dish-028",
+    "unitsSold": 43,
+    "totalRevenue": 602
+  },
+  {
+    "date": "2026-02-25",
+    "dishId": "dish-018",
+    "unitsSold": 53,
+    "totalRevenue": 2014
+  },
+  {
+    "date": "2026-02-25",
+    "dishId": "dish-003",
+    "unitsSold": 35,
+    "totalRevenue": 2170
+  },
+  {
+    "date": "2026-02-25",
+    "dishId": "dish-001",
+    "unitsSold": 43,
+    "totalRevenue": 2236
+  },
+  {
+    "date": "2026-02-25",
+    "dishId": "dish-011",
+    "unitsSold": 8,
+    "totalRevenue": 256
+  },
+  {
+    "date": "2026-02-25",
+    "dishId": "dish-025",
+    "unitsSold": 15,
+    "totalRevenue": 210
+  },
+  {
+    "date": "2026-02-25",
+    "dishId": "dish-005",
+    "unitsSold": 12,
+    "totalRevenue": 936
+  },
+  {
+    "date": "2026-02-26",
+    "dishId": "dish-035",
+    "unitsSold": 10,
+    "totalRevenue": 120
+  },
+  {
+    "date": "2026-02-26",
+    "dishId": "dish-003",
+    "unitsSold": 30,
+    "totalRevenue": 1860
+  },
+  {
+    "date": "2026-02-26",
+    "dishId": "dish-024",
+    "unitsSold": 21,
+    "totalRevenue": 378
+  },
+  {
+    "date": "2026-02-26",
+    "dishId": "dish-036",
+    "unitsSold": 51,
+    "totalRevenue": 714
+  },
+  {
+    "date": "2026-02-26",
+    "dishId": "dish-010",
+    "unitsSold": 23,
+    "totalRevenue": 2185
+  },
+  {
+    "date": "2026-02-26",
+    "dishId": "dish-028",
+    "unitsSold": 50,
+    "totalRevenue": 700
+  },
+  {
+    "date": "2026-02-26",
+    "dishId": "dish-009",
+    "unitsSold": 14,
+    "totalRevenue": 784
+  },
+  {
+    "date": "2026-02-26",
+    "dishId": "dish-039",
+    "unitsSold": 30,
+    "totalRevenue": 300
+  },
+  {
+    "date": "2026-02-26",
+    "dishId": "dish-020",
+    "unitsSold": 43,
+    "totalRevenue": 946
+  },
+  {
+    "date": "2026-02-26",
+    "dishId": "dish-012",
+    "unitsSold": 34,
+    "totalRevenue": 1768
+  },
+  {
+    "date": "2026-02-26",
+    "dishId": "dish-029",
+    "unitsSold": 47,
+    "totalRevenue": 564
+  },
+  {
+    "date": "2026-02-27",
+    "dishId": "dish-016",
+    "unitsSold": 52,
+    "totalRevenue": 1144
+  },
+  {
+    "date": "2026-02-27",
+    "dishId": "dish-011",
+    "unitsSold": 14,
+    "totalRevenue": 448
+  },
+  {
+    "date": "2026-02-27",
+    "dishId": "dish-012",
+    "unitsSold": 32,
+    "totalRevenue": 1664
+  },
+  {
+    "date": "2026-02-27",
+    "dishId": "dish-027",
+    "unitsSold": 10,
+    "totalRevenue": 100
+  },
+  {
+    "date": "2026-02-27",
+    "dishId": "dish-002",
+    "unitsSold": 52,
+    "totalRevenue": 3016
+  },
+  {
+    "date": "2026-02-27",
+    "dishId": "dish-038",
+    "unitsSold": 37,
+    "totalRevenue": 444
+  },
+  {
+    "date": "2026-02-27",
+    "dishId": "dish-022",
+    "unitsSold": 30,
+    "totalRevenue": 780
+  },
+  {
+    "date": "2026-02-27",
+    "dishId": "dish-037",
+    "unitsSold": 27,
+    "totalRevenue": 324
+  },
+  {
+    "date": "2026-02-27",
+    "dishId": "dish-040",
+    "unitsSold": 22,
+    "totalRevenue": 220
+  },
+  {
+    "date": "2026-02-27",
+    "dishId": "dish-009",
+    "unitsSold": 28,
+    "totalRevenue": 1568
+  },
+  {
+    "date": "2026-02-27",
+    "dishId": "dish-006",
+    "unitsSold": 29,
+    "totalRevenue": 696
+  },
+  {
+    "date": "2026-02-28",
+    "dishId": "dish-018",
+    "unitsSold": 56,
+    "totalRevenue": 2128
+  },
+  {
+    "date": "2026-02-28",
+    "dishId": "dish-023",
+    "unitsSold": 30,
+    "totalRevenue": 660
+  },
+  {
+    "date": "2026-02-28",
+    "dishId": "dish-033",
+    "unitsSold": 12,
+    "totalRevenue": 120
+  },
+  {
+    "date": "2026-02-28",
+    "dishId": "dish-026",
+    "unitsSold": 17,
+    "totalRevenue": 204
+  },
+  {
+    "date": "2026-02-28",
+    "dishId": "dish-035",
+    "unitsSold": 57,
+    "totalRevenue": 684
+  },
+  {
+    "date": "2026-02-28",
+    "dishId": "dish-022",
+    "unitsSold": 43,
+    "totalRevenue": 1118
+  },
+  {
+    "date": "2026-02-28",
+    "dishId": "dish-002",
+    "unitsSold": 59,
+    "totalRevenue": 3422
+  },
+  {
+    "date": "2026-02-28",
+    "dishId": "dish-008",
+    "unitsSold": 51,
+    "totalRevenue": 2652
+  },
+  {
+    "date": "2026-02-28",
+    "dishId": "dish-017",
+    "unitsSold": 50,
+    "totalRevenue": 1400
+  },
+  {
+    "date": "2026-02-28",
+    "dishId": "dish-006",
+    "unitsSold": 26,
+    "totalRevenue": 624
+  },
+  {
+    "date": "2026-03-01",
+    "dishId": "dish-003",
+    "unitsSold": 61,
+    "totalRevenue": 3782
+  },
+  {
+    "date": "2026-03-01",
+    "dishId": "dish-028",
+    "unitsSold": 36,
+    "totalRevenue": 504
+  },
+  {
+    "date": "2026-03-01",
+    "dishId": "dish-001",
+    "unitsSold": 65,
+    "totalRevenue": 3380
+  },
+  {
+    "date": "2026-03-01",
+    "dishId": "dish-034",
+    "unitsSold": 19,
+    "totalRevenue": 228
+  },
+  {
+    "date": "2026-03-01",
+    "dishId": "dish-035",
+    "unitsSold": 71,
+    "totalRevenue": 852
+  },
+  {
+    "date": "2026-03-01",
+    "dishId": "dish-013",
+    "unitsSold": 35,
+    "totalRevenue": 980
+  },
+  {
+    "date": "2026-03-01",
+    "dishId": "dish-024",
+    "unitsSold": 52,
+    "totalRevenue": 936
+  },
+  {
+    "date": "2026-03-01",
+    "dishId": "dish-039",
+    "unitsSold": 35,
+    "totalRevenue": 350
+  },
+  {
+    "date": "2026-03-01",
+    "dishId": "dish-005",
+    "unitsSold": 65,
+    "totalRevenue": 5070
+  },
+  {
+    "date": "2026-03-01",
+    "dishId": "dish-031",
+    "unitsSold": 44,
+    "totalRevenue": 352
+  },
+  {
+    "date": "2026-03-01",
+    "dishId": "dish-022",
+    "unitsSold": 36,
+    "totalRevenue": 936
+  },
+  {
+    "date": "2026-03-01",
+    "dishId": "dish-011",
+    "unitsSold": 43,
+    "totalRevenue": 1376
+  },
+  {
+    "date": "2026-03-02",
+    "dishId": "dish-036",
+    "unitsSold": 35,
+    "totalRevenue": 490
+  },
+  {
+    "date": "2026-03-02",
+    "dishId": "dish-009",
+    "unitsSold": 45,
+    "totalRevenue": 2520
+  },
+  {
+    "date": "2026-03-02",
+    "dishId": "dish-013",
+    "unitsSold": 46,
+    "totalRevenue": 1288
+  },
+  {
+    "date": "2026-03-02",
+    "dishId": "dish-027",
+    "unitsSold": 49,
+    "totalRevenue": 490
+  },
+  {
+    "date": "2026-03-02",
+    "dishId": "dish-025",
+    "unitsSold": 28,
+    "totalRevenue": 392
+  },
+  {
+    "date": "2026-03-02",
+    "dishId": "dish-012",
+    "unitsSold": 37,
+    "totalRevenue": 1924
+  },
+  {
+    "date": "2026-03-02",
+    "dishId": "dish-020",
+    "unitsSold": 36,
+    "totalRevenue": 792
+  },
+  {
+    "date": "2026-03-02",
+    "dishId": "dish-026",
+    "unitsSold": 36,
+    "totalRevenue": 432
+  },
+  {
+    "date": "2026-03-02",
+    "dishId": "dish-001",
+    "unitsSold": 51,
+    "totalRevenue": 2652
+  },
+  {
+    "date": "2026-03-02",
+    "dishId": "dish-010",
+    "unitsSold": 21,
+    "totalRevenue": 1995
+  },
+  {
+    "date": "2026-03-02",
+    "dishId": "dish-031",
+    "unitsSold": 40,
+    "totalRevenue": 320
+  },
+  {
+    "date": "2026-03-02",
+    "dishId": "dish-007",
+    "unitsSold": 38,
+    "totalRevenue": 1824
+  },
+  {
+    "date": "2026-03-03",
+    "dishId": "dish-006",
+    "unitsSold": 10,
+    "totalRevenue": 240
+  },
+  {
+    "date": "2026-03-03",
+    "dishId": "dish-019",
+    "unitsSold": 23,
+    "totalRevenue": 414
+  },
+  {
+    "date": "2026-03-03",
+    "dishId": "dish-033",
+    "unitsSold": 38,
+    "totalRevenue": 380
+  },
+  {
+    "date": "2026-03-03",
+    "dishId": "dish-022",
+    "unitsSold": 47,
+    "totalRevenue": 1222
+  },
+  {
+    "date": "2026-03-03",
+    "dishId": "dish-040",
+    "unitsSold": 12,
+    "totalRevenue": 120
+  },
+  {
+    "date": "2026-03-03",
+    "dishId": "dish-016",
+    "unitsSold": 37,
+    "totalRevenue": 814
+  },
+  {
+    "date": "2026-03-03",
+    "dishId": "dish-020",
+    "unitsSold": 34,
+    "totalRevenue": 748
+  },
+  {
+    "date": "2026-03-03",
+    "dishId": "dish-015",
+    "unitsSold": 48,
+    "totalRevenue": 1152
+  },
+  {
+    "date": "2026-03-03",
+    "dishId": "dish-013",
+    "unitsSold": 44,
+    "totalRevenue": 1232
+  },
+  {
+    "date": "2026-03-03",
+    "dishId": "dish-005",
+    "unitsSold": 20,
+    "totalRevenue": 1560
+  },
+  {
+    "date": "2026-03-03",
+    "dishId": "dish-001",
+    "unitsSold": 53,
+    "totalRevenue": 2756
+  },
+  {
+    "date": "2026-03-04",
+    "dishId": "dish-032",
+    "unitsSold": 11,
+    "totalRevenue": 132
+  },
+  {
+    "date": "2026-03-04",
+    "dishId": "dish-026",
+    "unitsSold": 43,
+    "totalRevenue": 516
+  },
+  {
+    "date": "2026-03-04",
+    "dishId": "dish-016",
+    "unitsSold": 23,
+    "totalRevenue": 506
+  },
+  {
+    "date": "2026-03-04",
+    "dishId": "dish-010",
+    "unitsSold": 15,
+    "totalRevenue": 1425
+  },
+  {
+    "date": "2026-03-04",
+    "dishId": "dish-001",
+    "unitsSold": 37,
+    "totalRevenue": 1924
+  },
+  {
+    "date": "2026-03-04",
+    "dishId": "dish-007",
+    "unitsSold": 16,
+    "totalRevenue": 768
+  },
+  {
+    "date": "2026-03-04",
+    "dishId": "dish-028",
+    "unitsSold": 37,
+    "totalRevenue": 518
+  },
+  {
+    "date": "2026-03-04",
+    "dishId": "dish-015",
+    "unitsSold": 50,
+    "totalRevenue": 1200
+  },
+  {
+    "date": "2026-03-04",
+    "dishId": "dish-012",
+    "unitsSold": 41,
+    "totalRevenue": 2132
+  },
+  {
+    "date": "2026-03-04",
+    "dishId": "dish-039",
+    "unitsSold": 43,
+    "totalRevenue": 430
+  },
+  {
+    "date": "2026-03-04",
+    "dishId": "dish-023",
+    "unitsSold": 46,
+    "totalRevenue": 1012
+  },
+  {
+    "date": "2026-03-04",
+    "dishId": "dish-017",
+    "unitsSold": 28,
+    "totalRevenue": 784
+  },
+  {
+    "date": "2026-03-04",
+    "dishId": "dish-033",
+    "unitsSold": 36,
+    "totalRevenue": 360
+  },
+  {
+    "date": "2026-03-05",
+    "dishId": "dish-033",
+    "unitsSold": 41,
+    "totalRevenue": 410
+  },
+  {
+    "date": "2026-03-05",
+    "dishId": "dish-028",
+    "unitsSold": 39,
+    "totalRevenue": 546
+  },
+  {
+    "date": "2026-03-05",
+    "dishId": "dish-036",
+    "unitsSold": 48,
+    "totalRevenue": 672
+  },
+  {
+    "date": "2026-03-05",
+    "dishId": "dish-029",
+    "unitsSold": 23,
+    "totalRevenue": 276
+  },
+  {
+    "date": "2026-03-05",
+    "dishId": "dish-011",
+    "unitsSold": 25,
+    "totalRevenue": 800
+  },
+  {
+    "date": "2026-03-05",
+    "dishId": "dish-031",
+    "unitsSold": 36,
+    "totalRevenue": 288
+  },
+  {
+    "date": "2026-03-05",
+    "dishId": "dish-037",
+    "unitsSold": 12,
+    "totalRevenue": 144
+  },
+  {
+    "date": "2026-03-05",
+    "dishId": "dish-017",
+    "unitsSold": 53,
+    "totalRevenue": 1484
+  },
+  {
+    "date": "2026-03-05",
+    "dishId": "dish-016",
+    "unitsSold": 26,
+    "totalRevenue": 572
+  },
+  {
+    "date": "2026-03-05",
+    "dishId": "dish-027",
+    "unitsSold": 23,
+    "totalRevenue": 230
+  },
+  {
+    "date": "2026-03-05",
+    "dishId": "dish-021",
+    "unitsSold": 25,
+    "totalRevenue": 800
+  },
+  {
+    "date": "2026-03-05",
+    "dishId": "dish-009",
+    "unitsSold": 29,
+    "totalRevenue": 1624
+  },
+  {
+    "date": "2026-03-05",
+    "dishId": "dish-025",
+    "unitsSold": 28,
+    "totalRevenue": 392
+  },
+  {
+    "date": "2026-03-05",
+    "dishId": "dish-039",
+    "unitsSold": 42,
+    "totalRevenue": 420
+  },
+  {
+    "date": "2026-03-06",
+    "dishId": "dish-009",
+    "unitsSold": 62,
+    "totalRevenue": 3472
+  },
+  {
+    "date": "2026-03-06",
+    "dishId": "dish-010",
+    "unitsSold": 15,
+    "totalRevenue": 1425
+  },
+  {
+    "date": "2026-03-06",
+    "dishId": "dish-015",
+    "unitsSold": 34,
+    "totalRevenue": 816
+  },
+  {
+    "date": "2026-03-06",
+    "dishId": "dish-025",
+    "unitsSold": 32,
+    "totalRevenue": 448
+  },
+  {
+    "date": "2026-03-06",
+    "dishId": "dish-039",
+    "unitsSold": 45,
+    "totalRevenue": 450
+  },
+  {
+    "date": "2026-03-06",
+    "dishId": "dish-014",
+    "unitsSold": 52,
+    "totalRevenue": 4420
+  },
+  {
+    "date": "2026-03-06",
+    "dishId": "dish-005",
+    "unitsSold": 14,
+    "totalRevenue": 1092
+  },
+  {
+    "date": "2026-03-06",
+    "dishId": "dish-027",
+    "unitsSold": 44,
+    "totalRevenue": 440
+  },
+  {
+    "date": "2026-03-06",
+    "dishId": "dish-033",
+    "unitsSold": 32,
+    "totalRevenue": 320
+  },
+  {
+    "date": "2026-03-06",
+    "dishId": "dish-011",
+    "unitsSold": 38,
+    "totalRevenue": 1216
+  },
+  {
+    "date": "2026-03-07",
+    "dishId": "dish-020",
+    "unitsSold": 38,
+    "totalRevenue": 836
+  },
+  {
+    "date": "2026-03-07",
+    "dishId": "dish-025",
+    "unitsSold": 34,
+    "totalRevenue": 476
+  },
+  {
+    "date": "2026-03-07",
+    "dishId": "dish-027",
+    "unitsSold": 60,
+    "totalRevenue": 600
+  },
+  {
+    "date": "2026-03-07",
+    "dishId": "dish-035",
+    "unitsSold": 61,
+    "totalRevenue": 732
+  },
+  {
+    "date": "2026-03-07",
+    "dishId": "dish-037",
+    "unitsSold": 39,
+    "totalRevenue": 468
+  },
+  {
+    "date": "2026-03-07",
+    "dishId": "dish-015",
+    "unitsSold": 64,
+    "totalRevenue": 1536
+  },
+  {
+    "date": "2026-03-07",
+    "dishId": "dish-032",
+    "unitsSold": 21,
+    "totalRevenue": 252
+  },
+  {
+    "date": "2026-03-07",
+    "dishId": "dish-036",
+    "unitsSold": 44,
+    "totalRevenue": 616
+  },
+  {
+    "date": "2026-03-07",
+    "dishId": "dish-018",
+    "unitsSold": 19,
+    "totalRevenue": 722
+  },
+  {
+    "date": "2026-03-07",
+    "dishId": "dish-014",
+    "unitsSold": 56,
+    "totalRevenue": 4760
+  },
+  {
+    "date": "2026-03-07",
+    "dishId": "dish-016",
+    "unitsSold": 50,
+    "totalRevenue": 1100
+  },
+  {
+    "date": "2026-03-07",
+    "dishId": "dish-001",
+    "unitsSold": 16,
+    "totalRevenue": 832
+  },
+  {
+    "date": "2026-03-08",
+    "dishId": "dish-006",
+    "unitsSold": 48,
+    "totalRevenue": 1152
+  },
+  {
+    "date": "2026-03-08",
+    "dishId": "dish-028",
+    "unitsSold": 36,
+    "totalRevenue": 504
+  },
+  {
+    "date": "2026-03-08",
+    "dishId": "dish-009",
+    "unitsSold": 38,
+    "totalRevenue": 2128
+  },
+  {
+    "date": "2026-03-08",
+    "dishId": "dish-030",
+    "unitsSold": 42,
+    "totalRevenue": 420
+  },
+  {
+    "date": "2026-03-08",
+    "dishId": "dish-012",
+    "unitsSold": 32,
+    "totalRevenue": 1664
+  },
+  {
+    "date": "2026-03-08",
+    "dishId": "dish-004",
+    "unitsSold": 44,
+    "totalRevenue": 2992
+  },
+  {
+    "date": "2026-03-08",
+    "dishId": "dish-017",
+    "unitsSold": 31,
+    "totalRevenue": 868
+  },
+  {
+    "date": "2026-03-08",
+    "dishId": "dish-025",
+    "unitsSold": 17,
+    "totalRevenue": 238
+  },
+  {
+    "date": "2026-03-08",
+    "dishId": "dish-021",
+    "unitsSold": 50,
+    "totalRevenue": 1600
+  },
+  {
+    "date": "2026-03-08",
+    "dishId": "dish-007",
+    "unitsSold": 11,
+    "totalRevenue": 528
+  },
+  {
+    "date": "2026-03-09",
+    "dishId": "dish-004",
+    "unitsSold": 50,
+    "totalRevenue": 3400
+  },
+  {
+    "date": "2026-03-09",
+    "dishId": "dish-023",
+    "unitsSold": 15,
+    "totalRevenue": 330
+  },
+  {
+    "date": "2026-03-09",
+    "dishId": "dish-015",
+    "unitsSold": 44,
+    "totalRevenue": 1056
+  },
+  {
+    "date": "2026-03-09",
+    "dishId": "dish-005",
+    "unitsSold": 21,
+    "totalRevenue": 1638
+  },
+  {
+    "date": "2026-03-09",
+    "dishId": "dish-003",
+    "unitsSold": 37,
+    "totalRevenue": 2294
+  },
+  {
+    "date": "2026-03-09",
+    "dishId": "dish-002",
+    "unitsSold": 52,
+    "totalRevenue": 3016
+  },
+  {
+    "date": "2026-03-09",
+    "dishId": "dish-016",
+    "unitsSold": 24,
+    "totalRevenue": 528
+  },
+  {
+    "date": "2026-03-09",
+    "dishId": "dish-013",
+    "unitsSold": 31,
+    "totalRevenue": 868
+  },
+  {
+    "date": "2026-03-09",
+    "dishId": "dish-035",
+    "unitsSold": 18,
+    "totalRevenue": 216
+  },
+  {
+    "date": "2026-03-09",
+    "dishId": "dish-020",
+    "unitsSold": 46,
+    "totalRevenue": 1012
+  },
+  {
+    "date": "2026-03-09",
+    "dishId": "dish-037",
+    "unitsSold": 46,
+    "totalRevenue": 552
+  },
+  {
+    "date": "2026-03-09",
+    "dishId": "dish-008",
+    "unitsSold": 55,
+    "totalRevenue": 2860
+  },
+  {
+    "date": "2026-03-09",
+    "dishId": "dish-030",
+    "unitsSold": 53,
+    "totalRevenue": 530
+  },
+  {
+    "date": "2026-03-09",
+    "dishId": "dish-034",
+    "unitsSold": 15,
+    "totalRevenue": 180
+  },
+  {
+    "date": "2026-03-10",
+    "dishId": "dish-020",
+    "unitsSold": 48,
+    "totalRevenue": 1056
+  },
+  {
+    "date": "2026-03-10",
+    "dishId": "dish-007",
+    "unitsSold": 23,
+    "totalRevenue": 1104
+  },
+  {
+    "date": "2026-03-10",
+    "dishId": "dish-038",
+    "unitsSold": 14,
+    "totalRevenue": 168
+  },
+  {
+    "date": "2026-03-10",
+    "dishId": "dish-002",
+    "unitsSold": 52,
+    "totalRevenue": 3016
+  },
+  {
+    "date": "2026-03-10",
+    "dishId": "dish-040",
+    "unitsSold": 27,
+    "totalRevenue": 270
+  },
+  {
+    "date": "2026-03-10",
+    "dishId": "dish-025",
+    "unitsSold": 51,
+    "totalRevenue": 714
+  },
+  {
+    "date": "2026-03-10",
+    "dishId": "dish-026",
+    "unitsSold": 46,
+    "totalRevenue": 552
+  },
+  {
+    "date": "2026-03-10",
+    "dishId": "dish-013",
+    "unitsSold": 15,
+    "totalRevenue": 420
+  },
+  {
+    "date": "2026-03-10",
+    "dishId": "dish-005",
+    "unitsSold": 44,
+    "totalRevenue": 3432
+  },
+  {
+    "date": "2026-03-10",
+    "dishId": "dish-019",
+    "unitsSold": 10,
+    "totalRevenue": 180
+  },
+  {
+    "date": "2026-03-10",
+    "dishId": "dish-023",
+    "unitsSold": 30,
+    "totalRevenue": 660
+  },
+  {
+    "date": "2026-03-11",
+    "dishId": "dish-028",
+    "unitsSold": 53,
+    "totalRevenue": 742
+  },
+  {
+    "date": "2026-03-11",
+    "dishId": "dish-024",
+    "unitsSold": 17,
+    "totalRevenue": 306
+  },
+  {
+    "date": "2026-03-11",
+    "dishId": "dish-005",
+    "unitsSold": 35,
+    "totalRevenue": 2730
+  },
+  {
+    "date": "2026-03-11",
+    "dishId": "dish-033",
+    "unitsSold": 19,
+    "totalRevenue": 190
+  },
+  {
+    "date": "2026-03-11",
+    "dishId": "dish-022",
+    "unitsSold": 54,
+    "totalRevenue": 1404
+  },
+  {
+    "date": "2026-03-11",
+    "dishId": "dish-001",
+    "unitsSold": 41,
+    "totalRevenue": 2132
+  },
+  {
+    "date": "2026-03-11",
+    "dishId": "dish-027",
+    "unitsSold": 49,
+    "totalRevenue": 490
+  },
+  {
+    "date": "2026-03-11",
+    "dishId": "dish-032",
+    "unitsSold": 25,
+    "totalRevenue": 300
+  },
+  {
+    "date": "2026-03-11",
+    "dishId": "dish-007",
+    "unitsSold": 47,
+    "totalRevenue": 2256
+  },
+  {
+    "date": "2026-03-11",
+    "dishId": "dish-014",
+    "unitsSold": 42,
+    "totalRevenue": 3570
+  },
+  {
+    "date": "2026-03-11",
+    "dishId": "dish-012",
+    "unitsSold": 38,
+    "totalRevenue": 1976
+  },
+  {
+    "date": "2026-03-11",
+    "dishId": "dish-021",
+    "unitsSold": 37,
+    "totalRevenue": 1184
+  },
+  {
+    "date": "2026-03-11",
+    "dishId": "dish-034",
+    "unitsSold": 35,
+    "totalRevenue": 420
+  },
+  {
+    "date": "2026-03-11",
+    "dishId": "dish-015",
+    "unitsSold": 54,
+    "totalRevenue": 1296
+  },
+  {
+    "date": "2026-03-12",
+    "dishId": "dish-018",
+    "unitsSold": 19,
+    "totalRevenue": 722
+  },
+  {
+    "date": "2026-03-12",
+    "dishId": "dish-021",
+    "unitsSold": 39,
+    "totalRevenue": 1248
+  },
+  {
+    "date": "2026-03-12",
+    "dishId": "dish-016",
+    "unitsSold": 21,
+    "totalRevenue": 462
+  },
+  {
+    "date": "2026-03-12",
+    "dishId": "dish-006",
+    "unitsSold": 30,
+    "totalRevenue": 720
+  },
+  {
+    "date": "2026-03-12",
+    "dishId": "dish-040",
+    "unitsSold": 24,
+    "totalRevenue": 240
+  },
+  {
+    "date": "2026-03-12",
+    "dishId": "dish-029",
+    "unitsSold": 29,
+    "totalRevenue": 348
+  },
+  {
+    "date": "2026-03-12",
+    "dishId": "dish-038",
+    "unitsSold": 25,
+    "totalRevenue": 300
+  },
+  {
+    "date": "2026-03-12",
+    "dishId": "dish-030",
+    "unitsSold": 46,
+    "totalRevenue": 460
+  },
+  {
+    "date": "2026-03-12",
+    "dishId": "dish-025",
+    "unitsSold": 52,
+    "totalRevenue": 728
+  },
+  {
+    "date": "2026-03-12",
+    "dishId": "dish-011",
+    "unitsSold": 25,
+    "totalRevenue": 800
+  },
+  {
+    "date": "2026-03-12",
+    "dishId": "dish-001",
+    "unitsSold": 43,
+    "totalRevenue": 2236
+  },
+  {
+    "date": "2026-03-12",
+    "dishId": "dish-034",
+    "unitsSold": 8,
+    "totalRevenue": 96
+  },
+  {
+    "date": "2026-03-12",
+    "dishId": "dish-028",
+    "unitsSold": 41,
+    "totalRevenue": 574
+  },
+  {
+    "date": "2026-03-12",
+    "dishId": "dish-031",
+    "unitsSold": 20,
+    "totalRevenue": 160
+  }
+]

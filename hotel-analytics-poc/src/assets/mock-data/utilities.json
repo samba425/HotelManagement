@@ -1,0 +1,1802 @@
+[
+  {
+    "branchId": "br-001",
+    "date": "2026-02-11",
+    "electricityKwh": 3240,
+    "electricityCost": 486,
+    "gasUnits": 295,
+    "gasCost": 442,
+    "waterGallons": 18439,
+    "waterCost": 92
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-12",
+    "electricityKwh": 3585,
+    "electricityCost": 538,
+    "gasUnits": 230,
+    "gasCost": 345,
+    "waterGallons": 15447,
+    "waterCost": 77
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-13",
+    "electricityKwh": 3206,
+    "electricityCost": 481,
+    "gasUnits": 247,
+    "gasCost": 370,
+    "waterGallons": 16372,
+    "waterCost": 82
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-14",
+    "electricityKwh": 2793,
+    "electricityCost": 419,
+    "gasUnits": 247,
+    "gasCost": 370,
+    "waterGallons": 14955,
+    "waterCost": 75
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-15",
+    "electricityKwh": 3429,
+    "electricityCost": 514,
+    "gasUnits": 213,
+    "gasCost": 320,
+    "waterGallons": 14820,
+    "waterCost": 74
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-16",
+    "electricityKwh": 2944,
+    "electricityCost": 442,
+    "gasUnits": 293,
+    "gasCost": 440,
+    "waterGallons": 19642,
+    "waterCost": 98
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-17",
+    "electricityKwh": 3116,
+    "electricityCost": 467,
+    "gasUnits": 272,
+    "gasCost": 408,
+    "waterGallons": 18841,
+    "waterCost": 94
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-18",
+    "electricityKwh": 3236,
+    "electricityCost": 485,
+    "gasUnits": 263,
+    "gasCost": 394,
+    "waterGallons": 16935,
+    "waterCost": 85
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-19",
+    "electricityKwh": 2846,
+    "electricityCost": 427,
+    "gasUnits": 266,
+    "gasCost": 399,
+    "waterGallons": 16316,
+    "waterCost": 82
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-20",
+    "electricityKwh": 3486,
+    "electricityCost": 523,
+    "gasUnits": 237,
+    "gasCost": 356,
+    "waterGallons": 14917,
+    "waterCost": 75
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-21",
+    "electricityKwh": 3361,
+    "electricityCost": 504,
+    "gasUnits": 222,
+    "gasCost": 333,
+    "waterGallons": 18821,
+    "waterCost": 94
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-22",
+    "electricityKwh": 2870,
+    "electricityCost": 430,
+    "gasUnits": 255,
+    "gasCost": 382,
+    "waterGallons": 16583,
+    "waterCost": 83
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-23",
+    "electricityKwh": 2886,
+    "electricityCost": 433,
+    "gasUnits": 312,
+    "gasCost": 468,
+    "waterGallons": 16373,
+    "waterCost": 82
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-24",
+    "electricityKwh": 2800,
+    "electricityCost": 420,
+    "gasUnits": 267,
+    "gasCost": 400,
+    "waterGallons": 17161,
+    "waterCost": 86
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-25",
+    "electricityKwh": 2872,
+    "electricityCost": 431,
+    "gasUnits": 288,
+    "gasCost": 432,
+    "waterGallons": 17900,
+    "waterCost": 90
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-26",
+    "electricityKwh": 3838,
+    "electricityCost": 576,
+    "gasUnits": 242,
+    "gasCost": 363,
+    "waterGallons": 15544,
+    "waterCost": 78
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-27",
+    "electricityKwh": 2912,
+    "electricityCost": 437,
+    "gasUnits": 253,
+    "gasCost": 380,
+    "waterGallons": 16031,
+    "waterCost": 80
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-28",
+    "electricityKwh": 3674,
+    "electricityCost": 551,
+    "gasUnits": 220,
+    "gasCost": 330,
+    "waterGallons": 14355,
+    "waterCost": 72
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-01",
+    "electricityKwh": 3552,
+    "electricityCost": 533,
+    "gasUnits": 281,
+    "gasCost": 422,
+    "waterGallons": 19815,
+    "waterCost": 99
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-02",
+    "electricityKwh": 2803,
+    "electricityCost": 420,
+    "gasUnits": 265,
+    "gasCost": 398,
+    "waterGallons": 17027,
+    "waterCost": 85
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-03",
+    "electricityKwh": 3737,
+    "electricityCost": 561,
+    "gasUnits": 287,
+    "gasCost": 430,
+    "waterGallons": 19165,
+    "waterCost": 96
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-04",
+    "electricityKwh": 3293,
+    "electricityCost": 494,
+    "gasUnits": 306,
+    "gasCost": 459,
+    "waterGallons": 18428,
+    "waterCost": 92
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-05",
+    "electricityKwh": 2937,
+    "electricityCost": 441,
+    "gasUnits": 248,
+    "gasCost": 372,
+    "waterGallons": 17960,
+    "waterCost": 90
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-06",
+    "electricityKwh": 3295,
+    "electricityCost": 494,
+    "gasUnits": 267,
+    "gasCost": 400,
+    "waterGallons": 19048,
+    "waterCost": 95
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-07",
+    "electricityKwh": 3724,
+    "electricityCost": 559,
+    "gasUnits": 218,
+    "gasCost": 327,
+    "waterGallons": 16277,
+    "waterCost": 81
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-08",
+    "electricityKwh": 2945,
+    "electricityCost": 442,
+    "gasUnits": 213,
+    "gasCost": 320,
+    "waterGallons": 15828,
+    "waterCost": 79
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-09",
+    "electricityKwh": 3799,
+    "electricityCost": 570,
+    "gasUnits": 213,
+    "gasCost": 320,
+    "waterGallons": 18751,
+    "waterCost": 94
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-10",
+    "electricityKwh": 3646,
+    "electricityCost": 547,
+    "gasUnits": 308,
+    "gasCost": 462,
+    "waterGallons": 19298,
+    "waterCost": 96
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-11",
+    "electricityKwh": 3414,
+    "electricityCost": 512,
+    "gasUnits": 298,
+    "gasCost": 447,
+    "waterGallons": 16307,
+    "waterCost": 82
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-12",
+    "electricityKwh": 3872,
+    "electricityCost": 581,
+    "gasUnits": 268,
+    "gasCost": 402,
+    "waterGallons": 18616,
+    "waterCost": 93
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-11",
+    "electricityKwh": 3514,
+    "electricityCost": 527,
+    "gasUnits": 187,
+    "gasCost": 280,
+    "waterGallons": 14913,
+    "waterCost": 75
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-12",
+    "electricityKwh": 3738,
+    "electricityCost": 561,
+    "gasUnits": 181,
+    "gasCost": 272,
+    "waterGallons": 14920,
+    "waterCost": 75
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-13",
+    "electricityKwh": 4398,
+    "electricityCost": 660,
+    "gasUnits": 168,
+    "gasCost": 252,
+    "waterGallons": 18970,
+    "waterCost": 95
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-14",
+    "electricityKwh": 4229,
+    "electricityCost": 634,
+    "gasUnits": 150,
+    "gasCost": 225,
+    "waterGallons": 17549,
+    "waterCost": 88
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-15",
+    "electricityKwh": 4290,
+    "electricityCost": 644,
+    "gasUnits": 149,
+    "gasCost": 224,
+    "waterGallons": 19536,
+    "waterCost": 98
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-16",
+    "electricityKwh": 4101,
+    "electricityCost": 615,
+    "gasUnits": 195,
+    "gasCost": 292,
+    "waterGallons": 15003,
+    "waterCost": 75
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-17",
+    "electricityKwh": 3437,
+    "electricityCost": 516,
+    "gasUnits": 163,
+    "gasCost": 244,
+    "waterGallons": 19262,
+    "waterCost": 96
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-18",
+    "electricityKwh": 4255,
+    "electricityCost": 638,
+    "gasUnits": 144,
+    "gasCost": 216,
+    "waterGallons": 19076,
+    "waterCost": 95
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-19",
+    "electricityKwh": 4137,
+    "electricityCost": 621,
+    "gasUnits": 175,
+    "gasCost": 262,
+    "waterGallons": 19286,
+    "waterCost": 96
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-20",
+    "electricityKwh": 3326,
+    "electricityCost": 499,
+    "gasUnits": 173,
+    "gasCost": 260,
+    "waterGallons": 14609,
+    "waterCost": 73
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-21",
+    "electricityKwh": 3248,
+    "electricityCost": 487,
+    "gasUnits": 191,
+    "gasCost": 286,
+    "waterGallons": 16243,
+    "waterCost": 81
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-22",
+    "electricityKwh": 3485,
+    "electricityCost": 523,
+    "gasUnits": 201,
+    "gasCost": 302,
+    "waterGallons": 19132,
+    "waterCost": 96
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-23",
+    "electricityKwh": 4176,
+    "electricityCost": 626,
+    "gasUnits": 164,
+    "gasCost": 246,
+    "waterGallons": 14497,
+    "waterCost": 72
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-24",
+    "electricityKwh": 3626,
+    "electricityCost": 544,
+    "gasUnits": 196,
+    "gasCost": 294,
+    "waterGallons": 16150,
+    "waterCost": 81
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-25",
+    "electricityKwh": 4584,
+    "electricityCost": 688,
+    "gasUnits": 151,
+    "gasCost": 226,
+    "waterGallons": 18196,
+    "waterCost": 91
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-26",
+    "electricityKwh": 4278,
+    "electricityCost": 642,
+    "gasUnits": 209,
+    "gasCost": 314,
+    "waterGallons": 16702,
+    "waterCost": 84
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-27",
+    "electricityKwh": 3994,
+    "electricityCost": 599,
+    "gasUnits": 197,
+    "gasCost": 296,
+    "waterGallons": 14535,
+    "waterCost": 73
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-28",
+    "electricityKwh": 3631,
+    "electricityCost": 545,
+    "gasUnits": 197,
+    "gasCost": 296,
+    "waterGallons": 16456,
+    "waterCost": 82
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-01",
+    "electricityKwh": 3793,
+    "electricityCost": 569,
+    "gasUnits": 187,
+    "gasCost": 280,
+    "waterGallons": 16475,
+    "waterCost": 82
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-02",
+    "electricityKwh": 3996,
+    "electricityCost": 599,
+    "gasUnits": 192,
+    "gasCost": 288,
+    "waterGallons": 14596,
+    "waterCost": 73
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-03",
+    "electricityKwh": 3678,
+    "electricityCost": 552,
+    "gasUnits": 171,
+    "gasCost": 256,
+    "waterGallons": 15078,
+    "waterCost": 75
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-04",
+    "electricityKwh": 4544,
+    "electricityCost": 682,
+    "gasUnits": 158,
+    "gasCost": 237,
+    "waterGallons": 19384,
+    "waterCost": 97
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-05",
+    "electricityKwh": 3422,
+    "electricityCost": 513,
+    "gasUnits": 152,
+    "gasCost": 228,
+    "waterGallons": 17617,
+    "waterCost": 88
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-06",
+    "electricityKwh": 3786,
+    "electricityCost": 568,
+    "gasUnits": 181,
+    "gasCost": 272,
+    "waterGallons": 17632,
+    "waterCost": 88
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-07",
+    "electricityKwh": 3356,
+    "electricityCost": 503,
+    "gasUnits": 174,
+    "gasCost": 261,
+    "waterGallons": 18719,
+    "waterCost": 94
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-08",
+    "electricityKwh": 4305,
+    "electricityCost": 646,
+    "gasUnits": 158,
+    "gasCost": 237,
+    "waterGallons": 16282,
+    "waterCost": 81
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-09",
+    "electricityKwh": 4270,
+    "electricityCost": 640,
+    "gasUnits": 202,
+    "gasCost": 303,
+    "waterGallons": 18121,
+    "waterCost": 91
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-10",
+    "electricityKwh": 4380,
+    "electricityCost": 657,
+    "gasUnits": 183,
+    "gasCost": 274,
+    "waterGallons": 15991,
+    "waterCost": 80
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-11",
+    "electricityKwh": 3287,
+    "electricityCost": 493,
+    "gasUnits": 169,
+    "gasCost": 254,
+    "waterGallons": 18587,
+    "waterCost": 93
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-12",
+    "electricityKwh": 3913,
+    "electricityCost": 587,
+    "gasUnits": 152,
+    "gasCost": 228,
+    "waterGallons": 18131,
+    "waterCost": 91
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-11",
+    "electricityKwh": 2945,
+    "electricityCost": 442,
+    "gasUnits": 210,
+    "gasCost": 315,
+    "waterGallons": 19668,
+    "waterCost": 98
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-12",
+    "electricityKwh": 2796,
+    "electricityCost": 419,
+    "gasUnits": 215,
+    "gasCost": 322,
+    "waterGallons": 16048,
+    "waterCost": 80
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-13",
+    "electricityKwh": 2787,
+    "electricityCost": 418,
+    "gasUnits": 189,
+    "gasCost": 284,
+    "waterGallons": 18892,
+    "waterCost": 94
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-14",
+    "electricityKwh": 3051,
+    "electricityCost": 458,
+    "gasUnits": 225,
+    "gasCost": 338,
+    "waterGallons": 14924,
+    "waterCost": 75
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-15",
+    "electricityKwh": 2998,
+    "electricityCost": 450,
+    "gasUnits": 200,
+    "gasCost": 300,
+    "waterGallons": 18067,
+    "waterCost": 90
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-16",
+    "electricityKwh": 2802,
+    "electricityCost": 420,
+    "gasUnits": 161,
+    "gasCost": 242,
+    "waterGallons": 14646,
+    "waterCost": 73
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-17",
+    "electricityKwh": 3669,
+    "electricityCost": 550,
+    "gasUnits": 209,
+    "gasCost": 314,
+    "waterGallons": 19201,
+    "waterCost": 96
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-18",
+    "electricityKwh": 3408,
+    "electricityCost": 511,
+    "gasUnits": 209,
+    "gasCost": 314,
+    "waterGallons": 17130,
+    "waterCost": 86
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-19",
+    "electricityKwh": 3286,
+    "electricityCost": 493,
+    "gasUnits": 237,
+    "gasCost": 356,
+    "waterGallons": 19625,
+    "waterCost": 98
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-20",
+    "electricityKwh": 3210,
+    "electricityCost": 482,
+    "gasUnits": 215,
+    "gasCost": 322,
+    "waterGallons": 15799,
+    "waterCost": 79
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-21",
+    "electricityKwh": 2887,
+    "electricityCost": 433,
+    "gasUnits": 180,
+    "gasCost": 270,
+    "waterGallons": 19664,
+    "waterCost": 98
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-22",
+    "electricityKwh": 2806,
+    "electricityCost": 421,
+    "gasUnits": 161,
+    "gasCost": 242,
+    "waterGallons": 16734,
+    "waterCost": 84
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-23",
+    "electricityKwh": 2989,
+    "electricityCost": 448,
+    "gasUnits": 162,
+    "gasCost": 243,
+    "waterGallons": 18388,
+    "waterCost": 92
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-24",
+    "electricityKwh": 3424,
+    "electricityCost": 514,
+    "gasUnits": 187,
+    "gasCost": 280,
+    "waterGallons": 18979,
+    "waterCost": 95
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-25",
+    "electricityKwh": 2785,
+    "electricityCost": 418,
+    "gasUnits": 181,
+    "gasCost": 272,
+    "waterGallons": 15539,
+    "waterCost": 78
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-26",
+    "electricityKwh": 3251,
+    "electricityCost": 488,
+    "gasUnits": 163,
+    "gasCost": 244,
+    "waterGallons": 14632,
+    "waterCost": 73
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-27",
+    "electricityKwh": 2775,
+    "electricityCost": 416,
+    "gasUnits": 172,
+    "gasCost": 258,
+    "waterGallons": 17206,
+    "waterCost": 86
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-28",
+    "electricityKwh": 3240,
+    "electricityCost": 486,
+    "gasUnits": 222,
+    "gasCost": 333,
+    "waterGallons": 14419,
+    "waterCost": 72
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-01",
+    "electricityKwh": 3358,
+    "electricityCost": 504,
+    "gasUnits": 198,
+    "gasCost": 297,
+    "waterGallons": 17299,
+    "waterCost": 86
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-02",
+    "electricityKwh": 2784,
+    "electricityCost": 418,
+    "gasUnits": 194,
+    "gasCost": 291,
+    "waterGallons": 19176,
+    "waterCost": 96
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-03",
+    "electricityKwh": 2821,
+    "electricityCost": 423,
+    "gasUnits": 236,
+    "gasCost": 354,
+    "waterGallons": 19644,
+    "waterCost": 98
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-04",
+    "electricityKwh": 2714,
+    "electricityCost": 407,
+    "gasUnits": 200,
+    "gasCost": 300,
+    "waterGallons": 18439,
+    "waterCost": 92
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-05",
+    "electricityKwh": 3307,
+    "electricityCost": 496,
+    "gasUnits": 199,
+    "gasCost": 298,
+    "waterGallons": 19348,
+    "waterCost": 97
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-06",
+    "electricityKwh": 3339,
+    "electricityCost": 501,
+    "gasUnits": 195,
+    "gasCost": 292,
+    "waterGallons": 14133,
+    "waterCost": 71
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-07",
+    "electricityKwh": 2678,
+    "electricityCost": 402,
+    "gasUnits": 186,
+    "gasCost": 279,
+    "waterGallons": 14959,
+    "waterCost": 75
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-08",
+    "electricityKwh": 2858,
+    "electricityCost": 429,
+    "gasUnits": 163,
+    "gasCost": 244,
+    "waterGallons": 15358,
+    "waterCost": 77
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-09",
+    "electricityKwh": 2724,
+    "electricityCost": 409,
+    "gasUnits": 182,
+    "gasCost": 273,
+    "waterGallons": 18607,
+    "waterCost": 93
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-10",
+    "electricityKwh": 2769,
+    "electricityCost": 415,
+    "gasUnits": 180,
+    "gasCost": 270,
+    "waterGallons": 17514,
+    "waterCost": 88
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-11",
+    "electricityKwh": 3425,
+    "electricityCost": 514,
+    "gasUnits": 193,
+    "gasCost": 290,
+    "waterGallons": 17095,
+    "waterCost": 85
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-12",
+    "electricityKwh": 3570,
+    "electricityCost": 536,
+    "gasUnits": 206,
+    "gasCost": 309,
+    "waterGallons": 16033,
+    "waterCost": 80
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-11",
+    "electricityKwh": 3148,
+    "electricityCost": 472,
+    "gasUnits": 266,
+    "gasCost": 399,
+    "waterGallons": 15220,
+    "waterCost": 76
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-12",
+    "electricityKwh": 2841,
+    "electricityCost": 426,
+    "gasUnits": 263,
+    "gasCost": 394,
+    "waterGallons": 17314,
+    "waterCost": 87
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-13",
+    "electricityKwh": 3345,
+    "electricityCost": 502,
+    "gasUnits": 247,
+    "gasCost": 370,
+    "waterGallons": 19406,
+    "waterCost": 97
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-14",
+    "electricityKwh": 3538,
+    "electricityCost": 531,
+    "gasUnits": 249,
+    "gasCost": 374,
+    "waterGallons": 17933,
+    "waterCost": 90
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-15",
+    "electricityKwh": 2712,
+    "electricityCost": 407,
+    "gasUnits": 267,
+    "gasCost": 400,
+    "waterGallons": 17691,
+    "waterCost": 88
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-16",
+    "electricityKwh": 3501,
+    "electricityCost": 525,
+    "gasUnits": 301,
+    "gasCost": 452,
+    "waterGallons": 17869,
+    "waterCost": 89
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-17",
+    "electricityKwh": 2823,
+    "electricityCost": 423,
+    "gasUnits": 270,
+    "gasCost": 405,
+    "waterGallons": 19642,
+    "waterCost": 98
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-18",
+    "electricityKwh": 3140,
+    "electricityCost": 471,
+    "gasUnits": 293,
+    "gasCost": 440,
+    "waterGallons": 18065,
+    "waterCost": 90
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-19",
+    "electricityKwh": 2925,
+    "electricityCost": 439,
+    "gasUnits": 300,
+    "gasCost": 450,
+    "waterGallons": 17748,
+    "waterCost": 89
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-20",
+    "electricityKwh": 2639,
+    "electricityCost": 396,
+    "gasUnits": 266,
+    "gasCost": 399,
+    "waterGallons": 18782,
+    "waterCost": 94
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-21",
+    "electricityKwh": 2726,
+    "electricityCost": 409,
+    "gasUnits": 262,
+    "gasCost": 393,
+    "waterGallons": 15843,
+    "waterCost": 79
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-22",
+    "electricityKwh": 3035,
+    "electricityCost": 455,
+    "gasUnits": 249,
+    "gasCost": 374,
+    "waterGallons": 16825,
+    "waterCost": 84
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-23",
+    "electricityKwh": 2564,
+    "electricityCost": 385,
+    "gasUnits": 280,
+    "gasCost": 420,
+    "waterGallons": 15843,
+    "waterCost": 79
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-24",
+    "electricityKwh": 2975,
+    "electricityCost": 446,
+    "gasUnits": 291,
+    "gasCost": 436,
+    "waterGallons": 16507,
+    "waterCost": 83
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-25",
+    "electricityKwh": 2554,
+    "electricityCost": 383,
+    "gasUnits": 265,
+    "gasCost": 398,
+    "waterGallons": 18414,
+    "waterCost": 92
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-26",
+    "electricityKwh": 3533,
+    "electricityCost": 530,
+    "gasUnits": 292,
+    "gasCost": 438,
+    "waterGallons": 14797,
+    "waterCost": 74
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-27",
+    "electricityKwh": 2524,
+    "electricityCost": 379,
+    "gasUnits": 258,
+    "gasCost": 387,
+    "waterGallons": 18400,
+    "waterCost": 92
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-28",
+    "electricityKwh": 2843,
+    "electricityCost": 426,
+    "gasUnits": 223,
+    "gasCost": 334,
+    "waterGallons": 15415,
+    "waterCost": 77
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-01",
+    "electricityKwh": 3351,
+    "electricityCost": 503,
+    "gasUnits": 254,
+    "gasCost": 381,
+    "waterGallons": 19444,
+    "waterCost": 97
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-02",
+    "electricityKwh": 3246,
+    "electricityCost": 487,
+    "gasUnits": 274,
+    "gasCost": 411,
+    "waterGallons": 19393,
+    "waterCost": 97
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-03",
+    "electricityKwh": 3283,
+    "electricityCost": 492,
+    "gasUnits": 276,
+    "gasCost": 414,
+    "waterGallons": 17634,
+    "waterCost": 88
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-04",
+    "electricityKwh": 3054,
+    "electricityCost": 458,
+    "gasUnits": 221,
+    "gasCost": 332,
+    "waterGallons": 18692,
+    "waterCost": 93
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-05",
+    "electricityKwh": 3155,
+    "electricityCost": 473,
+    "gasUnits": 228,
+    "gasCost": 342,
+    "waterGallons": 16394,
+    "waterCost": 82
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-06",
+    "electricityKwh": 2700,
+    "electricityCost": 405,
+    "gasUnits": 257,
+    "gasCost": 386,
+    "waterGallons": 18627,
+    "waterCost": 93
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-07",
+    "electricityKwh": 2885,
+    "electricityCost": 433,
+    "gasUnits": 222,
+    "gasCost": 333,
+    "waterGallons": 16849,
+    "waterCost": 84
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-08",
+    "electricityKwh": 2701,
+    "electricityCost": 405,
+    "gasUnits": 230,
+    "gasCost": 345,
+    "waterGallons": 19491,
+    "waterCost": 97
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-09",
+    "electricityKwh": 3032,
+    "electricityCost": 455,
+    "gasUnits": 228,
+    "gasCost": 342,
+    "waterGallons": 19673,
+    "waterCost": 98
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-10",
+    "electricityKwh": 2597,
+    "electricityCost": 390,
+    "gasUnits": 271,
+    "gasCost": 406,
+    "waterGallons": 17137,
+    "waterCost": 86
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-11",
+    "electricityKwh": 2649,
+    "electricityCost": 397,
+    "gasUnits": 247,
+    "gasCost": 370,
+    "waterGallons": 17608,
+    "waterCost": 88
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-12",
+    "electricityKwh": 2798,
+    "electricityCost": 420,
+    "gasUnits": 230,
+    "gasCost": 345,
+    "waterGallons": 15891,
+    "waterCost": 79
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-11",
+    "electricityKwh": 2943,
+    "electricityCost": 441,
+    "gasUnits": 173,
+    "gasCost": 260,
+    "waterGallons": 16931,
+    "waterCost": 85
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-12",
+    "electricityKwh": 2479,
+    "electricityCost": 372,
+    "gasUnits": 176,
+    "gasCost": 264,
+    "waterGallons": 14447,
+    "waterCost": 72
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-13",
+    "electricityKwh": 2418,
+    "electricityCost": 363,
+    "gasUnits": 240,
+    "gasCost": 360,
+    "waterGallons": 19840,
+    "waterCost": 99
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-14",
+    "electricityKwh": 2971,
+    "electricityCost": 446,
+    "gasUnits": 213,
+    "gasCost": 320,
+    "waterGallons": 19360,
+    "waterCost": 97
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-15",
+    "electricityKwh": 2908,
+    "electricityCost": 436,
+    "gasUnits": 184,
+    "gasCost": 276,
+    "waterGallons": 18421,
+    "waterCost": 92
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-16",
+    "electricityKwh": 2739,
+    "electricityCost": 411,
+    "gasUnits": 227,
+    "gasCost": 340,
+    "waterGallons": 15875,
+    "waterCost": 79
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-17",
+    "electricityKwh": 3286,
+    "electricityCost": 493,
+    "gasUnits": 238,
+    "gasCost": 357,
+    "waterGallons": 17991,
+    "waterCost": 90
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-18",
+    "electricityKwh": 2430,
+    "electricityCost": 364,
+    "gasUnits": 175,
+    "gasCost": 262,
+    "waterGallons": 14083,
+    "waterCost": 70
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-19",
+    "electricityKwh": 2800,
+    "electricityCost": 420,
+    "gasUnits": 172,
+    "gasCost": 258,
+    "waterGallons": 19976,
+    "waterCost": 100
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-20",
+    "electricityKwh": 2971,
+    "electricityCost": 446,
+    "gasUnits": 181,
+    "gasCost": 272,
+    "waterGallons": 14925,
+    "waterCost": 75
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-21",
+    "electricityKwh": 3310,
+    "electricityCost": 496,
+    "gasUnits": 247,
+    "gasCost": 370,
+    "waterGallons": 15797,
+    "waterCost": 79
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-22",
+    "electricityKwh": 3046,
+    "electricityCost": 457,
+    "gasUnits": 247,
+    "gasCost": 370,
+    "waterGallons": 18734,
+    "waterCost": 94
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-23",
+    "electricityKwh": 2964,
+    "electricityCost": 445,
+    "gasUnits": 225,
+    "gasCost": 338,
+    "waterGallons": 18575,
+    "waterCost": 93
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-24",
+    "electricityKwh": 3109,
+    "electricityCost": 466,
+    "gasUnits": 176,
+    "gasCost": 264,
+    "waterGallons": 17184,
+    "waterCost": 86
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-25",
+    "electricityKwh": 2894,
+    "electricityCost": 434,
+    "gasUnits": 245,
+    "gasCost": 368,
+    "waterGallons": 18267,
+    "waterCost": 91
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-26",
+    "electricityKwh": 3089,
+    "electricityCost": 463,
+    "gasUnits": 197,
+    "gasCost": 296,
+    "waterGallons": 14628,
+    "waterCost": 73
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-27",
+    "electricityKwh": 2945,
+    "electricityCost": 442,
+    "gasUnits": 218,
+    "gasCost": 327,
+    "waterGallons": 14923,
+    "waterCost": 75
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-28",
+    "electricityKwh": 3062,
+    "electricityCost": 459,
+    "gasUnits": 237,
+    "gasCost": 356,
+    "waterGallons": 15094,
+    "waterCost": 75
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-01",
+    "electricityKwh": 2612,
+    "electricityCost": 392,
+    "gasUnits": 182,
+    "gasCost": 273,
+    "waterGallons": 16092,
+    "waterCost": 80
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-02",
+    "electricityKwh": 3307,
+    "electricityCost": 496,
+    "gasUnits": 205,
+    "gasCost": 308,
+    "waterGallons": 16287,
+    "waterCost": 81
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-03",
+    "electricityKwh": 2637,
+    "electricityCost": 396,
+    "gasUnits": 238,
+    "gasCost": 357,
+    "waterGallons": 16814,
+    "waterCost": 84
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-04",
+    "electricityKwh": 2487,
+    "electricityCost": 373,
+    "gasUnits": 249,
+    "gasCost": 374,
+    "waterGallons": 18188,
+    "waterCost": 91
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-05",
+    "electricityKwh": 2790,
+    "electricityCost": 418,
+    "gasUnits": 240,
+    "gasCost": 360,
+    "waterGallons": 14217,
+    "waterCost": 71
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-06",
+    "electricityKwh": 2740,
+    "electricityCost": 411,
+    "gasUnits": 195,
+    "gasCost": 292,
+    "waterGallons": 17453,
+    "waterCost": 87
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-07",
+    "electricityKwh": 2414,
+    "electricityCost": 362,
+    "gasUnits": 227,
+    "gasCost": 340,
+    "waterGallons": 17277,
+    "waterCost": 86
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-08",
+    "electricityKwh": 2540,
+    "electricityCost": 381,
+    "gasUnits": 171,
+    "gasCost": 256,
+    "waterGallons": 17238,
+    "waterCost": 86
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-09",
+    "electricityKwh": 2652,
+    "electricityCost": 398,
+    "gasUnits": 195,
+    "gasCost": 292,
+    "waterGallons": 15576,
+    "waterCost": 78
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-10",
+    "electricityKwh": 3176,
+    "electricityCost": 476,
+    "gasUnits": 242,
+    "gasCost": 363,
+    "waterGallons": 16613,
+    "waterCost": 83
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-11",
+    "electricityKwh": 2837,
+    "electricityCost": 426,
+    "gasUnits": 212,
+    "gasCost": 318,
+    "waterGallons": 17448,
+    "waterCost": 87
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-12",
+    "electricityKwh": 3268,
+    "electricityCost": 490,
+    "gasUnits": 212,
+    "gasCost": 318,
+    "waterGallons": 14320,
+    "waterCost": 72
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-11",
+    "electricityKwh": 3919,
+    "electricityCost": 588,
+    "gasUnits": 189,
+    "gasCost": 284,
+    "waterGallons": 17836,
+    "waterCost": 89
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-12",
+    "electricityKwh": 4268,
+    "electricityCost": 640,
+    "gasUnits": 216,
+    "gasCost": 324,
+    "waterGallons": 18403,
+    "waterCost": 92
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-13",
+    "electricityKwh": 3732,
+    "electricityCost": 560,
+    "gasUnits": 220,
+    "gasCost": 330,
+    "waterGallons": 17004,
+    "waterCost": 85
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-14",
+    "electricityKwh": 3586,
+    "electricityCost": 538,
+    "gasUnits": 157,
+    "gasCost": 236,
+    "waterGallons": 17952,
+    "waterCost": 90
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-15",
+    "electricityKwh": 4452,
+    "electricityCost": 668,
+    "gasUnits": 208,
+    "gasCost": 312,
+    "waterGallons": 19845,
+    "waterCost": 99
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-16",
+    "electricityKwh": 4216,
+    "electricityCost": 632,
+    "gasUnits": 164,
+    "gasCost": 246,
+    "waterGallons": 16278,
+    "waterCost": 81
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-17",
+    "electricityKwh": 3798,
+    "electricityCost": 570,
+    "gasUnits": 180,
+    "gasCost": 270,
+    "waterGallons": 19995,
+    "waterCost": 100
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-18",
+    "electricityKwh": 4457,
+    "electricityCost": 669,
+    "gasUnits": 185,
+    "gasCost": 278,
+    "waterGallons": 18648,
+    "waterCost": 93
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-19",
+    "electricityKwh": 4218,
+    "electricityCost": 633,
+    "gasUnits": 213,
+    "gasCost": 320,
+    "waterGallons": 15743,
+    "waterCost": 79
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-20",
+    "electricityKwh": 4012,
+    "electricityCost": 602,
+    "gasUnits": 153,
+    "gasCost": 230,
+    "waterGallons": 19037,
+    "waterCost": 95
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-21",
+    "electricityKwh": 3477,
+    "electricityCost": 522,
+    "gasUnits": 174,
+    "gasCost": 261,
+    "waterGallons": 18013,
+    "waterCost": 90
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-22",
+    "electricityKwh": 3802,
+    "electricityCost": 570,
+    "gasUnits": 180,
+    "gasCost": 270,
+    "waterGallons": 18325,
+    "waterCost": 92
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-23",
+    "electricityKwh": 4727,
+    "electricityCost": 709,
+    "gasUnits": 179,
+    "gasCost": 268,
+    "waterGallons": 16668,
+    "waterCost": 83
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-24",
+    "electricityKwh": 3585,
+    "electricityCost": 538,
+    "gasUnits": 184,
+    "gasCost": 276,
+    "waterGallons": 14061,
+    "waterCost": 70
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-25",
+    "electricityKwh": 3390,
+    "electricityCost": 508,
+    "gasUnits": 214,
+    "gasCost": 321,
+    "waterGallons": 14706,
+    "waterCost": 74
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-26",
+    "electricityKwh": 3953,
+    "electricityCost": 593,
+    "gasUnits": 207,
+    "gasCost": 310,
+    "waterGallons": 18578,
+    "waterCost": 93
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-27",
+    "electricityKwh": 4688,
+    "electricityCost": 703,
+    "gasUnits": 223,
+    "gasCost": 334,
+    "waterGallons": 15969,
+    "waterCost": 80
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-28",
+    "electricityKwh": 4228,
+    "electricityCost": 634,
+    "gasUnits": 179,
+    "gasCost": 268,
+    "waterGallons": 19786,
+    "waterCost": 99
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-01",
+    "electricityKwh": 4123,
+    "electricityCost": 618,
+    "gasUnits": 175,
+    "gasCost": 262,
+    "waterGallons": 17974,
+    "waterCost": 90
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-02",
+    "electricityKwh": 4674,
+    "electricityCost": 701,
+    "gasUnits": 187,
+    "gasCost": 280,
+    "waterGallons": 18657,
+    "waterCost": 93
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-03",
+    "electricityKwh": 3824,
+    "electricityCost": 574,
+    "gasUnits": 169,
+    "gasCost": 254,
+    "waterGallons": 17242,
+    "waterCost": 86
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-04",
+    "electricityKwh": 3791,
+    "electricityCost": 569,
+    "gasUnits": 216,
+    "gasCost": 324,
+    "waterGallons": 19054,
+    "waterCost": 95
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-05",
+    "electricityKwh": 3932,
+    "electricityCost": 590,
+    "gasUnits": 195,
+    "gasCost": 292,
+    "waterGallons": 18257,
+    "waterCost": 91
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-06",
+    "electricityKwh": 3418,
+    "electricityCost": 513,
+    "gasUnits": 195,
+    "gasCost": 292,
+    "waterGallons": 16237,
+    "waterCost": 81
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-07",
+    "electricityKwh": 3470,
+    "electricityCost": 520,
+    "gasUnits": 157,
+    "gasCost": 236,
+    "waterGallons": 14692,
+    "waterCost": 73
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-08",
+    "electricityKwh": 4653,
+    "electricityCost": 698,
+    "gasUnits": 216,
+    "gasCost": 324,
+    "waterGallons": 16854,
+    "waterCost": 84
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-09",
+    "electricityKwh": 4106,
+    "electricityCost": 616,
+    "gasUnits": 154,
+    "gasCost": 231,
+    "waterGallons": 17282,
+    "waterCost": 86
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-10",
+    "electricityKwh": 4148,
+    "electricityCost": 622,
+    "gasUnits": 209,
+    "gasCost": 314,
+    "waterGallons": 16871,
+    "waterCost": 84
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-11",
+    "electricityKwh": 4333,
+    "electricityCost": 650,
+    "gasUnits": 171,
+    "gasCost": 256,
+    "waterGallons": 14095,
+    "waterCost": 70
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-12",
+    "electricityKwh": 4643,
+    "electricityCost": 696,
+    "gasUnits": 171,
+    "gasCost": 256,
+    "waterGallons": 16120,
+    "waterCost": 81
+  }
+]

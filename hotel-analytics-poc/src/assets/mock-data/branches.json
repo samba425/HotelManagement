@@ -1,0 +1,116 @@
+[
+  {
+    "branchId": "br-001",
+    "name": "The Grand Manhattan",
+    "ownerName": "James Richardson",
+    "contactEmail": "gm@grandmanhattan.com",
+    "totalRooms": 280,
+    "starRating": 5,
+    "squareFootage": 95000,
+    "location": {
+      "streetAddress": "455 Madison Avenue",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "latitude": 40.7614,
+      "longitude": -73.9776,
+      "timezone": "America/New_York"
+    },
+    "heroImage": "assets/images/nyc-skyline.jpg"
+  },
+  {
+    "branchId": "br-002",
+    "name": "Coastal Luxe Miami",
+    "ownerName": "Sofia Martinez",
+    "contactEmail": "gm@coastalluxemiami.com",
+    "totalRooms": 240,
+    "starRating": 5,
+    "squareFootage": 82000,
+    "location": {
+      "streetAddress": "1901 Collins Avenue",
+      "city": "Miami Beach",
+      "state": "FL",
+      "country": "USA",
+      "latitude": 25.7959,
+      "longitude": -80.1300,
+      "timezone": "America/New_York"
+    },
+    "heroImage": "assets/images/miami-beach.jpg"
+  },
+  {
+    "branchId": "br-003",
+    "name": "Beverly Hills Royale",
+    "ownerName": "Robert Chen",
+    "contactEmail": "gm@bhillsroyale.com",
+    "totalRooms": 200,
+    "starRating": 5,
+    "squareFootage": 78000,
+    "location": {
+      "streetAddress": "9876 Wilshire Boulevard",
+      "city": "Beverly Hills",
+      "state": "CA",
+      "country": "USA",
+      "latitude": 34.0736,
+      "longitude": -118.4004,
+      "timezone": "America/Los_Angeles"
+    },
+    "heroImage": "assets/images/beverly-hills.jpg"
+  },
+  {
+    "branchId": "br-004",
+    "name": "Lakeshore Tower Chicago",
+    "ownerName": "Patricia O'Brien",
+    "contactEmail": "gm@lakeshoretower.com",
+    "totalRooms": 260,
+    "starRating": 4,
+    "squareFootage": 88000,
+    "location": {
+      "streetAddress": "540 N Michigan Avenue",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "latitude": 41.8914,
+      "longitude": -87.6244,
+      "timezone": "America/Chicago"
+    },
+    "heroImage": "assets/images/chicago-skyline.jpg"
+  },
+  {
+    "branchId": "br-005",
+    "name": "Pacific Heights SF",
+    "ownerName": "David Kim",
+    "contactEmail": "gm@pacificheightssf.com",
+    "totalRooms": 180,
+    "starRating": 4,
+    "squareFootage": 65000,
+    "location": {
+      "streetAddress": "335 Powell Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "latitude": 37.7879,
+      "longitude": -122.4074,
+      "timezone": "America/Los_Angeles"
+    },
+    "heroImage": "assets/images/sf-golden-gate.jpg"
+  },
+  {
+    "branchId": "br-006",
+    "name": "The Oasis Las Vegas",
+    "ownerName": "Michael Torres",
+    "contactEmail": "gm@oasisvegas.com",
+    "totalRooms": 320,
+    "starRating": 5,
+    "squareFootage": 110000,
+    "location": {
+      "streetAddress": "3750 Las Vegas Boulevard",
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "USA",
+      "latitude": 36.1162,
+      "longitude": -115.1745,
+      "timezone": "America/Los_Angeles"
+    },
+    "heroImage": "assets/images/vegas-strip.jpg"
+  }
+]

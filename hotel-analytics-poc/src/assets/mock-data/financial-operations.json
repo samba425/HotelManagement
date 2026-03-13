@@ -1,0 +1,1802 @@
+[
+  {
+    "branchId": "br-001",
+    "date": "2026-02-11",
+    "roomsOccupied": 196,
+    "dailyRevenue": 105056,
+    "operationalCosts": 59883,
+    "grossOperatingProfit": 45173,
+    "averageDailyRate": 536,
+    "revPAR": 375
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-11",
+    "roomsOccupied": 178,
+    "dailyRevenue": 83482,
+    "operationalCosts": 54055,
+    "grossOperatingProfit": 29427,
+    "averageDailyRate": 469,
+    "revPAR": 348
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-11",
+    "roomsOccupied": 159,
+    "dailyRevenue": 72027,
+    "operationalCosts": 45069,
+    "grossOperatingProfit": 26958,
+    "averageDailyRate": 453,
+    "revPAR": 360
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-11",
+    "roomsOccupied": 168,
+    "dailyRevenue": 64344,
+    "operationalCosts": 40826,
+    "grossOperatingProfit": 23518,
+    "averageDailyRate": 383,
+    "revPAR": 247
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-11",
+    "roomsOccupied": 140,
+    "dailyRevenue": 60900,
+    "operationalCosts": 38769,
+    "grossOperatingProfit": 22131,
+    "averageDailyRate": 435,
+    "revPAR": 338
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-11",
+    "roomsOccupied": 262,
+    "dailyRevenue": 125498,
+    "operationalCosts": 76334,
+    "grossOperatingProfit": 49164,
+    "averageDailyRate": 479,
+    "revPAR": 392
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-12",
+    "roomsOccupied": 223,
+    "dailyRevenue": 121758,
+    "operationalCosts": 74077,
+    "grossOperatingProfit": 47681,
+    "averageDailyRate": 546,
+    "revPAR": 435
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-12",
+    "roomsOccupied": 184,
+    "dailyRevenue": 82616,
+    "operationalCosts": 45899,
+    "grossOperatingProfit": 36717,
+    "averageDailyRate": 449,
+    "revPAR": 344
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-12",
+    "roomsOccupied": 152,
+    "dailyRevenue": 70832,
+    "operationalCosts": 44306,
+    "grossOperatingProfit": 26526,
+    "averageDailyRate": 466,
+    "revPAR": 354
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-12",
+    "roomsOccupied": 182,
+    "dailyRevenue": 52780,
+    "operationalCosts": 29437,
+    "grossOperatingProfit": 23343,
+    "averageDailyRate": 290,
+    "revPAR": 203
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-12",
+    "roomsOccupied": 120,
+    "dailyRevenue": 49800,
+    "operationalCosts": 30471,
+    "grossOperatingProfit": 19329,
+    "averageDailyRate": 415,
+    "revPAR": 277
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-12",
+    "roomsOccupied": 262,
+    "dailyRevenue": 83316,
+    "operationalCosts": 52770,
+    "grossOperatingProfit": 30546,
+    "averageDailyRate": 318,
+    "revPAR": 260
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-13",
+    "roomsOccupied": 255,
+    "dailyRevenue": 138210,
+    "operationalCosts": 77671,
+    "grossOperatingProfit": 60539,
+    "averageDailyRate": 542,
+    "revPAR": 494
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-13",
+    "roomsOccupied": 227,
+    "dailyRevenue": 92389,
+    "operationalCosts": 58197,
+    "grossOperatingProfit": 34192,
+    "averageDailyRate": 407,
+    "revPAR": 385
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-13",
+    "roomsOccupied": 178,
+    "dailyRevenue": 78320,
+    "operationalCosts": 49570,
+    "grossOperatingProfit": 28750,
+    "averageDailyRate": 440,
+    "revPAR": 392
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-13",
+    "roomsOccupied": 216,
+    "dailyRevenue": 79272,
+    "operationalCosts": 49164,
+    "grossOperatingProfit": 30108,
+    "averageDailyRate": 367,
+    "revPAR": 305
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-13",
+    "roomsOccupied": 164,
+    "dailyRevenue": 71832,
+    "operationalCosts": 42588,
+    "grossOperatingProfit": 29244,
+    "averageDailyRate": 438,
+    "revPAR": 399
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-13",
+    "roomsOccupied": 309,
+    "dailyRevenue": 135342,
+    "operationalCosts": 78510,
+    "grossOperatingProfit": 56832,
+    "averageDailyRate": 438,
+    "revPAR": 423
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-14",
+    "roomsOccupied": 274,
+    "dailyRevenue": 132890,
+    "operationalCosts": 75121,
+    "grossOperatingProfit": 57769,
+    "averageDailyRate": 485,
+    "revPAR": 475
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-14",
+    "roomsOccupied": 219,
+    "dailyRevenue": 102711,
+    "operationalCosts": 59223,
+    "grossOperatingProfit": 43488,
+    "averageDailyRate": 469,
+    "revPAR": 428
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-14",
+    "roomsOccupied": 196,
+    "dailyRevenue": 84084,
+    "operationalCosts": 53078,
+    "grossOperatingProfit": 31006,
+    "averageDailyRate": 429,
+    "revPAR": 420
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-14",
+    "roomsOccupied": 228,
+    "dailyRevenue": 71136,
+    "operationalCosts": 44846,
+    "grossOperatingProfit": 26290,
+    "averageDailyRate": 312,
+    "revPAR": 274
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-14",
+    "roomsOccupied": 163,
+    "dailyRevenue": 71557,
+    "operationalCosts": 42053,
+    "grossOperatingProfit": 29504,
+    "averageDailyRate": 439,
+    "revPAR": 398
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-14",
+    "roomsOccupied": 314,
+    "dailyRevenue": 143498,
+    "operationalCosts": 80161,
+    "grossOperatingProfit": 63337,
+    "averageDailyRate": 457,
+    "revPAR": 448
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-15",
+    "roomsOccupied": 235,
+    "dailyRevenue": 126430,
+    "operationalCosts": 76301,
+    "grossOperatingProfit": 50129,
+    "averageDailyRate": 538,
+    "revPAR": 452
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-15",
+    "roomsOccupied": 184,
+    "dailyRevenue": 88320,
+    "operationalCosts": 56841,
+    "grossOperatingProfit": 31479,
+    "averageDailyRate": 480,
+    "revPAR": 368
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-15",
+    "roomsOccupied": 165,
+    "dailyRevenue": 80190,
+    "operationalCosts": 50494,
+    "grossOperatingProfit": 29696,
+    "averageDailyRate": 486,
+    "revPAR": 401
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-15",
+    "roomsOccupied": 186,
+    "dailyRevenue": 70680,
+    "operationalCosts": 44420,
+    "grossOperatingProfit": 26260,
+    "averageDailyRate": 380,
+    "revPAR": 272
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-15",
+    "roomsOccupied": 143,
+    "dailyRevenue": 62491,
+    "operationalCosts": 36843,
+    "grossOperatingProfit": 25648,
+    "averageDailyRate": 437,
+    "revPAR": 347
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-15",
+    "roomsOccupied": 271,
+    "dailyRevenue": 123034,
+    "operationalCosts": 76377,
+    "grossOperatingProfit": 46657,
+    "averageDailyRate": 454,
+    "revPAR": 384
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-16",
+    "roomsOccupied": 207,
+    "dailyRevenue": 104949,
+    "operationalCosts": 58369,
+    "grossOperatingProfit": 46580,
+    "averageDailyRate": 507,
+    "revPAR": 375
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-16",
+    "roomsOccupied": 171,
+    "dailyRevenue": 76437,
+    "operationalCosts": 43915,
+    "grossOperatingProfit": 32522,
+    "averageDailyRate": 447,
+    "revPAR": 318
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-16",
+    "roomsOccupied": 155,
+    "dailyRevenue": 65100,
+    "operationalCosts": 38148,
+    "grossOperatingProfit": 26952,
+    "averageDailyRate": 420,
+    "revPAR": 326
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-16",
+    "roomsOccupied": 163,
+    "dailyRevenue": 49226,
+    "operationalCosts": 30384,
+    "grossOperatingProfit": 18842,
+    "averageDailyRate": 302,
+    "revPAR": 189
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-16",
+    "roomsOccupied": 124,
+    "dailyRevenue": 48360,
+    "operationalCosts": 30706,
+    "grossOperatingProfit": 17654,
+    "averageDailyRate": 390,
+    "revPAR": 269
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-16",
+    "roomsOccupied": 245,
+    "dailyRevenue": 108780,
+    "operationalCosts": 67619,
+    "grossOperatingProfit": 41161,
+    "averageDailyRate": 444,
+    "revPAR": 340
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-17",
+    "roomsOccupied": 223,
+    "dailyRevenue": 102357,
+    "operationalCosts": 66441,
+    "grossOperatingProfit": 35916,
+    "averageDailyRate": 459,
+    "revPAR": 366
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-17",
+    "roomsOccupied": 161,
+    "dailyRevenue": 66010,
+    "operationalCosts": 42487,
+    "grossOperatingProfit": 23523,
+    "averageDailyRate": 410,
+    "revPAR": 275
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-17",
+    "roomsOccupied": 140,
+    "dailyRevenue": 74620,
+    "operationalCosts": 47716,
+    "grossOperatingProfit": 26904,
+    "averageDailyRate": 533,
+    "revPAR": 373
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-17",
+    "roomsOccupied": 197,
+    "dailyRevenue": 75254,
+    "operationalCosts": 45118,
+    "grossOperatingProfit": 30136,
+    "averageDailyRate": 382,
+    "revPAR": 289
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-17",
+    "roomsOccupied": 139,
+    "dailyRevenue": 61021,
+    "operationalCosts": 39605,
+    "grossOperatingProfit": 21416,
+    "averageDailyRate": 439,
+    "revPAR": 339
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-17",
+    "roomsOccupied": 268,
+    "dailyRevenue": 110148,
+    "operationalCosts": 63391,
+    "grossOperatingProfit": 46757,
+    "averageDailyRate": 411,
+    "revPAR": 344
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-18",
+    "roomsOccupied": 225,
+    "dailyRevenue": 110700,
+    "operationalCosts": 64712,
+    "grossOperatingProfit": 45988,
+    "averageDailyRate": 492,
+    "revPAR": 395
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-18",
+    "roomsOccupied": 166,
+    "dailyRevenue": 76858,
+    "operationalCosts": 42553,
+    "grossOperatingProfit": 34305,
+    "averageDailyRate": 463,
+    "revPAR": 320
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-18",
+    "roomsOccupied": 157,
+    "dailyRevenue": 69394,
+    "operationalCosts": 43623,
+    "grossOperatingProfit": 25771,
+    "averageDailyRate": 442,
+    "revPAR": 347
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-18",
+    "roomsOccupied": 174,
+    "dailyRevenue": 50286,
+    "operationalCosts": 29488,
+    "grossOperatingProfit": 20798,
+    "averageDailyRate": 289,
+    "revPAR": 193
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-18",
+    "roomsOccupied": 120,
+    "dailyRevenue": 51000,
+    "operationalCosts": 31790,
+    "grossOperatingProfit": 19210,
+    "averageDailyRate": 425,
+    "revPAR": 283
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-18",
+    "roomsOccupied": 263,
+    "dailyRevenue": 99414,
+    "operationalCosts": 63451,
+    "grossOperatingProfit": 35963,
+    "averageDailyRate": 378,
+    "revPAR": 311
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-19",
+    "roomsOccupied": 210,
+    "dailyRevenue": 109830,
+    "operationalCosts": 61145,
+    "grossOperatingProfit": 48685,
+    "averageDailyRate": 523,
+    "revPAR": 392
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-19",
+    "roomsOccupied": 180,
+    "dailyRevenue": 73980,
+    "operationalCosts": 47042,
+    "grossOperatingProfit": 26938,
+    "averageDailyRate": 411,
+    "revPAR": 308
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-19",
+    "roomsOccupied": 146,
+    "dailyRevenue": 63656,
+    "operationalCosts": 35114,
+    "grossOperatingProfit": 28542,
+    "averageDailyRate": 436,
+    "revPAR": 318
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-19",
+    "roomsOccupied": 164,
+    "dailyRevenue": 58220,
+    "operationalCosts": 35337,
+    "grossOperatingProfit": 22883,
+    "averageDailyRate": 355,
+    "revPAR": 224
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-19",
+    "roomsOccupied": 137,
+    "dailyRevenue": 48361,
+    "operationalCosts": 26796,
+    "grossOperatingProfit": 21565,
+    "averageDailyRate": 353,
+    "revPAR": 269
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-19",
+    "roomsOccupied": 231,
+    "dailyRevenue": 93093,
+    "operationalCosts": 56820,
+    "grossOperatingProfit": 36273,
+    "averageDailyRate": 403,
+    "revPAR": 291
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-20",
+    "roomsOccupied": 257,
+    "dailyRevenue": 144691,
+    "operationalCosts": 91831,
+    "grossOperatingProfit": 52860,
+    "averageDailyRate": 563,
+    "revPAR": 517
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-20",
+    "roomsOccupied": 227,
+    "dailyRevenue": 110095,
+    "operationalCosts": 61951,
+    "grossOperatingProfit": 48144,
+    "averageDailyRate": 485,
+    "revPAR": 459
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-20",
+    "roomsOccupied": 187,
+    "dailyRevenue": 92191,
+    "operationalCosts": 58309,
+    "grossOperatingProfit": 33882,
+    "averageDailyRate": 493,
+    "revPAR": 461
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-20",
+    "roomsOccupied": 235,
+    "dailyRevenue": 70030,
+    "operationalCosts": 42921,
+    "grossOperatingProfit": 27109,
+    "averageDailyRate": 298,
+    "revPAR": 269
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-20",
+    "roomsOccupied": 153,
+    "dailyRevenue": 66708,
+    "operationalCosts": 40951,
+    "grossOperatingProfit": 25757,
+    "averageDailyRate": 436,
+    "revPAR": 371
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-20",
+    "roomsOccupied": 309,
+    "dailyRevenue": 132561,
+    "operationalCosts": 81068,
+    "grossOperatingProfit": 51493,
+    "averageDailyRate": 429,
+    "revPAR": 414
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-21",
+    "roomsOccupied": 266,
+    "dailyRevenue": 139916,
+    "operationalCosts": 89235,
+    "grossOperatingProfit": 50681,
+    "averageDailyRate": 526,
+    "revPAR": 500
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-21",
+    "roomsOccupied": 220,
+    "dailyRevenue": 105380,
+    "operationalCosts": 63908,
+    "grossOperatingProfit": 41472,
+    "averageDailyRate": 479,
+    "revPAR": 439
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-21",
+    "roomsOccupied": 186,
+    "dailyRevenue": 94860,
+    "operationalCosts": 57262,
+    "grossOperatingProfit": 37598,
+    "averageDailyRate": 510,
+    "revPAR": 474
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-21",
+    "roomsOccupied": 236,
+    "dailyRevenue": 79532,
+    "operationalCosts": 44149,
+    "grossOperatingProfit": 35383,
+    "averageDailyRate": 337,
+    "revPAR": 306
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-21",
+    "roomsOccupied": 160,
+    "dailyRevenue": 62880,
+    "operationalCosts": 37307,
+    "grossOperatingProfit": 25573,
+    "averageDailyRate": 393,
+    "revPAR": 349
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-21",
+    "roomsOccupied": 302,
+    "dailyRevenue": 93318,
+    "operationalCosts": 55444,
+    "grossOperatingProfit": 37874,
+    "averageDailyRate": 309,
+    "revPAR": 292
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-22",
+    "roomsOccupied": 200,
+    "dailyRevenue": 91400,
+    "operationalCosts": 58122,
+    "grossOperatingProfit": 33278,
+    "averageDailyRate": 457,
+    "revPAR": 326
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-22",
+    "roomsOccupied": 159,
+    "dailyRevenue": 69006,
+    "operationalCosts": 42488,
+    "grossOperatingProfit": 26518,
+    "averageDailyRate": 434,
+    "revPAR": 288
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-22",
+    "roomsOccupied": 147,
+    "dailyRevenue": 75117,
+    "operationalCosts": 46236,
+    "grossOperatingProfit": 28881,
+    "averageDailyRate": 511,
+    "revPAR": 376
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-22",
+    "roomsOccupied": 192,
+    "dailyRevenue": 67008,
+    "operationalCosts": 38495,
+    "grossOperatingProfit": 28513,
+    "averageDailyRate": 349,
+    "revPAR": 258
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-22",
+    "roomsOccupied": 133,
+    "dailyRevenue": 54397,
+    "operationalCosts": 34915,
+    "grossOperatingProfit": 19482,
+    "averageDailyRate": 409,
+    "revPAR": 302
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-22",
+    "roomsOccupied": 258,
+    "dailyRevenue": 92364,
+    "operationalCosts": 51278,
+    "grossOperatingProfit": 41086,
+    "averageDailyRate": 358,
+    "revPAR": 289
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-23",
+    "roomsOccupied": 216,
+    "dailyRevenue": 99576,
+    "operationalCosts": 63615,
+    "grossOperatingProfit": 35961,
+    "averageDailyRate": 461,
+    "revPAR": 356
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-23",
+    "roomsOccupied": 157,
+    "dailyRevenue": 73633,
+    "operationalCosts": 42456,
+    "grossOperatingProfit": 31177,
+    "averageDailyRate": 469,
+    "revPAR": 307
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-23",
+    "roomsOccupied": 155,
+    "dailyRevenue": 77810,
+    "operationalCosts": 50210,
+    "grossOperatingProfit": 27600,
+    "averageDailyRate": 502,
+    "revPAR": 389
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-23",
+    "roomsOccupied": 194,
+    "dailyRevenue": 61110,
+    "operationalCosts": 38259,
+    "grossOperatingProfit": 22851,
+    "averageDailyRate": 315,
+    "revPAR": 235
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-23",
+    "roomsOccupied": 125,
+    "dailyRevenue": 56500,
+    "operationalCosts": 34174,
+    "grossOperatingProfit": 22326,
+    "averageDailyRate": 452,
+    "revPAR": 314
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-23",
+    "roomsOccupied": 270,
+    "dailyRevenue": 122310,
+    "operationalCosts": 75905,
+    "grossOperatingProfit": 46405,
+    "averageDailyRate": 453,
+    "revPAR": 382
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-24",
+    "roomsOccupied": 223,
+    "dailyRevenue": 107263,
+    "operationalCosts": 66480,
+    "grossOperatingProfit": 40783,
+    "averageDailyRate": 481,
+    "revPAR": 383
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-24",
+    "roomsOccupied": 169,
+    "dailyRevenue": 67262,
+    "operationalCosts": 40056,
+    "grossOperatingProfit": 27206,
+    "averageDailyRate": 398,
+    "revPAR": 280
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-24",
+    "roomsOccupied": 139,
+    "dailyRevenue": 67832,
+    "operationalCosts": 37598,
+    "grossOperatingProfit": 30234,
+    "averageDailyRate": 488,
+    "revPAR": 339
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-24",
+    "roomsOccupied": 187,
+    "dailyRevenue": 59279,
+    "operationalCosts": 33848,
+    "grossOperatingProfit": 25431,
+    "averageDailyRate": 317,
+    "revPAR": 228
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-24",
+    "roomsOccupied": 129,
+    "dailyRevenue": 44892,
+    "operationalCosts": 25143,
+    "grossOperatingProfit": 19749,
+    "averageDailyRate": 348,
+    "revPAR": 249
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-24",
+    "roomsOccupied": 232,
+    "dailyRevenue": 77488,
+    "operationalCosts": 48066,
+    "grossOperatingProfit": 29422,
+    "averageDailyRate": 334,
+    "revPAR": 242
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-25",
+    "roomsOccupied": 224,
+    "dailyRevenue": 109088,
+    "operationalCosts": 67043,
+    "grossOperatingProfit": 42045,
+    "averageDailyRate": 487,
+    "revPAR": 390
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-25",
+    "roomsOccupied": 165,
+    "dailyRevenue": 76065,
+    "operationalCosts": 48192,
+    "grossOperatingProfit": 27873,
+    "averageDailyRate": 461,
+    "revPAR": 317
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-25",
+    "roomsOccupied": 154,
+    "dailyRevenue": 76076,
+    "operationalCosts": 43506,
+    "grossOperatingProfit": 32570,
+    "averageDailyRate": 494,
+    "revPAR": 380
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-25",
+    "roomsOccupied": 185,
+    "dailyRevenue": 66045,
+    "operationalCosts": 39236,
+    "grossOperatingProfit": 26809,
+    "averageDailyRate": 357,
+    "revPAR": 254
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-25",
+    "roomsOccupied": 137,
+    "dailyRevenue": 50827,
+    "operationalCosts": 28307,
+    "grossOperatingProfit": 22520,
+    "averageDailyRate": 371,
+    "revPAR": 282
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-25",
+    "roomsOccupied": 239,
+    "dailyRevenue": 90342,
+    "operationalCosts": 50667,
+    "grossOperatingProfit": 39675,
+    "averageDailyRate": 378,
+    "revPAR": 282
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-26",
+    "roomsOccupied": 206,
+    "dailyRevenue": 98056,
+    "operationalCosts": 55941,
+    "grossOperatingProfit": 42115,
+    "averageDailyRate": 476,
+    "revPAR": 350
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-26",
+    "roomsOccupied": 165,
+    "dailyRevenue": 68310,
+    "operationalCosts": 42735,
+    "grossOperatingProfit": 25575,
+    "averageDailyRate": 414,
+    "revPAR": 285
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-26",
+    "roomsOccupied": 146,
+    "dailyRevenue": 65262,
+    "operationalCosts": 41481,
+    "grossOperatingProfit": 23781,
+    "averageDailyRate": 447,
+    "revPAR": 326
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-26",
+    "roomsOccupied": 169,
+    "dailyRevenue": 61347,
+    "operationalCosts": 37331,
+    "grossOperatingProfit": 24016,
+    "averageDailyRate": 363,
+    "revPAR": 236
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-26",
+    "roomsOccupied": 135,
+    "dailyRevenue": 59130,
+    "operationalCosts": 34658,
+    "grossOperatingProfit": 24472,
+    "averageDailyRate": 438,
+    "revPAR": 329
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-26",
+    "roomsOccupied": 266,
+    "dailyRevenue": 110124,
+    "operationalCosts": 69523,
+    "grossOperatingProfit": 40601,
+    "averageDailyRate": 414,
+    "revPAR": 344
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-27",
+    "roomsOccupied": 248,
+    "dailyRevenue": 125488,
+    "operationalCosts": 69047,
+    "grossOperatingProfit": 56441,
+    "averageDailyRate": 506,
+    "revPAR": 448
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-27",
+    "roomsOccupied": 220,
+    "dailyRevenue": 85580,
+    "operationalCosts": 51178,
+    "grossOperatingProfit": 34402,
+    "averageDailyRate": 389,
+    "revPAR": 357
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-27",
+    "roomsOccupied": 175,
+    "dailyRevenue": 73500,
+    "operationalCosts": 42003,
+    "grossOperatingProfit": 31497,
+    "averageDailyRate": 420,
+    "revPAR": 368
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-27",
+    "roomsOccupied": 213,
+    "dailyRevenue": 68586,
+    "operationalCosts": 44336,
+    "grossOperatingProfit": 24250,
+    "averageDailyRate": 322,
+    "revPAR": 264
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-27",
+    "roomsOccupied": 159,
+    "dailyRevenue": 60738,
+    "operationalCosts": 35969,
+    "grossOperatingProfit": 24769,
+    "averageDailyRate": 382,
+    "revPAR": 337
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-27",
+    "roomsOccupied": 293,
+    "dailyRevenue": 143863,
+    "operationalCosts": 80142,
+    "grossOperatingProfit": 63721,
+    "averageDailyRate": 491,
+    "revPAR": 450
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-02-28",
+    "roomsOccupied": 251,
+    "dailyRevenue": 133030,
+    "operationalCosts": 79147,
+    "grossOperatingProfit": 53883,
+    "averageDailyRate": 530,
+    "revPAR": 475
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-02-28",
+    "roomsOccupied": 226,
+    "dailyRevenue": 88592,
+    "operationalCosts": 56935,
+    "grossOperatingProfit": 31657,
+    "averageDailyRate": 392,
+    "revPAR": 369
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-02-28",
+    "roomsOccupied": 174,
+    "dailyRevenue": 82998,
+    "operationalCosts": 51844,
+    "grossOperatingProfit": 31154,
+    "averageDailyRate": 477,
+    "revPAR": 415
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-02-28",
+    "roomsOccupied": 225,
+    "dailyRevenue": 85050,
+    "operationalCosts": 54436,
+    "grossOperatingProfit": 30614,
+    "averageDailyRate": 378,
+    "revPAR": 327
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-02-28",
+    "roomsOccupied": 166,
+    "dailyRevenue": 72210,
+    "operationalCosts": 44768,
+    "grossOperatingProfit": 27442,
+    "averageDailyRate": 435,
+    "revPAR": 401
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-02-28",
+    "roomsOccupied": 307,
+    "dailyRevenue": 149202,
+    "operationalCosts": 94140,
+    "grossOperatingProfit": 55062,
+    "averageDailyRate": 486,
+    "revPAR": 466
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-01",
+    "roomsOccupied": 208,
+    "dailyRevenue": 102960,
+    "operationalCosts": 63778,
+    "grossOperatingProfit": 39182,
+    "averageDailyRate": 495,
+    "revPAR": 368
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-01",
+    "roomsOccupied": 167,
+    "dailyRevenue": 79492,
+    "operationalCosts": 48007,
+    "grossOperatingProfit": 31485,
+    "averageDailyRate": 476,
+    "revPAR": 331
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-01",
+    "roomsOccupied": 158,
+    "dailyRevenue": 77578,
+    "operationalCosts": 43386,
+    "grossOperatingProfit": 34192,
+    "averageDailyRate": 491,
+    "revPAR": 388
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-01",
+    "roomsOccupied": 186,
+    "dailyRevenue": 60636,
+    "operationalCosts": 35359,
+    "grossOperatingProfit": 25277,
+    "averageDailyRate": 326,
+    "revPAR": 233
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-01",
+    "roomsOccupied": 130,
+    "dailyRevenue": 46280,
+    "operationalCosts": 29080,
+    "grossOperatingProfit": 17200,
+    "averageDailyRate": 356,
+    "revPAR": 257
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-01",
+    "roomsOccupied": 234,
+    "dailyRevenue": 87048,
+    "operationalCosts": 50451,
+    "grossOperatingProfit": 36597,
+    "averageDailyRate": 372,
+    "revPAR": 272
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-02",
+    "roomsOccupied": 222,
+    "dailyRevenue": 121878,
+    "operationalCosts": 69179,
+    "grossOperatingProfit": 52699,
+    "averageDailyRate": 549,
+    "revPAR": 435
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-02",
+    "roomsOccupied": 187,
+    "dailyRevenue": 78727,
+    "operationalCosts": 49914,
+    "grossOperatingProfit": 28813,
+    "averageDailyRate": 421,
+    "revPAR": 328
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-02",
+    "roomsOccupied": 148,
+    "dailyRevenue": 66156,
+    "operationalCosts": 42741,
+    "grossOperatingProfit": 23415,
+    "averageDailyRate": 447,
+    "revPAR": 331
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-02",
+    "roomsOccupied": 168,
+    "dailyRevenue": 62832,
+    "operationalCosts": 39357,
+    "grossOperatingProfit": 23475,
+    "averageDailyRate": 374,
+    "revPAR": 242
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-02",
+    "roomsOccupied": 137,
+    "dailyRevenue": 62061,
+    "operationalCosts": 36090,
+    "grossOperatingProfit": 25971,
+    "averageDailyRate": 453,
+    "revPAR": 345
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-02",
+    "roomsOccupied": 270,
+    "dailyRevenue": 120960,
+    "operationalCosts": 76830,
+    "grossOperatingProfit": 44130,
+    "averageDailyRate": 448,
+    "revPAR": 378
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-03",
+    "roomsOccupied": 224,
+    "dailyRevenue": 107744,
+    "operationalCosts": 69840,
+    "grossOperatingProfit": 37904,
+    "averageDailyRate": 481,
+    "revPAR": 385
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-03",
+    "roomsOccupied": 166,
+    "dailyRevenue": 73372,
+    "operationalCosts": 44597,
+    "grossOperatingProfit": 28775,
+    "averageDailyRate": 442,
+    "revPAR": 306
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-03",
+    "roomsOccupied": 148,
+    "dailyRevenue": 77108,
+    "operationalCosts": 49360,
+    "grossOperatingProfit": 27748,
+    "averageDailyRate": 521,
+    "revPAR": 386
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-03",
+    "roomsOccupied": 197,
+    "dailyRevenue": 68162,
+    "operationalCosts": 43206,
+    "grossOperatingProfit": 24956,
+    "averageDailyRate": 346,
+    "revPAR": 262
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-03",
+    "roomsOccupied": 131,
+    "dailyRevenue": 58819,
+    "operationalCosts": 33581,
+    "grossOperatingProfit": 25238,
+    "averageDailyRate": 449,
+    "revPAR": 327
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-03",
+    "roomsOccupied": 268,
+    "dailyRevenue": 123280,
+    "operationalCosts": 76066,
+    "grossOperatingProfit": 47214,
+    "averageDailyRate": 460,
+    "revPAR": 385
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-04",
+    "roomsOccupied": 201,
+    "dailyRevenue": 96279,
+    "operationalCosts": 54586,
+    "grossOperatingProfit": 41693,
+    "averageDailyRate": 479,
+    "revPAR": 344
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-04",
+    "roomsOccupied": 166,
+    "dailyRevenue": 67562,
+    "operationalCosts": 39482,
+    "grossOperatingProfit": 28080,
+    "averageDailyRate": 407,
+    "revPAR": 282
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-04",
+    "roomsOccupied": 145,
+    "dailyRevenue": 62785,
+    "operationalCosts": 34784,
+    "grossOperatingProfit": 28001,
+    "averageDailyRate": 433,
+    "revPAR": 314
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-04",
+    "roomsOccupied": 167,
+    "dailyRevenue": 51102,
+    "operationalCosts": 31953,
+    "grossOperatingProfit": 19149,
+    "averageDailyRate": 306,
+    "revPAR": 197
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-04",
+    "roomsOccupied": 126,
+    "dailyRevenue": 45234,
+    "operationalCosts": 28574,
+    "grossOperatingProfit": 16660,
+    "averageDailyRate": 359,
+    "revPAR": 251
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-04",
+    "roomsOccupied": 232,
+    "dailyRevenue": 106488,
+    "operationalCosts": 68273,
+    "grossOperatingProfit": 38215,
+    "averageDailyRate": 459,
+    "revPAR": 333
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-05",
+    "roomsOccupied": 213,
+    "dailyRevenue": 114168,
+    "operationalCosts": 65481,
+    "grossOperatingProfit": 48687,
+    "averageDailyRate": 536,
+    "revPAR": 408
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-05",
+    "roomsOccupied": 181,
+    "dailyRevenue": 80364,
+    "operationalCosts": 44965,
+    "grossOperatingProfit": 35399,
+    "averageDailyRate": 444,
+    "revPAR": 335
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-05",
+    "roomsOccupied": 153,
+    "dailyRevenue": 66249,
+    "operationalCosts": 39932,
+    "grossOperatingProfit": 26317,
+    "averageDailyRate": 433,
+    "revPAR": 331
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-05",
+    "roomsOccupied": 170,
+    "dailyRevenue": 49300,
+    "operationalCosts": 31037,
+    "grossOperatingProfit": 18263,
+    "averageDailyRate": 290,
+    "revPAR": 190
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-05",
+    "roomsOccupied": 121,
+    "dailyRevenue": 49610,
+    "operationalCosts": 28773,
+    "grossOperatingProfit": 20837,
+    "averageDailyRate": 410,
+    "revPAR": 276
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-05",
+    "roomsOccupied": 252,
+    "dailyRevenue": 114408,
+    "operationalCosts": 65945,
+    "grossOperatingProfit": 48463,
+    "averageDailyRate": 454,
+    "revPAR": 358
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-06",
+    "roomsOccupied": 249,
+    "dailyRevenue": 118275,
+    "operationalCosts": 67191,
+    "grossOperatingProfit": 51084,
+    "averageDailyRate": 475,
+    "revPAR": 422
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-06",
+    "roomsOccupied": 209,
+    "dailyRevenue": 92587,
+    "operationalCosts": 56323,
+    "grossOperatingProfit": 36264,
+    "averageDailyRate": 443,
+    "revPAR": 386
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-06",
+    "roomsOccupied": 183,
+    "dailyRevenue": 80520,
+    "operationalCosts": 48174,
+    "grossOperatingProfit": 32346,
+    "averageDailyRate": 440,
+    "revPAR": 403
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-06",
+    "roomsOccupied": 218,
+    "dailyRevenue": 73684,
+    "operationalCosts": 45609,
+    "grossOperatingProfit": 28075,
+    "averageDailyRate": 338,
+    "revPAR": 283
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-06",
+    "roomsOccupied": 161,
+    "dailyRevenue": 64883,
+    "operationalCosts": 36441,
+    "grossOperatingProfit": 28442,
+    "averageDailyRate": 403,
+    "revPAR": 360
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-06",
+    "roomsOccupied": 300,
+    "dailyRevenue": 128400,
+    "operationalCosts": 82968,
+    "grossOperatingProfit": 45432,
+    "averageDailyRate": 428,
+    "revPAR": 401
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-07",
+    "roomsOccupied": 259,
+    "dailyRevenue": 140378,
+    "operationalCosts": 90888,
+    "grossOperatingProfit": 49490,
+    "averageDailyRate": 542,
+    "revPAR": 501
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-07",
+    "roomsOccupied": 226,
+    "dailyRevenue": 99440,
+    "operationalCosts": 62243,
+    "grossOperatingProfit": 37197,
+    "averageDailyRate": 440,
+    "revPAR": 414
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-07",
+    "roomsOccupied": 180,
+    "dailyRevenue": 94680,
+    "operationalCosts": 60567,
+    "grossOperatingProfit": 34113,
+    "averageDailyRate": 526,
+    "revPAR": 473
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-07",
+    "roomsOccupied": 239,
+    "dailyRevenue": 86996,
+    "operationalCosts": 50134,
+    "grossOperatingProfit": 36862,
+    "averageDailyRate": 364,
+    "revPAR": 335
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-07",
+    "roomsOccupied": 164,
+    "dailyRevenue": 71012,
+    "operationalCosts": 42640,
+    "grossOperatingProfit": 28372,
+    "averageDailyRate": 433,
+    "revPAR": 395
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-07",
+    "roomsOccupied": 311,
+    "dailyRevenue": 109783,
+    "operationalCosts": 67346,
+    "grossOperatingProfit": 42437,
+    "averageDailyRate": 353,
+    "revPAR": 343
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-08",
+    "roomsOccupied": 196,
+    "dailyRevenue": 92708,
+    "operationalCosts": 55711,
+    "grossOperatingProfit": 36997,
+    "averageDailyRate": 473,
+    "revPAR": 331
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-08",
+    "roomsOccupied": 161,
+    "dailyRevenue": 73416,
+    "operationalCosts": 45793,
+    "grossOperatingProfit": 27623,
+    "averageDailyRate": 456,
+    "revPAR": 306
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-08",
+    "roomsOccupied": 154,
+    "dailyRevenue": 73612,
+    "operationalCosts": 45051,
+    "grossOperatingProfit": 28561,
+    "averageDailyRate": 478,
+    "revPAR": 368
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-08",
+    "roomsOccupied": 180,
+    "dailyRevenue": 64080,
+    "operationalCosts": 36050,
+    "grossOperatingProfit": 28030,
+    "averageDailyRate": 356,
+    "revPAR": 246
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-08",
+    "roomsOccupied": 135,
+    "dailyRevenue": 54405,
+    "operationalCosts": 32918,
+    "grossOperatingProfit": 21487,
+    "averageDailyRate": 403,
+    "revPAR": 302
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-08",
+    "roomsOccupied": 256,
+    "dailyRevenue": 83456,
+    "operationalCosts": 45905,
+    "grossOperatingProfit": 37551,
+    "averageDailyRate": 326,
+    "revPAR": 261
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-09",
+    "roomsOccupied": 210,
+    "dailyRevenue": 95340,
+    "operationalCosts": 52687,
+    "grossOperatingProfit": 42653,
+    "averageDailyRate": 454,
+    "revPAR": 341
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-09",
+    "roomsOccupied": 156,
+    "dailyRevenue": 67080,
+    "operationalCosts": 37566,
+    "grossOperatingProfit": 29514,
+    "averageDailyRate": 430,
+    "revPAR": 280
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-09",
+    "roomsOccupied": 151,
+    "dailyRevenue": 62212,
+    "operationalCosts": 39909,
+    "grossOperatingProfit": 22303,
+    "averageDailyRate": 412,
+    "revPAR": 311
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-09",
+    "roomsOccupied": 162,
+    "dailyRevenue": 48114,
+    "operationalCosts": 26505,
+    "grossOperatingProfit": 21609,
+    "averageDailyRate": 297,
+    "revPAR": 185
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-09",
+    "roomsOccupied": 121,
+    "dailyRevenue": 51788,
+    "operationalCosts": 30695,
+    "grossOperatingProfit": 21093,
+    "averageDailyRate": 428,
+    "revPAR": 288
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-09",
+    "roomsOccupied": 268,
+    "dailyRevenue": 80400,
+    "operationalCosts": 50759,
+    "grossOperatingProfit": 29641,
+    "averageDailyRate": 300,
+    "revPAR": 251
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-10",
+    "roomsOccupied": 222,
+    "dailyRevenue": 122322,
+    "operationalCosts": 74753,
+    "grossOperatingProfit": 47569,
+    "averageDailyRate": 551,
+    "revPAR": 437
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-10",
+    "roomsOccupied": 187,
+    "dailyRevenue": 82467,
+    "operationalCosts": 53257,
+    "grossOperatingProfit": 29210,
+    "averageDailyRate": 441,
+    "revPAR": 344
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-10",
+    "roomsOccupied": 150,
+    "dailyRevenue": 74100,
+    "operationalCosts": 42193,
+    "grossOperatingProfit": 31907,
+    "averageDailyRate": 494,
+    "revPAR": 371
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-10",
+    "roomsOccupied": 183,
+    "dailyRevenue": 67527,
+    "operationalCosts": 39741,
+    "grossOperatingProfit": 27786,
+    "averageDailyRate": 369,
+    "revPAR": 260
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-10",
+    "roomsOccupied": 139,
+    "dailyRevenue": 51013,
+    "operationalCosts": 28268,
+    "grossOperatingProfit": 22745,
+    "averageDailyRate": 367,
+    "revPAR": 283
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-10",
+    "roomsOccupied": 238,
+    "dailyRevenue": 87346,
+    "operationalCosts": 56755,
+    "grossOperatingProfit": 30591,
+    "averageDailyRate": 367,
+    "revPAR": 273
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-11",
+    "roomsOccupied": 213,
+    "dailyRevenue": 97554,
+    "operationalCosts": 56930,
+    "grossOperatingProfit": 40624,
+    "averageDailyRate": 458,
+    "revPAR": 348
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-11",
+    "roomsOccupied": 163,
+    "dailyRevenue": 62266,
+    "operationalCosts": 36054,
+    "grossOperatingProfit": 26212,
+    "averageDailyRate": 382,
+    "revPAR": 259
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-11",
+    "roomsOccupied": 137,
+    "dailyRevenue": 61376,
+    "operationalCosts": 39851,
+    "grossOperatingProfit": 21525,
+    "averageDailyRate": 448,
+    "revPAR": 307
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-11",
+    "roomsOccupied": 173,
+    "dailyRevenue": 55014,
+    "operationalCosts": 33430,
+    "grossOperatingProfit": 21584,
+    "averageDailyRate": 318,
+    "revPAR": 212
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-11",
+    "roomsOccupied": 125,
+    "dailyRevenue": 56375,
+    "operationalCosts": 36267,
+    "grossOperatingProfit": 20108,
+    "averageDailyRate": 451,
+    "revPAR": 313
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-11",
+    "roomsOccupied": 272,
+    "dailyRevenue": 115872,
+    "operationalCosts": 68473,
+    "grossOperatingProfit": 47399,
+    "averageDailyRate": 426,
+    "revPAR": 362
+  },
+  {
+    "branchId": "br-001",
+    "date": "2026-03-12",
+    "roomsOccupied": 221,
+    "dailyRevenue": 104533,
+    "operationalCosts": 62520,
+    "grossOperatingProfit": 42013,
+    "averageDailyRate": 473,
+    "revPAR": 373
+  },
+  {
+    "branchId": "br-002",
+    "date": "2026-03-12",
+    "roomsOccupied": 166,
+    "dailyRevenue": 65072,
+    "operationalCosts": 38208,
+    "grossOperatingProfit": 26864,
+    "averageDailyRate": 392,
+    "revPAR": 271
+  },
+  {
+    "branchId": "br-003",
+    "date": "2026-03-12",
+    "roomsOccupied": 139,
+    "dailyRevenue": 64496,
+    "operationalCosts": 37840,
+    "grossOperatingProfit": 26656,
+    "averageDailyRate": 464,
+    "revPAR": 322
+  },
+  {
+    "branchId": "br-004",
+    "date": "2026-03-12",
+    "roomsOccupied": 179,
+    "dailyRevenue": 56385,
+    "operationalCosts": 35574,
+    "grossOperatingProfit": 20811,
+    "averageDailyRate": 315,
+    "revPAR": 217
+  },
+  {
+    "branchId": "br-005",
+    "date": "2026-03-12",
+    "roomsOccupied": 127,
+    "dailyRevenue": 50038,
+    "operationalCosts": 31510,
+    "grossOperatingProfit": 18528,
+    "averageDailyRate": 394,
+    "revPAR": 278
+  },
+  {
+    "branchId": "br-006",
+    "date": "2026-03-12",
+    "roomsOccupied": 246,
+    "dailyRevenue": 115620,
+    "operationalCosts": 66753,
+    "grossOperatingProfit": 48867,
+    "averageDailyRate": 470,
+    "revPAR": 361
+  }
+]

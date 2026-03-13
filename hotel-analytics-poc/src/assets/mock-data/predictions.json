@@ -1,0 +1,470 @@
+[
+  {
+    "branchId": "br-001",
+    "eventName": "Christmas",
+    "eventDate": "2026-12-25",
+    "predictedOccupancy": 99,
+    "predictedCovers": 1352,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 152
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 105
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 109
+      }
+    ]
+  },
+  {
+    "branchId": "br-001",
+    "eventName": "Thanksgiving",
+    "eventDate": "2026-11-26",
+    "predictedOccupancy": 96,
+    "predictedCovers": 1336,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 129
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 130
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 90
+      }
+    ]
+  },
+  {
+    "branchId": "br-001",
+    "eventName": "Super Bowl",
+    "eventDate": "2027-02-07",
+    "predictedOccupancy": 95,
+    "predictedCovers": 1309,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 135
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 119
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 137
+      }
+    ]
+  },
+  {
+    "branchId": "br-002",
+    "eventName": "July 4th",
+    "eventDate": "2026-07-04",
+    "predictedOccupancy": 95,
+    "predictedCovers": 1109,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 139
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 113
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 138
+      }
+    ]
+  },
+  {
+    "branchId": "br-002",
+    "eventName": "Spring Break",
+    "eventDate": "2026-03-15",
+    "predictedOccupancy": 93,
+    "predictedCovers": 1174,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 198
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 126
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 99
+      }
+    ]
+  },
+  {
+    "branchId": "br-002",
+    "eventName": "Labor Day",
+    "eventDate": "2026-09-07",
+    "predictedOccupancy": 92,
+    "predictedCovers": 1129,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 142
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 120
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 106
+      }
+    ]
+  },
+  {
+    "branchId": "br-003",
+    "eventName": "New Year's Eve",
+    "eventDate": "2026-12-31",
+    "predictedOccupancy": 100,
+    "predictedCovers": 1490,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 131
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 101
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 138
+      }
+    ]
+  },
+  {
+    "branchId": "br-003",
+    "eventName": "Memorial Day Weekend",
+    "eventDate": "2026-05-25",
+    "predictedOccupancy": 98,
+    "predictedCovers": 1234,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 169
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 144
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 137
+      }
+    ]
+  },
+  {
+    "branchId": "br-003",
+    "eventName": "Thanksgiving",
+    "eventDate": "2026-11-26",
+    "predictedOccupancy": 100,
+    "predictedCovers": 1389,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 188
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 155
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 130
+      }
+    ]
+  },
+  {
+    "branchId": "br-004",
+    "eventName": "Christmas",
+    "eventDate": "2026-12-25",
+    "predictedOccupancy": 98,
+    "predictedCovers": 1394,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 127
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 131
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 113
+      }
+    ]
+  },
+  {
+    "branchId": "br-004",
+    "eventName": "Spring Break",
+    "eventDate": "2026-03-15",
+    "predictedOccupancy": 93,
+    "predictedCovers": 1201,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 139
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 140
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 140
+      }
+    ]
+  },
+  {
+    "branchId": "br-004",
+    "eventName": "New Year's Eve",
+    "eventDate": "2026-12-31",
+    "predictedOccupancy": 101,
+    "predictedCovers": 1487,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 183
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 145
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 129
+      }
+    ]
+  },
+  {
+    "branchId": "br-005",
+    "eventName": "Thanksgiving",
+    "eventDate": "2026-11-26",
+    "predictedOccupancy": 99,
+    "predictedCovers": 1370,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 168
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 109
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 127
+      }
+    ]
+  },
+  {
+    "branchId": "br-005",
+    "eventName": "Spring Break",
+    "eventDate": "2026-03-15",
+    "predictedOccupancy": 93,
+    "predictedCovers": 1235,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 131
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 135
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 114
+      }
+    ]
+  },
+  {
+    "branchId": "br-005",
+    "eventName": "Super Bowl",
+    "eventDate": "2027-02-07",
+    "predictedOccupancy": 99,
+    "predictedCovers": 1299,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 198
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 157
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 91
+      }
+    ]
+  },
+  {
+    "branchId": "br-006",
+    "eventName": "Christmas",
+    "eventDate": "2026-12-25",
+    "predictedOccupancy": 101,
+    "predictedCovers": 1385,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 141
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 111
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 90
+      }
+    ]
+  },
+  {
+    "branchId": "br-006",
+    "eventName": "Labor Day",
+    "eventDate": "2026-09-07",
+    "predictedOccupancy": 90,
+    "predictedCovers": 1109,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 126
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 125
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 96
+      }
+    ]
+  },
+  {
+    "branchId": "br-006",
+    "eventName": "Super Bowl",
+    "eventDate": "2027-02-07",
+    "predictedOccupancy": 99,
+    "predictedCovers": 1265,
+    "recommendations": {
+      "inventoryBuffer": "Increase protein par levels by 30%. Order additional premium spirits.",
+      "staffingAction": "Schedule 12 additional staff. Cross-train 6 existing employees for front-of-house.",
+      "utilityCostProjection": "Expected 20% increase in HVAC costs. Pre-authorize $8,500 utility budget."
+    },
+    "demandForecast": [
+      {
+        "dishId": "dish-001",
+        "predictedUnits": 193
+      },
+      {
+        "dishId": "dish-003",
+        "predictedUnits": 145
+      },
+      {
+        "dishId": "dish-011",
+        "predictedUnits": 113
+      }
+    ]
+  }
+]

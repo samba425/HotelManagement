@@ -1,0 +1,142 @@
+[
+  {
+    "restaurantId": "rst-001",
+    "branchId": "br-001",
+    "name": "Prime 455 Steakhouse",
+    "cuisineType": "Steakhouse",
+    "seatingCapacity": 80
+  },
+  {
+    "restaurantId": "rst-002",
+    "branchId": "br-001",
+    "name": "Azure Seafood Grill",
+    "cuisineType": "Seafood",
+    "seatingCapacity": 60
+  },
+  {
+    "restaurantId": "rst-003",
+    "branchId": "br-001",
+    "name": "The Garden Table",
+    "cuisineType": "Farm-to-Table",
+    "seatingCapacity": 90
+  },
+  {
+    "restaurantId": "rst-004",
+    "branchId": "br-001",
+    "name": "Vino Trattoria",
+    "cuisineType": "Italian",
+    "seatingCapacity": 70
+  },
+  {
+    "restaurantId": "rst-005",
+    "branchId": "br-002",
+    "name": "Ocean's Edge",
+    "cuisineType": "Seafood",
+    "seatingCapacity": 100
+  },
+  {
+    "restaurantId": "rst-006",
+    "branchId": "br-002",
+    "name": "Fuego Latin Kitchen",
+    "cuisineType": "Latin American",
+    "seatingCapacity": 80
+  },
+  {
+    "restaurantId": "rst-007",
+    "branchId": "br-002",
+    "name": "Skyline Rooftop Bar",
+    "cuisineType": "American Contemporary",
+    "seatingCapacity": 60
+  },
+  {
+    "restaurantId": "rst-008",
+    "branchId": "br-003",
+    "name": "The Wilshire Grill",
+    "cuisineType": "Steakhouse",
+    "seatingCapacity": 70
+  },
+  {
+    "restaurantId": "rst-009",
+    "branchId": "br-003",
+    "name": "Sakura Sushi Bar",
+    "cuisineType": "Japanese",
+    "seatingCapacity": 50
+  },
+  {
+    "restaurantId": "rst-010",
+    "branchId": "br-003",
+    "name": "Provence Bistro",
+    "cuisineType": "French",
+    "seatingCapacity": 65
+  },
+  {
+    "restaurantId": "rst-011",
+    "branchId": "br-004",
+    "name": "Lakeview Chophouse",
+    "cuisineType": "Steakhouse",
+    "seatingCapacity": 90
+  },
+  {
+    "restaurantId": "rst-012",
+    "branchId": "br-004",
+    "name": "Nonna's Kitchen",
+    "cuisineType": "Italian",
+    "seatingCapacity": 75
+  },
+  {
+    "restaurantId": "rst-013",
+    "branchId": "br-004",
+    "name": "The Harvest Room",
+    "cuisineType": "Farm-to-Table",
+    "seatingCapacity": 80
+  },
+  {
+    "restaurantId": "rst-014",
+    "branchId": "br-005",
+    "name": "Pier 35 Seafood",
+    "cuisineType": "Seafood",
+    "seatingCapacity": 65
+  },
+  {
+    "restaurantId": "rst-015",
+    "branchId": "br-005",
+    "name": "Golden Gate Grill",
+    "cuisineType": "American",
+    "seatingCapacity": 70
+  },
+  {
+    "restaurantId": "rst-016",
+    "branchId": "br-005",
+    "name": "Zen Garden",
+    "cuisineType": "Asian Fusion",
+    "seatingCapacity": 55
+  },
+  {
+    "restaurantId": "rst-017",
+    "branchId": "br-006",
+    "name": "The Grand Buffet",
+    "cuisineType": "International",
+    "seatingCapacity": 200
+  },
+  {
+    "restaurantId": "rst-018",
+    "branchId": "br-006",
+    "name": "Ember Steakhouse",
+    "cuisineType": "Steakhouse",
+    "seatingCapacity": 100
+  },
+  {
+    "restaurantId": "rst-019",
+    "branchId": "br-006",
+    "name": "Lucky Dragon",
+    "cuisineType": "Chinese",
+    "seatingCapacity": 80
+  },
+  {
+    "restaurantId": "rst-020",
+    "branchId": "br-006",
+    "name": "Bella Vita",
+    "cuisineType": "Italian",
+    "seatingCapacity": 75
+  }
+]

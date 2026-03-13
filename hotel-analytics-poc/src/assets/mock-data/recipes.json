@@ -1,0 +1,197 @@
+[
+  {
+    "recipeId": "rec-001",
+    "dishId": "dish-001",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-001", "name": "USDA Prime Beef Tenderloin", "quantityRequired": 0.75, "unit": "lb", "costPerUnit": 42.50},
+      {"ingredientId": "ing-011", "name": "Butter Unsalted", "quantityRequired": 0.06, "unit": "lb", "costPerUnit": 6.40},
+      {"ingredientId": "ing-027", "name": "Black Peppercorns", "quantityRequired": 0.02, "unit": "lb", "costPerUnit": 12.50},
+      {"ingredientId": "ing-026", "name": "Kosher Salt", "quantityRequired": 0.01, "unit": "lb", "costPerUnit": 1.20}
+    ]
+  },
+  {
+    "recipeId": "rec-002",
+    "dishId": "dish-002",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-002", "name": "Atlantic Salmon Fillet", "quantityRequired": 0.5, "unit": "lb", "costPerUnit": 18.75},
+      {"ingredientId": "ing-020", "name": "Lemons", "quantityRequired": 0.25, "unit": "lb", "costPerUnit": 2.90},
+      {"ingredientId": "ing-025", "name": "Extra Virgin Olive Oil", "quantityRequired": 0.03, "unit": "gal", "costPerUnit": 32.00},
+      {"ingredientId": "ing-028", "name": "Dried Oregano", "quantityRequired": 0.01, "unit": "lb", "costPerUnit": 8.90}
+    ]
+  },
+  {
+    "recipeId": "rec-003",
+    "dishId": "dish-003",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-014", "name": "Organic Romaine Lettuce", "quantityRequired": 0.15, "unit": "case", "costPerUnit": 24.00},
+      {"ingredientId": "ing-012", "name": "Parmesan Reggiano", "quantityRequired": 0.08, "unit": "lb", "costPerUnit": 18.50},
+      {"ingredientId": "ing-037", "name": "Eggs Large", "quantityRequired": 0.08, "unit": "dozen", "costPerUnit": 4.80},
+      {"ingredientId": "ing-020", "name": "Lemons", "quantityRequired": 0.15, "unit": "lb", "costPerUnit": 2.90},
+      {"ingredientId": "ing-025", "name": "Extra Virgin Olive Oil", "quantityRequired": 0.02, "unit": "gal", "costPerUnit": 32.00},
+      {"ingredientId": "ing-039", "name": "Bread Crumbs Panko", "quantityRequired": 0.08, "unit": "lb", "costPerUnit": 2.40}
+    ]
+  },
+  {
+    "recipeId": "rec-004",
+    "dishId": "dish-004",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-003", "name": "Organic Chicken Breast", "quantityRequired": 0.4, "unit": "lb", "costPerUnit": 8.95},
+      {"ingredientId": "ing-034", "name": "San Marzano Tomatoes", "quantityRequired": 0.08, "unit": "case", "costPerUnit": 42.00},
+      {"ingredientId": "ing-013", "name": "Fresh Mozzarella", "quantityRequired": 0.15, "unit": "lb", "costPerUnit": 7.80},
+      {"ingredientId": "ing-012", "name": "Parmesan Reggiano", "quantityRequired": 0.05, "unit": "lb", "costPerUnit": 18.50},
+      {"ingredientId": "ing-039", "name": "Bread Crumbs Panko", "quantityRequired": 0.06, "unit": "lb", "costPerUnit": 2.40}
+    ]
+  },
+  {
+    "recipeId": "rec-005",
+    "dishId": "dish-005",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-004", "name": "Jumbo Shrimp 16/20 ct", "quantityRequired": 0.35, "unit": "lb", "costPerUnit": 14.20},
+      {"ingredientId": "ing-017", "name": "Garlic Cloves", "quantityRequired": 0.08, "unit": "lb", "costPerUnit": 4.80},
+      {"ingredientId": "ing-032", "name": "White Wine Dry", "quantityRequired": 0.2, "unit": "750ml", "costPerUnit": 9.20},
+      {"ingredientId": "ing-011", "name": "Butter Unsalted", "quantityRequired": 0.1, "unit": "lb", "costPerUnit": 6.40},
+      {"ingredientId": "ing-020", "name": "Lemons", "quantityRequired": 0.2, "unit": "lb", "costPerUnit": 2.90}
+    ]
+  },
+  {
+    "recipeId": "rec-006",
+    "dishId": "dish-006",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-022", "name": "Arborio Rice", "quantityRequired": 0.2, "unit": "lb", "costPerUnit": 2.85},
+      {"ingredientId": "ing-031", "name": "Chicken Stock", "quantityRequired": 0.25, "unit": "gal", "costPerUnit": 8.50},
+      {"ingredientId": "ing-012", "name": "Parmesan Reggiano", "quantityRequired": 0.1, "unit": "lb", "costPerUnit": 18.50},
+      {"ingredientId": "ing-032", "name": "White Wine Dry", "quantityRequired": 0.1, "unit": "750ml", "costPerUnit": 9.20},
+      {"ingredientId": "ing-016", "name": "Yellow Onions", "quantityRequired": 0.08, "unit": "lb", "costPerUnit": 1.20}
+    ]
+  },
+  {
+    "recipeId": "rec-007",
+    "dishId": "dish-007",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-015", "name": "Roma Tomatoes", "quantityRequired": 0.3, "unit": "lb", "costPerUnit": 2.45},
+      {"ingredientId": "ing-013", "name": "Fresh Mozzarella", "quantityRequired": 0.2, "unit": "lb", "costPerUnit": 7.80},
+      {"ingredientId": "ing-019", "name": "Fresh Basil", "quantityRequired": 0.2, "unit": "bunch", "costPerUnit": 3.50},
+      {"ingredientId": "ing-025", "name": "Extra Virgin Olive Oil", "quantityRequired": 0.02, "unit": "gal", "costPerUnit": 32.00},
+      {"ingredientId": "ing-035", "name": "Balsamic Vinegar Aged", "quantityRequired": 0.03, "unit": "750ml", "costPerUnit": 18.50}
+    ]
+  },
+  {
+    "recipeId": "rec-008",
+    "dishId": "dish-008",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-006", "name": "Lamb Chops Rack", "quantityRequired": 0.6, "unit": "lb", "costPerUnit": 22.40},
+      {"ingredientId": "ing-017", "name": "Garlic Cloves", "quantityRequired": 0.05, "unit": "lb", "costPerUnit": 4.80},
+      {"ingredientId": "ing-028", "name": "Dried Oregano", "quantityRequired": 0.01, "unit": "lb", "costPerUnit": 8.90},
+      {"ingredientId": "ing-025", "name": "Extra Virgin Olive Oil", "quantityRequired": 0.02, "unit": "gal", "costPerUnit": 32.00}
+    ]
+  },
+  {
+    "recipeId": "rec-009",
+    "dishId": "dish-009",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-007", "name": "Fresh Tuna Steak", "quantityRequired": 0.4, "unit": "lb", "costPerUnit": 24.90},
+      {"ingredientId": "ing-029", "name": "Paprika Smoked", "quantityRequired": 0.01, "unit": "lb", "costPerUnit": 11.20},
+      {"ingredientId": "ing-025", "name": "Extra Virgin Olive Oil", "quantityRequired": 0.02, "unit": "gal", "costPerUnit": 32.00},
+      {"ingredientId": "ing-021", "name": "Avocados Hass", "quantityRequired": 0.25, "unit": "lb", "costPerUnit": 3.40}
+    ]
+  },
+  {
+    "recipeId": "rec-010",
+    "dishId": "dish-010",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-008", "name": "Scallops U-10", "quantityRequired": 0.4, "unit": "lb", "costPerUnit": 28.50},
+      {"ingredientId": "ing-011", "name": "Butter Unsalted", "quantityRequired": 0.08, "unit": "lb", "costPerUnit": 6.40},
+      {"ingredientId": "ing-020", "name": "Lemons", "quantityRequired": 0.15, "unit": "lb", "costPerUnit": 2.90},
+      {"ingredientId": "ing-017", "name": "Garlic Cloves", "quantityRequired": 0.03, "unit": "lb", "costPerUnit": 4.80}
+    ]
+  },
+  {
+    "recipeId": "rec-011",
+    "dishId": "dish-011",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-023", "name": "Spaghetti Dry", "quantityRequired": 0.25, "unit": "lb", "costPerUnit": 1.95},
+      {"ingredientId": "ing-037", "name": "Eggs Large", "quantityRequired": 0.17, "unit": "dozen", "costPerUnit": 4.80},
+      {"ingredientId": "ing-012", "name": "Parmesan Reggiano", "quantityRequired": 0.06, "unit": "lb", "costPerUnit": 18.50},
+      {"ingredientId": "ing-005", "name": "Pork Belly Slab", "quantityRequired": 0.1, "unit": "lb", "costPerUnit": 6.80}
+    ]
+  },
+  {
+    "recipeId": "rec-012",
+    "dishId": "dish-012",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-024", "name": "All-Purpose Flour", "quantityRequired": 0.15, "unit": "lb", "costPerUnit": 0.65},
+      {"ingredientId": "ing-034", "name": "San Marzano Tomatoes", "quantityRequired": 0.12, "unit": "case", "costPerUnit": 42.00},
+      {"ingredientId": "ing-013", "name": "Fresh Mozzarella", "quantityRequired": 0.2, "unit": "lb", "costPerUnit": 7.80},
+      {"ingredientId": "ing-019", "name": "Fresh Basil", "quantityRequired": 0.15, "unit": "bunch", "costPerUnit": 3.50}
+    ]
+  },
+  {
+    "recipeId": "rec-013",
+    "dishId": "dish-013",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-014", "name": "Organic Romaine Lettuce", "quantityRequired": 0.12, "unit": "case", "costPerUnit": 24.00},
+      {"ingredientId": "ing-003", "name": "Organic Chicken Breast", "quantityRequired": 0.25, "unit": "lb", "costPerUnit": 8.95},
+      {"ingredientId": "ing-037", "name": "Eggs Large", "quantityRequired": 0.17, "unit": "dozen", "costPerUnit": 4.80},
+      {"ingredientId": "ing-005", "name": "Pork Belly Slab", "quantityRequired": 0.08, "unit": "lb", "costPerUnit": 6.80},
+      {"ingredientId": "ing-015", "name": "Roma Tomatoes", "quantityRequired": 0.15, "unit": "lb", "costPerUnit": 2.45},
+      {"ingredientId": "ing-021", "name": "Avocados Hass", "quantityRequired": 0.25, "unit": "lb", "costPerUnit": 3.40}
+    ]
+  },
+  {
+    "recipeId": "rec-014",
+    "dishId": "dish-014",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-016", "name": "Yellow Onions", "quantityRequired": 0.5, "unit": "lb", "costPerUnit": 1.20},
+      {"ingredientId": "ing-031", "name": "Chicken Stock", "quantityRequired": 0.15, "unit": "gal", "costPerUnit": 8.50},
+      {"ingredientId": "ing-012", "name": "Parmesan Reggiano", "quantityRequired": 0.08, "unit": "lb", "costPerUnit": 18.50},
+      {"ingredientId": "ing-039", "name": "Bread Crumbs Panko", "quantityRequired": 0.05, "unit": "lb", "costPerUnit": 2.40}
+    ]
+  },
+  {
+    "recipeId": "rec-015",
+    "dishId": "dish-015",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-003", "name": "Organic Chicken Breast", "quantityRequired": 0.35, "unit": "lb", "costPerUnit": 8.95},
+      {"ingredientId": "ing-036", "name": "Dijon Mustard", "quantityRequired": 0.08, "unit": "16oz", "costPerUnit": 4.20},
+      {"ingredientId": "ing-039", "name": "Bread Crumbs Panko", "quantityRequired": 0.1, "unit": "lb", "costPerUnit": 2.40},
+      {"ingredientId": "ing-037", "name": "Eggs Large", "quantityRequired": 0.08, "unit": "dozen", "costPerUnit": 4.80},
+      {"ingredientId": "ing-038", "name": "Crème Fraîche", "quantityRequired": 0.25, "unit": "8oz", "costPerUnit": 5.50}
+    ]
+  },
+  {
+    "recipeId": "rec-016",
+    "dishId": "dish-016",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-010", "name": "Heavy Cream Quart", "quantityRequired": 0.25, "unit": "qt", "costPerUnit": 5.95},
+      {"ingredientId": "ing-037", "name": "Eggs Large", "quantityRequired": 0.17, "unit": "dozen", "costPerUnit": 4.80},
+      {"ingredientId": "ing-030", "name": "Vanilla Extract", "quantityRequired": 0.02, "unit": "qt", "costPerUnit": 48.00}
+    ]
+  },
+  {
+    "recipeId": "rec-017",
+    "dishId": "dish-017",
+    "yieldPortions": 1,
+    "ingredients": [
+      {"ingredientId": "ing-033", "name": "Espresso Beans Arabica", "quantityRequired": 0.05, "unit": "lb", "costPerUnit": 12.80},
+      {"ingredientId": "ing-037", "name": "Eggs Large", "quantityRequired": 0.25, "unit": "dozen", "costPerUnit": 4.80},
+      {"ingredientId": "ing-010", "name": "Heavy Cream Quart", "quantityRequired": 0.15, "unit": "qt", "costPerUnit": 5.95},
+      {"ingredientId": "ing-030", "name": "Vanilla Extract", "quantityRequired": 0.01, "unit": "qt", "costPerUnit": 48.00}
+    ]
+  }
+]

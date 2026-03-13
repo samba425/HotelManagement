@@ -1,0 +1,1002 @@
+[
+  {
+    "intent": "top_dishes",
+    "keywords": [
+      "top",
+      "popular",
+      "best",
+      "selling",
+      "dish",
+      "menu"
+    ],
+    "weight": 2,
+    "response": {
+      "messageId": "tpl-001",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "Based on the last 30 days, **NY Strip Steak** leads sales at The Grand Manhattan with an average of 42 orders per day, followed by Grilled Salmon (35/day) and Wagyu Burger (28/day)."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "bar",
+              "title": "Top 5 Dishes \u2014 Last 30 Days",
+              "orientation": "horizontal",
+              "xAxisLabel": "Units Sold",
+              "categories": [
+                "NY Strip Steak",
+                "Grilled Salmon",
+                "Wagyu Burger",
+                "Lobster Mac & Cheese",
+                "Truffle Risotto"
+              ],
+              "series": [
+                {
+                  "name": "Avg Daily Units",
+                  "data": [
+                    42,
+                    35,
+                    28,
+                    24,
+                    21
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "ingredient_needs",
+    "keywords": [
+      "ingredient",
+      "procurement",
+      "order",
+      "supply",
+      "inventory"
+    ],
+    "weight": 2,
+    "response": {
+      "messageId": "tpl-002",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "Here\u2019s your **procurement outlook** for the week. High-demand items need earlier reorders."
+          },
+          {
+            "type": "table",
+            "tableConfig": {
+              "title": "Recommended Orders",
+              "headers": [
+                "Ingredient",
+                "Current Par",
+                "Projected Need",
+                "Reorder Qty"
+              ],
+              "rows": [
+                [
+                  "Ribeye",
+                  "45 lbs",
+                  "68 lbs",
+                  "30 lbs"
+                ],
+                [
+                  "Salmon",
+                  "30 lbs",
+                  "42 lbs",
+                  "25 lbs"
+                ],
+                [
+                  "Lobster",
+                  "20 units",
+                  "35 units",
+                  "20 units"
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "staffing",
+    "keywords": [
+      "staff",
+      "shift",
+      "labor",
+      "schedule",
+      "coverage"
+    ],
+    "weight": 2,
+    "response": {
+      "messageId": "tpl-003",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "**Shift timeline** for today \u2014 Kitchen: 15 morning / 18 evening. Front Desk: 8/6. Housekeeping: 24 split across 2 shifts."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "bar",
+              "title": "Staff by Department",
+              "orientation": "vertical",
+              "categories": [
+                "Kitchen",
+                "Front Desk",
+                "Housekeeping",
+                "F&B Service",
+                "Valet"
+              ],
+              "series": [
+                {
+                  "name": "Morning",
+                  "data": [
+                    15,
+                    8,
+                    12,
+                    14,
+                    4
+                  ]
+                },
+                {
+                  "name": "Evening",
+                  "data": [
+                    18,
+                    6,
+                    12,
+                    16,
+                    5
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "utility_costs",
+    "keywords": [
+      "utility",
+      "electricity",
+      "gas",
+      "water",
+      "utilities"
+    ],
+    "weight": 2,
+    "response": {
+      "messageId": "tpl-004",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "**Utility breakdown** for last 30 days \u2014 Electricity $14,200, Gas $9,800, Water $2,100."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "pie",
+              "title": "Utility Cost Mix",
+              "categories": [
+                "Electricity",
+                "Gas",
+                "Water"
+              ],
+              "series": [
+                {
+                  "name": "Cost",
+                  "data": [
+                    14200,
+                    9800,
+                    2100
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "branch_revenue",
+    "keywords": [
+      "branch",
+      "revenue",
+      "by location",
+      "property"
+    ],
+    "weight": 2,
+    "response": {
+      "messageId": "tpl-005",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "**Revenue by branch** \u2014 The Grand Manhattan leads at $2.1M, followed by Lakeshore Tower ($1.8M) and The Oasis Las Vegas ($1.9M)."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "bar",
+              "title": "Revenue by Branch",
+              "categories": [
+                "Manhattan",
+                "Miami",
+                "Beverly Hills",
+                "Chicago",
+                "SF",
+                "Vegas"
+              ],
+              "series": [
+                {
+                  "name": "Revenue ($K)",
+                  "data": [
+                    2100,
+                    1650,
+                    1420,
+                    1800,
+                    1180,
+                    1900
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "holiday_prep",
+    "keywords": [
+      "holiday",
+      "memorial",
+      "thanksgiving",
+      "christmas",
+      "prepare",
+      "event"
+    ],
+    "weight": 2,
+    "response": {
+      "messageId": "tpl-006",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "**Memorial Day Weekend** \u2014 Predicted occupancy 96%. Recommendations: Increase protein par by 30%, add 12 staff, authorize $8.5K utility budget. Inventory buffer: +30% proteins, premium spirits. Staffing: 12 additional, 6 cross-trained. Utilities: 20% HVAC increase expected."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "bar",
+              "title": "Demand Forecast",
+              "categories": [
+                "NY Strip",
+                "Filet Mignon",
+                "Grilled Salmon"
+              ],
+              "series": [
+                {
+                  "name": "Predicted Units",
+                  "data": [
+                    180,
+                    150,
+                    130
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "occupancy",
+    "keywords": [
+      "occupancy",
+      "occupancy rate",
+      "rooms filled"
+    ],
+    "weight": 2,
+    "response": {
+      "messageId": "tpl-007",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "**Current occupancy** is 87%, up 4% from last week. Trend: rising through the weekend."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "gauge",
+              "title": "Occupancy Rate",
+              "value": 87,
+              "min": 0,
+              "max": 100,
+              "unit": "%"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "greeting",
+    "keywords": [
+      "hi",
+      "hello",
+      "hey",
+      "good morning",
+      "good afternoon"
+    ],
+    "weight": 1,
+    "response": {
+      "messageId": "tpl-008",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "text",
+      "content": {
+        "body": "Hi! I\u2019m your Hotel Analytics assistant. I can help with **top dishes**, **ingredient needs**, **staffing**, **utility costs**, **branch revenue**, **holiday prep**, **occupancy**, and more. What would you like to explore?"
+      },
+      "suggestionChips": [
+        "Top dishes",
+        "Staffing overview",
+        "Utility costs",
+        "Holiday prep"
+      ]
+    }
+  },
+  {
+    "intent": "revenue_comparison",
+    "keywords": [
+      "revenue",
+      "compare",
+      "comparison",
+      "vs"
+    ],
+    "weight": 2,
+    "response": {
+      "messageId": "tpl-009",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "**Multi-branch revenue** (last 30 days) \u2014 Manhattan $2.1M, Chicago $1.8M, Vegas $1.9M, Miami $1.65M, Beverly Hills $1.42M, SF $1.18M."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "bar",
+              "title": "Revenue Comparison",
+              "categories": [
+                "Manhattan",
+                "Chicago",
+                "Vegas",
+                "Miami",
+                "Beverly Hills",
+                "SF"
+              ],
+              "series": [
+                {
+                  "name": "Revenue ($M)",
+                  "data": [
+                    2.1,
+                    1.8,
+                    1.9,
+                    1.65,
+                    1.42,
+                    1.18
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "food_cost",
+    "keywords": [
+      "food cost",
+      "COGS",
+      "food cost percent",
+      "cost of goods"
+    ],
+    "weight": 2,
+    "response": {
+      "messageId": "tpl-010",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "**Food cost analysis** \u2014 Overall 32% (target 28\u201332%). Steakhouse 38%, Seafood 35%, Italian 29%. Steakhouse above target; consider portion control on prime cuts."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "bar",
+              "title": "Food Cost % by Category",
+              "categories": [
+                "Steakhouse",
+                "Seafood",
+                "Italian",
+                "American",
+                "Asian"
+              ],
+              "series": [
+                {
+                  "name": "Food Cost %",
+                  "data": [
+                    38,
+                    35,
+                    29,
+                    31,
+                    28
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "labor_cost",
+    "keywords": [
+      "labor cost",
+      "labor expense",
+      "payroll"
+    ],
+    "weight": 2,
+    "response": {
+      "messageId": "tpl-011",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "**Labor cost breakdown** \u2014 Kitchen 42%, F&B Service 28%, Housekeeping 18%, Front Desk 8%, Valet 4%. Total labor $186K for last 30 days."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "pie",
+              "title": "Labor by Department",
+              "categories": [
+                "Kitchen",
+                "F&B Service",
+                "Housekeeping",
+                "Front Desk",
+                "Valet"
+              ],
+              "series": [
+                {
+                  "name": "Share",
+                  "data": [
+                    42,
+                    28,
+                    18,
+                    8,
+                    4
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "peak_hours",
+    "keywords": [
+      "peak",
+      "busiest",
+      "rush",
+      "heatmap",
+      "hours"
+    ],
+    "weight": 2,
+    "response": {
+      "messageId": "tpl-012",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "**Peak hours** \u2014 Breakfast 7\u20139 AM, Lunch 12\u20132 PM, Dinner 6\u20139 PM. Saturday dinner is the busiest slot. Consider extra F&B staff 6\u201310 PM Fri\u2013Sat."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "heatmap",
+              "title": "Covers by Hour & Day",
+              "xCategories": [
+                "7a",
+                "10a",
+                "1p",
+                "4p",
+                "7p",
+                "10p"
+              ],
+              "yCategories": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri",
+                "Sat",
+                "Sun"
+              ],
+              "data": [
+                [
+                  12,
+                  18,
+                  45,
+                  20,
+                  65,
+                  30
+                ],
+                [
+                  10,
+                  22,
+                  48,
+                  18,
+                  72,
+                  28
+                ],
+                [
+                  14,
+                  20,
+                  42,
+                  22,
+                  68,
+                  32
+                ],
+                [
+                  11,
+                  24,
+                  50,
+                  19,
+                  78,
+                  35
+                ],
+                [
+                  15,
+                  28,
+                  55,
+                  25,
+                  95,
+                  48
+                ],
+                [
+                  25,
+                  35,
+                  60,
+                  40,
+                  120,
+                  55
+                ],
+                [
+                  22,
+                  30,
+                  52,
+                  35,
+                  88,
+                  40
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "forecast",
+    "keywords": [
+      "forecast",
+      "predict",
+      "demand",
+      "prediction"
+    ],
+    "weight": 2,
+    "response": {
+      "messageId": "tpl-013",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "**Demand forecast** for next 7 days \u2014 NY Strip 290 units, Grilled Salmon 245, Filet Mignon 195. Weekend surge expected (+25%)."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "line",
+              "title": "7-Day Demand Forecast",
+              "categories": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri",
+                "Sat",
+                "Sun"
+              ],
+              "series": [
+                {
+                  "name": "NY Strip",
+                  "data": [
+                    35,
+                    38,
+                    40,
+                    42,
+                    48,
+                    55,
+                    52
+                  ]
+                },
+                {
+                  "name": "Salmon",
+                  "data": [
+                    28,
+                    30,
+                    32,
+                    35,
+                    40,
+                    45,
+                    42
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "general_help",
+    "keywords": [
+      "help",
+      "what can you do",
+      "options",
+      "assist"
+    ],
+    "weight": 1,
+    "response": {
+      "messageId": "tpl-014",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "text",
+      "content": {
+        "body": "I can help with: **Top dishes**, **Ingredient procurement**, **Staffing & shifts**, **Utility costs**, **Branch revenue**, **Holiday prep**, **Occupancy**, **Food/labor cost**, **Peak hours**, and **Demand forecast**. Type a topic or choose a suggestion below."
+      },
+      "suggestionChips": [
+        "Top dishes",
+        "Staffing",
+        "Utility costs",
+        "Holiday prep",
+        "Occupancy"
+      ]
+    }
+  },
+  {
+    "intent": "top_dishes",
+    "keywords": [
+      "miami",
+      "coastal",
+      "ocean",
+      "seafood"
+    ],
+    "weight": 1,
+    "response": {
+      "messageId": "tpl-015",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "At **Coastal Luxe Miami**, **Grilled Salmon** and **Lobster Tail** lead with 38 and 22 orders/day. **Crab Cakes** round out the top three at 18/day."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "bar",
+              "title": "Top Dishes \u2014 Miami Branch",
+              "orientation": "horizontal",
+              "categories": [
+                "Grilled Salmon",
+                "Lobster Tail",
+                "Crab Cakes",
+                "Cioppino",
+                "Fish and Chips"
+              ],
+              "series": [
+                {
+                  "name": "Avg Daily Units",
+                  "data": [
+                    38,
+                    22,
+                    18,
+                    14,
+                    12
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "staffing",
+    "keywords": [
+      "weekend",
+      "saturday",
+      "sunday",
+      "busy"
+    ],
+    "weight": 1,
+    "response": {
+      "messageId": "tpl-016",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "**Weekend staffing** \u2014 Recommend +8 Kitchen, +6 F&B Service, +4 Housekeeping for Sat\u2013Sun. Current coverage is 15% below projected demand."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "bar",
+              "title": "Weekday vs Weekend Staff",
+              "categories": [
+                "Kitchen",
+                "F&B",
+                "Housekeeping"
+              ],
+              "series": [
+                {
+                  "name": "Weekday",
+                  "data": [
+                    15,
+                    14,
+                    12
+                  ]
+                },
+                {
+                  "name": "Weekend",
+                  "data": [
+                    23,
+                    20,
+                    16
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "utility_costs",
+    "keywords": [
+      "branch",
+      "by property",
+      "compare utilities"
+    ],
+    "weight": 1,
+    "response": {
+      "messageId": "tpl-017",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "**Utility cost by branch** \u2014 Vegas and Miami highest (AC load). NYC and Chicago higher on gas (heating). SF and Beverly Hills most efficient."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "bar",
+              "title": "Monthly Utility Cost by Branch",
+              "categories": [
+                "Manhattan",
+                "Miami",
+                "Beverly Hills",
+                "Chicago",
+                "SF",
+                "Vegas"
+              ],
+              "series": [
+                {
+                  "name": "Cost ($)",
+                  "data": [
+                    12500,
+                    14200,
+                    9800,
+                    11800,
+                    8500,
+                    14800
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "occupancy",
+    "keywords": [
+      "trend",
+      "occupancy trend",
+      "trending"
+    ],
+    "weight": 1,
+    "response": {
+      "messageId": "tpl-018",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "**Occupancy trend** \u2014 Up 6% over last 4 weeks. Projected to reach 92% this weekend."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "line",
+              "title": "Occupancy Trend (4 Weeks)",
+              "categories": [
+                "Week 1",
+                "Week 2",
+                "Week 3",
+                "Week 4"
+              ],
+              "series": [
+                {
+                  "name": "Occupancy %",
+                  "data": [
+                    78,
+                    82,
+                    85,
+                    87
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "forecast",
+    "keywords": [
+      "thanksgiving",
+      "christmas",
+      "holiday demand"
+    ],
+    "weight": 1,
+    "response": {
+      "messageId": "tpl-019",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "composite",
+      "content": {
+        "sections": [
+          {
+            "type": "text",
+            "body": "**Holiday demand forecast** \u2014 Thanksgiving: 1,350 covers predicted. Christmas: 1,400. Peak dishes: Prime Rib, Turkey Breast, Pumpkin Pie. Prep 40% extra protein."
+          },
+          {
+            "type": "chart",
+            "chartConfig": {
+              "chartType": "bar",
+              "title": "Holiday Demand Forecast",
+              "categories": [
+                "Thanksgiving",
+                "Christmas",
+                "NYE"
+              ],
+              "series": [
+                {
+                  "name": "Predicted Covers",
+                  "data": [
+                    1350,
+                    1400,
+                    1500
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "intent": "greeting",
+    "keywords": [
+      "good evening",
+      "good night"
+    ],
+    "weight": 1,
+    "response": {
+      "messageId": "tpl-020",
+      "sender": "bot",
+      "timestamp": "",
+      "type": "text",
+      "content": {
+        "body": "Good evening! Ready to help with analytics. Ask about **revenue**, **staffing**, **forecasts**, or **holiday prep**."
+      },
+      "suggestionChips": [
+        "Today's revenue",
+        "Staffing",
+        "Holiday prep"
+      ]
+    }
+  }
+]

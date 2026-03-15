@@ -82,10 +82,29 @@ interface NavItem {
           <div class="topbar-right">
             <app-date-range-picker class="hidden md:block"></app-date-range-picker>
             <div class="topbar-divider hidden md:block"></div>
-            <button class="topbar-icon-btn relative">
-              <lucide-icon name="bell" [size]="17"></lucide-icon>
-              <span class="notification-dot"></span>
-            </button>
+            <div class="relative">
+              <button class="topbar-icon-btn" (click)="notifOpen.set(!notifOpen())">
+                <lucide-icon name="bell" [size]="17"></lucide-icon>
+                <span class="notification-dot"></span>
+              </button>
+              <div *ngIf="notifOpen()" class="notif-panel">
+                <div class="notif-header">
+                  <span class="text-[13px] font-semibold text-text-primary">Notifications</span>
+                  <span class="text-[10px] text-accent-primary cursor-pointer font-medium">Mark all read</span>
+                </div>
+                <div class="notif-list">
+                  <div *ngFor="let n of notifications" class="notif-item" [class.notif-unread]="n.unread">
+                    <div class="notif-icon" [attr.data-type]="n.type">
+                      <lucide-icon [name]="n.icon" [size]="14"></lucide-icon>
+                    </div>
+                    <div class="flex-1 min-w-0">
+                      <div class="text-[12px] text-text-primary leading-snug">{{ n.text }}</div>
+                      <div class="text-[10px] text-text-muted mt-1">{{ n.time }}</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
             <app-theme-toggle></app-theme-toggle>
             <div class="avatar">
               <lucide-icon name="user" [size]="16"></lucide-icon>
@@ -464,6 +483,72 @@ interface NavItem {
       color: var(--text-primary);
     }
 
+    /* ── Notification Panel ── */
+    .notif-panel {
+      position: absolute;
+      top: calc(100% + 8px);
+      right: 0;
+      width: 340px;
+      max-height: 420px;
+      background: var(--glass-bg);
+      backdrop-filter: blur(24px) saturate(1.2);
+      -webkit-backdrop-filter: blur(24px) saturate(1.2);
+      border: 1px solid var(--glass-border);
+      border-radius: 16px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.25);
+      z-index: 100;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      animation: notif-in 0.25s cubic-bezier(0.16,1,0.3,1) both;
+    }
+
+    @keyframes notif-in {
+      from { opacity: 0; transform: translateY(-6px) scale(0.96); }
+      to { opacity: 1; transform: translateY(0) scale(1); }
+    }
+
+    .notif-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 18px;
+      border-bottom: 1px solid var(--border-default);
+    }
+
+    .notif-list {
+      overflow-y: auto;
+      flex: 1;
+    }
+
+    .notif-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 12px 18px;
+      transition: background 0.15s;
+      cursor: pointer;
+      border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .notif-item:hover { background: rgba(129,140,248,0.04); }
+
+    .notif-unread { background: rgba(129,140,248,0.03); }
+
+    .notif-icon {
+      width: 30px;
+      height: 30px;
+      border-radius: 9px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .notif-icon[data-type="success"] { background: rgba(16,185,129,0.1); color: #34d399; }
+    .notif-icon[data-type="warning"] { background: rgba(245,158,11,0.1); color: #fbbf24; }
+    .notif-icon[data-type="info"]    { background: rgba(59,130,246,0.1); color: #60a5fa; }
+
     @media (max-width: 1024px) {
       .sidebar { display: none; }
       .main-area { margin-left: 0 !important; }
@@ -477,6 +562,16 @@ export class AppComponent implements OnInit {
   sidebarCollapsed = signal(false);
   mobileMenuOpen = signal(false);
   chatOpen = signal(false);
+  notifOpen = signal(false);
+
+  notifications = [
+    { icon: 'trending-up', type: 'success', text: 'Manhattan revenue exceeded daily target by 12%', time: '5 min ago', unread: true },
+    { icon: 'alert-triangle', type: 'warning', text: 'Vegas AC costs 15% above budget', time: '22 min ago', unread: true },
+    { icon: 'users', type: 'info', text: 'Chicago evening shift fully staffed', time: '1 hr ago', unread: true },
+    { icon: 'package', type: 'info', text: 'Seafood delivery confirmed for Miami', time: '2 hrs ago', unread: false },
+    { icon: 'star', type: 'success', text: 'Beverly Hills received 5-star review', time: '3 hrs ago', unread: false },
+    { icon: 'zap', type: 'warning', text: 'SF electricity usage spike detected', time: '4 hrs ago', unread: false },
+  ];
 
   navItems: NavItem[] = [
     { icon: 'layout-dashboard', label: 'Dashboard', route: '/dashboard' },

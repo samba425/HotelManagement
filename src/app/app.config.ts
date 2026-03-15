@@ -13,7 +13,8 @@ import {
   Send, Copy, User, CalendarDays, Sparkles, Settings,
   Store, ShoppingCart, Crown, Flame, Activity, PieChart, Wallet, Utensils,
   Package, Beef, Tags, Truck, BookOpen, ClipboardList, Brain, CalendarHeart, Thermometer,
-  Calendar, Droplets,
+  Calendar, Droplets, AlertTriangle, Star, Search, Filter, ChevronDown,
+  Download, Eye, MoreHorizontal, CircleDot, CheckCircle2, Clock,
 } from 'lucide-angular';
 
 const allIcons = {
@@ -24,7 +25,8 @@ const allIcons = {
   Send, Copy, User, CalendarDays, Sparkles, Settings,
   Store, ShoppingCart, Crown, Flame, Activity, PieChart, Wallet, Utensils,
   Package, Beef, Tags, Truck, BookOpen, ClipboardList, Brain, CalendarHeart, Thermometer,
-  Calendar, Droplets,
+  Calendar, Droplets, AlertTriangle, Star, Search, Filter, ChevronDown,
+  Download, Eye, MoreHorizontal, CircleDot, CheckCircle2, Clock,
 };
 
 export const appConfig: ApplicationConfig = {

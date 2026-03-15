@@ -45,7 +45,7 @@ interface NavItem {
               <span class="text-white font-bold text-sm">H</span>
             </div>
             <div *ngIf="!sidebarCollapsed()" class="animate-fade-in">
-              <div class="font-semibold text-sm text-text-primary leading-tight">Hotel Analytics</div>
+              <div class="font-semibold text-sm text-text-primary leading-tight">Restaurant Analytics</div>
               <div class="text-[10px] text-text-secondary">Enterprise Dashboard</div>
             </div>
           </div>

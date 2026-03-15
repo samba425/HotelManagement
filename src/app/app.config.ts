@@ -11,6 +11,9 @@ import {
   Bell, Menu, X, ChevronRight, Sun, Moon, MapPin, CalendarRange,
   DollarSign, BedDouble, BarChart3, PiggyBank, ArrowUpRight, ArrowDownRight, Minus,
   Send, Copy, User, CalendarDays, Sparkles, Settings,
+  Store, ShoppingCart, Crown, Flame, Activity, PieChart, Wallet, Utensils,
+  Package, Beef, Tags, Truck, BookOpen, ClipboardList, Brain, CalendarHeart, Thermometer,
+  Calendar, Droplets,
 } from 'lucide-angular';
 
 const allIcons = {
@@ -19,6 +22,9 @@ const allIcons = {
   Bell, Menu, X, ChevronRight, Sun, Moon, MapPin, CalendarRange,
   DollarSign, BedDouble, BarChart3, PiggyBank, ArrowUpRight, ArrowDownRight, Minus,
   Send, Copy, User, CalendarDays, Sparkles, Settings,
+  Store, ShoppingCart, Crown, Flame, Activity, PieChart, Wallet, Utensils,
+  Package, Beef, Tags, Truck, BookOpen, ClipboardList, Brain, CalendarHeart, Thermometer,
+  Calendar, Droplets,
 };
 
 export const appConfig: ApplicationConfig = {

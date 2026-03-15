@@ -28,6 +28,11 @@ export const routes: Routes = [
       import('./features/labor/staffing-overview.component').then(m => m.StaffingOverviewComponent),
   },
   {
+    path: 'utilities',
+    loadComponent: () =>
+      import('./features/utilities/utilities-overview.component').then(m => m.UtilitiesOverviewComponent),
+  },
+  {
     path: 'predictions',
     loadComponent: () =>
       import('./features/predictions/demand-forecast.component').then(m => m.DemandForecastComponent),

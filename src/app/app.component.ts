@@ -484,7 +484,7 @@ export class AppComponent implements OnInit {
     { icon: 'trending-up', label: 'Sales Insights', route: '/sales' },
     { icon: 'package-search', label: 'Supply Chain', route: '/supply-chain' },
     { icon: 'users', label: 'Labor', route: '/labor' },
-    { icon: 'zap', label: 'Utilities', route: '/branches/br-001' },
+    { icon: 'zap', label: 'Utilities', route: '/utilities' },
     { icon: 'brain-circuit', label: 'Predictions', route: '/predictions' },
   ];
 

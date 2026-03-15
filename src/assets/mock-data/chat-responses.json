@@ -225,7 +225,8 @@
       "branch",
       "revenue",
       "by location",
-      "property"
+      "property",
+      "restaurant"
     ],
     "weight": 2,
     "response": {
@@ -369,7 +370,7 @@
       "timestamp": "",
       "type": "text",
       "content": {
-        "body": "Hi! I\u2019m your Hotel Analytics assistant. I can help with **top dishes**, **ingredient needs**, **staffing**, **utility costs**, **branch revenue**, **holiday prep**, **occupancy**, and more. What would you like to explore?"
+        "body": "Hi! I\u2019m your Restaurant Analytics assistant. I can help with **top dishes**, **ingredient needs**, **staffing**, **utility costs**, **branch revenue**, **holiday prep**, **occupancy**, and more. What would you like to explore?"
       },
       "suggestionChips": [
         "Top dishes",
@@ -839,6 +840,7 @@
     "keywords": [
       "branch",
       "by property",
+      "by restaurant",
       "compare utilities"
     ],
     "weight": 1,

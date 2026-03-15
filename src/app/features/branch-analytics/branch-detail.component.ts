@@ -79,7 +79,7 @@ export class BranchDetailComponent {
     this.loading.set(true);
     const branchId = this.route.snapshot.paramMap.get('id') ?? 'br-001';
     const branch = this.branchState.branches().find(b => b.branchId === branchId);
-    this.branchName.set(branch?.name ?? 'Property');
+    this.branchName.set(branch?.name ?? 'Restaurant');
     this.branchCity.set(branch?.location?.city ?? '');
 
     this.activeSub = forkJoin({

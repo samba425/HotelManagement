@@ -12,7 +12,7 @@ export class BranchState {
   });
 
   readonly allBranchesLabel = computed(() =>
-    this.selectedBranchId() === null ? 'All Properties' : this.selectedBranch()?.name ?? ''
+    this.selectedBranchId() === null ? 'All Restaurants' : this.selectedBranch()?.name ?? ''
   );
 
   setBranches(branches: Branch[]): void {

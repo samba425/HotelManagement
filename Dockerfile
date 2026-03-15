@@ -15,7 +15,7 @@ FROM nginx:1.27-alpine AS production
 RUN rm /etc/nginx/conf.d/default.conf
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
-COPY --from=build /app/dist/hotel-analytics-poc/browser /usr/share/nginx/html
+COPY --from=build /app/dist/restaurant-analytics/browser /usr/share/nginx/html
 
 RUN addgroup -g 1001 -S appgroup && \
     adduser -u 1001 -S appuser -G appgroup && \

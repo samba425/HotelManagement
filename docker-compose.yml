@@ -1,5 +1,5 @@
 services:
-  hotel-analytics:
+  restaurant-analytics:
     build:
       context: .
       dockerfile: Dockerfile

@@ -17,7 +17,7 @@ import { BranchState } from '../../../core/state/branch.state';
         class="bg-transparent text-sm font-medium text-text-primary outline-none cursor-pointer appearance-none pr-6"
         [value]="branchState.selectedBranchId() ?? 'all'"
         (change)="onBranchChange($event)">
-        <option value="all">All Properties</option>
+        <option value="all">All Restaurants</option>
         <option *ngFor="let branch of branchState.branches()" [value]="branch.branchId">
           {{ branch.name }}
         </option>

@@ -59,7 +59,7 @@ export class ChatbotService {
             sections: [
               {
                 type: 'text' as const,
-                body: "I'm not sure I understand that query. Try asking about **revenue**, **top dishes**, **staffing needs**, **utility costs**, or **holiday preparation** for any of our properties."
+                body: "I'm not sure I understand that query. Try asking about **revenue**, **top dishes**, **staffing needs**, **utility costs**, or **holiday preparation** for any of our restaurants."
               }
             ]
           }

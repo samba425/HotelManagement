@@ -21,12 +21,12 @@ import type { EChartsOption } from 'echarts';
     <div class="space-y-6">
       <!-- Header -->
       <div appAnimateOnScroll>
-        <h1 class="text-2xl font-semibold text-text-primary">Dashboard Overview</h1>
-        <p class="text-sm text-text-secondary mt-1">Real-time performance across all properties</p>
+        <h1 class="text-[22px] font-bold text-text-primary tracking-tight">Dashboard Overview</h1>
+        <p class="text-[13px] text-text-secondary mt-1">Real-time performance across all locations</p>
       </div>
 
       <!-- KPI Cards -->
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4" appAnimateOnScroll>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5" appAnimateOnScroll>
         <app-kpi-card
           *ngFor="let kpi of kpis()"
           [label]="kpi.label"
@@ -42,7 +42,7 @@ import type { EChartsOption } from 'echarts';
       </div>
 
       <!-- Charts Grid -->
-      <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-5">
         <app-chart-card
           appAnimateOnScroll
           title="Revenue Trend"
@@ -72,7 +72,7 @@ import type { EChartsOption } from 'echarts';
 
         <app-chart-card
           appAnimateOnScroll
-          title="Occupancy by Property"
+          title="Occupancy by Location"
           subtitle="Current period average"
           [chartOptions]="occupancyGaugeOptions()"
           [loading]="loading()"

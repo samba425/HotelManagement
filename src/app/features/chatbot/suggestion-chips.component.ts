@@ -12,7 +12,7 @@ import { CommonModule } from '@angular/common';
         <button
           *ngFor="let s of suggestions"
           (click)="selected.emit(s)"
-          class="px-3 py-1.5 text-xs font-medium rounded-full border border-border-default text-text-secondary hover:text-accent-primary hover:border-accent-primary/50 hover:bg-accent-primary/5 transition-all">
+          class="px-3 py-1.5 text-[11px] font-medium rounded-lg border border-border-default text-text-secondary hover:text-accent-primary hover:border-accent-primary/40 hover:bg-accent-primary/5 transition-all duration-200">
           {{ s }}
         </button>
       </div>

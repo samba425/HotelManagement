@@ -30,11 +30,11 @@ jobs:
       - run: npx ng build --configuration=production --base-href /HotelManagement/
 
       - name: Copy index.html to 404.html for SPA routing
-        run: cp dist/hotel-analytics-poc/browser/index.html dist/hotel-analytics-poc/browser/404.html
+        run: cp dist/restaurant-analytics/browser/index.html dist/restaurant-analytics/browser/404.html
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist/hotel-analytics-poc/browser
+          path: dist/restaurant-analytics/browser
 
   deploy:
     needs: build

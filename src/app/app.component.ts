@@ -32,104 +32,91 @@ interface NavItem {
 
     <div class="flex h-screen overflow-hidden">
       <!-- Sidebar -->
-      <aside
-        class="fixed lg:relative z-40 h-full flex flex-col bg-surface-primary/80 backdrop-blur-xl border-r border-border-default transition-all duration-300 ease-out"
-        [style.width.px]="sidebarCollapsed() ? 72 : 260"
-        [class.translate-x-0]="!mobileMenuOpen() || sidebarCollapsed()"
-        [class.-translate-x-full]="false">
-
-        <!-- Logo area -->
-        <div class="h-16 flex items-center px-4 border-b border-border-default">
-          <div class="flex items-center gap-3 overflow-hidden">
-            <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-accent-primary to-purple-600 flex items-center justify-center flex-shrink-0">
-              <span class="text-white font-bold text-sm">H</span>
-            </div>
-            <div *ngIf="!sidebarCollapsed()" class="animate-fade-in">
-              <div class="font-semibold text-sm text-text-primary leading-tight">Restaurant Analytics</div>
-              <div class="text-[10px] text-text-secondary">Enterprise Dashboard</div>
-            </div>
+      <aside class="sidebar" [class.collapsed]="sidebarCollapsed()">
+        <!-- Brand -->
+        <div class="sidebar-brand">
+          <div class="brand-icon">
+            <lucide-icon name="sparkles" [size]="18"></lucide-icon>
+          </div>
+          <div *ngIf="!sidebarCollapsed()" class="brand-text">
+            <div class="brand-name">Restaurant Analytics</div>
+            <div class="brand-sub">Enterprise Platform</div>
           </div>
         </div>
 
-        <!-- Nav items -->
-        <nav class="flex-1 py-4 px-3 space-y-1 overflow-y-auto">
+        <!-- Navigation -->
+        <nav class="sidebar-nav">
+          <div *ngIf="!sidebarCollapsed()" class="nav-section-label">Main Menu</div>
           <a *ngFor="let item of navItems"
              [routerLink]="item.route"
-             routerLinkActive="active-nav"
-             class="nav-item flex items-center gap-3 px-3 py-2.5 rounded-xl text-text-secondary hover:text-text-primary hover:bg-surface-tertiary/70 transition-all duration-200 group relative"
-             [class.justify-center]="sidebarCollapsed()">
-            <lucide-icon [name]="item.icon" [size]="20"
-              class="flex-shrink-0 transition-transform duration-200 group-hover:scale-110">
-            </lucide-icon>
-            <span *ngIf="!sidebarCollapsed()"
-              class="text-sm font-medium truncate animate-fade-in">
-              {{ item.label }}
-            </span>
-            <div *ngIf="sidebarCollapsed()"
-              class="absolute left-full ml-2 px-2 py-1 bg-surface-primary text-text-primary text-xs rounded-lg shadow-lg opacity-0 group-hover:opacity-100 pointer-events-none transition-opacity whitespace-nowrap z-50">
-              {{ item.label }}
+             routerLinkActive="nav-active"
+             class="nav-link"
+             [class.nav-collapsed]="sidebarCollapsed()">
+            <div class="nav-icon-wrap">
+              <lucide-icon [name]="item.icon" [size]="19"></lucide-icon>
             </div>
+            <span *ngIf="!sidebarCollapsed()" class="nav-label">{{ item.label }}</span>
+            <div *ngIf="sidebarCollapsed()" class="nav-tooltip">{{ item.label }}</div>
           </a>
         </nav>
 
-        <!-- Collapse toggle -->
-        <div class="p-3 border-t border-border-default">
-          <button
-            class="w-full flex items-center justify-center gap-2 px-3 py-2 rounded-xl text-text-secondary hover:text-text-primary hover:bg-surface-tertiary/70 transition-all"
-            (click)="sidebarCollapsed.set(!sidebarCollapsed())">
-            <lucide-icon [name]="sidebarCollapsed() ? 'panel-left-open' : 'panel-left-close'" [size]="18"></lucide-icon>
-            <span *ngIf="!sidebarCollapsed()" class="text-xs font-medium">Collapse</span>
+        <!-- Footer -->
+        <div class="sidebar-footer">
+          <button class="collapse-btn" (click)="sidebarCollapsed.set(!sidebarCollapsed())">
+            <lucide-icon [name]="sidebarCollapsed() ? 'panel-left-open' : 'panel-left-close'" [size]="17"></lucide-icon>
+            <span *ngIf="!sidebarCollapsed()">Collapse</span>
           </button>
         </div>
       </aside>
 
-      <!-- Main content -->
-      <div class="flex-1 flex flex-col overflow-hidden">
+      <!-- Main area -->
+      <div class="main-area">
         <!-- Top bar -->
-        <header class="h-16 flex items-center justify-between px-6 bg-surface-primary/60 backdrop-blur-xl border-b border-border-default flex-shrink-0">
-          <div class="flex items-center gap-4">
-            <button class="lg:hidden" (click)="mobileMenuOpen.set(!mobileMenuOpen())">
-              <lucide-icon name="menu" [size]="20" class="text-text-secondary"></lucide-icon>
+        <header class="topbar">
+          <div class="topbar-left">
+            <button class="lg:hidden topbar-icon-btn" (click)="mobileMenuOpen.set(!mobileMenuOpen())">
+              <lucide-icon name="menu" [size]="19"></lucide-icon>
             </button>
             <app-branch-selector></app-branch-selector>
           </div>
-          <div class="flex items-center gap-3">
+          <div class="topbar-right">
             <app-date-range-picker class="hidden md:block"></app-date-range-picker>
-            <div class="w-px h-6 bg-border-default hidden md:block"></div>
-            <button class="w-9 h-9 rounded-xl flex items-center justify-center hover:bg-surface-tertiary transition-colors relative">
-              <lucide-icon name="bell" [size]="18" class="text-text-secondary"></lucide-icon>
-              <span class="absolute top-1.5 right-1.5 w-2 h-2 bg-accent-danger rounded-full"></span>
+            <div class="topbar-divider hidden md:block"></div>
+            <button class="topbar-icon-btn relative">
+              <lucide-icon name="bell" [size]="17"></lucide-icon>
+              <span class="notification-dot"></span>
             </button>
             <app-theme-toggle></app-theme-toggle>
+            <div class="avatar">
+              <lucide-icon name="user" [size]="16"></lucide-icon>
+            </div>
           </div>
         </header>
 
-        <!-- Router outlet -->
-        <main class="flex-1 overflow-y-auto p-6">
+        <!-- Page content -->
+        <main class="page-content">
           <router-outlet></router-outlet>
         </main>
       </div>
 
-      <!-- Chatbot FAB -->
-      <button
-        class="fixed bottom-6 right-6 z-50 w-14 h-14 rounded-full bg-gradient-to-br from-accent-primary to-purple-600 text-white shadow-lg hover:shadow-glow transition-all duration-300 hover:scale-105 flex items-center justify-center group"
-        (click)="chatOpen.set(!chatOpen())">
-        <lucide-icon [name]="chatOpen() ? 'x' : 'message-square-dot'" [size]="22"></lucide-icon>
-        <span class="absolute inset-0 rounded-full bg-accent-primary/30 animate-pulse-ring pointer-events-none"
-              *ngIf="!chatOpen()"></span>
+      <!-- Chat FAB -->
+      <button class="chat-fab" [class.active]="chatOpen()" (click)="chatOpen.set(!chatOpen())">
+        <lucide-icon [name]="chatOpen() ? 'x' : 'sparkles'" [size]="20"></lucide-icon>
+        <span class="fab-ring" *ngIf="!chatOpen()"></span>
       </button>
 
-      <!-- Chatbot Panel -->
-      <div *ngIf="chatOpen()"
-           class="fixed right-0 top-0 h-full w-full sm:w-[480px] z-50 bg-surface-primary/95 backdrop-blur-2xl border-l border-border-default shadow-2xl animate-slide-right flex flex-col">
-        <div class="h-16 flex items-center justify-between px-6 border-b border-border-default bg-gradient-to-r from-accent-primary/10 to-purple-600/10">
-          <div class="flex items-center gap-2">
-            <lucide-icon name="brain-circuit" [size]="20" class="text-accent-primary"></lucide-icon>
-            <span class="font-semibold text-text-primary">Hotel AI Assistant</span>
+      <!-- Chat panel -->
+      <div *ngIf="chatOpen()" class="chat-panel">
+        <div class="chat-header">
+          <div class="chat-header-left">
+            <div class="chat-ai-badge">
+              <lucide-icon name="brain-circuit" [size]="16"></lucide-icon>
+              AI
+            </div>
+            <span class="chat-title">Restaurant Assistant</span>
           </div>
-          <button (click)="chatOpen.set(false)"
-            class="w-8 h-8 rounded-lg flex items-center justify-center hover:bg-surface-tertiary transition-colors">
-            <lucide-icon name="x" [size]="18" class="text-text-secondary"></lucide-icon>
+          <button class="topbar-icon-btn" (click)="chatOpen.set(false)">
+            <lucide-icon name="x" [size]="17"></lucide-icon>
           </button>
         </div>
         <app-chatbot-panel class="flex-1 flex flex-col overflow-hidden"></app-chatbot-panel>
@@ -137,12 +124,350 @@ interface NavItem {
     </div>
   `,
   styles: [`
-    .active-nav {
-      background: var(--surface-tertiary);
-      color: var(--accent-primary) !important;
-      font-weight: 600;
+    /* ── Sidebar ── */
+    .sidebar {
+      position: fixed;
+      z-index: 40;
+      height: 100vh;
+      width: 260px;
+      display: flex;
+      flex-direction: column;
+      background: var(--surface-primary);
+      border-right: 1px solid var(--border-default);
+      transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      overflow: hidden;
     }
-    .active-nav lucide-icon { color: var(--accent-primary); }
+    .sidebar.collapsed { width: 72px; }
+
+    .sidebar-brand {
+      height: 64px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 0 20px;
+      border-bottom: 1px solid var(--border-default);
+      flex-shrink: 0;
+    }
+    .brand-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 10px;
+      background: linear-gradient(135deg, var(--accent-primary), #a78bfa);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      flex-shrink: 0;
+    }
+    .brand-name {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--text-primary);
+      letter-spacing: -0.02em;
+    }
+    .brand-sub {
+      font-size: 10px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-weight: 500;
+    }
+
+    .sidebar-nav {
+      flex: 1;
+      padding: 16px 12px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .nav-section-label {
+      font-size: 10px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-muted);
+      padding: 0 12px 8px;
+    }
+
+    .nav-link {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 9px 12px;
+      border-radius: var(--radius-md);
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 13.5px;
+      font-weight: 500;
+      transition: all 0.2s ease;
+      position: relative;
+    }
+    .nav-link:hover {
+      background: var(--surface-tertiary);
+      color: var(--text-primary);
+    }
+    .nav-link.nav-collapsed {
+      justify-content: center;
+      padding: 10px;
+    }
+
+    .nav-icon-wrap {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      transition: all 0.2s ease;
+    }
+    .nav-link:hover .nav-icon-wrap {
+      background: rgba(129, 140, 248, 0.08);
+      color: var(--accent-primary);
+    }
+
+    .nav-active {
+      background: rgba(129, 140, 248, 0.08) !important;
+      color: var(--accent-primary) !important;
+    }
+    .nav-active .nav-icon-wrap {
+      background: rgba(129, 140, 248, 0.12);
+      color: var(--accent-primary);
+    }
+
+    .nav-label { white-space: nowrap; }
+
+    .nav-tooltip {
+      position: absolute;
+      left: calc(100% + 10px);
+      padding: 6px 12px;
+      background: var(--surface-elevated);
+      border: 1px solid var(--border-default);
+      color: var(--text-primary);
+      font-size: 12px;
+      border-radius: 8px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.15s ease;
+      white-space: nowrap;
+      z-index: 50;
+    }
+    .nav-link:hover .nav-tooltip { opacity: 1; }
+
+    .sidebar-footer {
+      padding: 12px;
+      border-top: 1px solid var(--border-default);
+      flex-shrink: 0;
+    }
+    .collapse-btn {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 8px;
+      border-radius: var(--radius-md);
+      border: none;
+      background: transparent;
+      color: var(--text-muted);
+      font-size: 12px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .collapse-btn:hover {
+      background: var(--surface-tertiary);
+      color: var(--text-secondary);
+    }
+
+    /* ── Main area ── */
+    .main-area {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      margin-left: 260px;
+      transition: margin-left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .sidebar.collapsed ~ .main-area { margin-left: 72px; }
+
+    /* ── Top bar ── */
+    .topbar {
+      height: 64px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 24px;
+      background: var(--surface-primary);
+      border-bottom: 1px solid var(--border-default);
+      flex-shrink: 0;
+      gap: 16px;
+    }
+    .topbar-left, .topbar-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .topbar-divider {
+      width: 1px;
+      height: 24px;
+      background: var(--border-default);
+    }
+    .topbar-icon-btn {
+      width: 36px;
+      height: 36px;
+      border-radius: var(--radius-md);
+      border: 1px solid var(--border-default);
+      background: transparent;
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .topbar-icon-btn:hover {
+      background: var(--surface-tertiary);
+      color: var(--text-primary);
+      border-color: var(--accent-primary);
+    }
+    .notification-dot {
+      position: absolute;
+      top: 7px;
+      right: 7px;
+      width: 7px;
+      height: 7px;
+      background: var(--accent-danger);
+      border-radius: 50%;
+      border: 2px solid var(--surface-primary);
+    }
+    .avatar {
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--accent-primary), #a78bfa);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      cursor: pointer;
+      transition: box-shadow 0.2s ease;
+    }
+    .avatar:hover {
+      box-shadow: 0 0 0 3px rgba(129, 140, 248, 0.25);
+    }
+
+    /* ── Page content ── */
+    .page-content {
+      flex: 1;
+      overflow-y: auto;
+      padding: 28px;
+    }
+
+    /* ── Chat FAB ── */
+    .chat-fab {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      z-index: 50;
+      width: 52px;
+      height: 52px;
+      border-radius: 16px;
+      border: none;
+      background: linear-gradient(135deg, var(--accent-primary), #a78bfa);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 8px 24px rgba(99, 102, 241, 0.3);
+      transition: all 0.3s ease;
+    }
+    .chat-fab:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 12px 32px rgba(99, 102, 241, 0.4);
+    }
+    .chat-fab.active {
+      border-radius: 12px;
+      background: var(--surface-tertiary);
+      color: var(--text-secondary);
+      box-shadow: var(--glass-shadow);
+    }
+    .fab-ring {
+      position: absolute;
+      inset: -4px;
+      border-radius: 20px;
+      border: 2px solid var(--accent-primary);
+      opacity: 0;
+      animation: fab-pulse 2.5s ease-in-out infinite;
+    }
+    @keyframes fab-pulse {
+      0%, 100% { opacity: 0; transform: scale(1); }
+      50% { opacity: 0.3; transform: scale(1.08); }
+    }
+
+    /* ── Chat panel ── */
+    .chat-panel {
+      position: fixed;
+      right: 0;
+      top: 0;
+      height: 100vh;
+      width: 100%;
+      max-width: 440px;
+      z-index: 50;
+      background: var(--surface-primary);
+      border-left: 1px solid var(--border-default);
+      box-shadow: -16px 0 48px rgba(0, 0, 0, 0.12);
+      display: flex;
+      flex-direction: column;
+      animation: slide-in 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    :is(.dark) .chat-panel {
+      box-shadow: -16px 0 48px rgba(0, 0, 0, 0.4);
+    }
+    @keyframes slide-in {
+      from { transform: translateX(100%); opacity: 0; }
+      to { transform: translateX(0); opacity: 1; }
+    }
+
+    .chat-header {
+      height: 64px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      border-bottom: 1px solid var(--border-default);
+      flex-shrink: 0;
+    }
+    .chat-header-left {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .chat-ai-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 4px 10px;
+      border-radius: 8px;
+      background: rgba(129, 140, 248, 0.1);
+      color: var(--accent-primary);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.03em;
+    }
+    .chat-title {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+
+    @media (max-width: 1024px) {
+      .sidebar { display: none; }
+      .main-area { margin-left: 0 !important; }
+    }
   `],
 })
 export class AppComponent implements OnInit {

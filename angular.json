@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "hotel-analytics-poc": {
+    "restaurant-analytics": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -39,7 +39,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/hotel-analytics-poc",
+            "outputPath": "dist/restaurant-analytics",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -73,8 +73,8 @@
                 },
                 {
                   "type": "anyComponentStyle",
-                  "maximumWarning": "4kB",
-                  "maximumError": "8kB"
+"maximumWarning": "8kB",
+                "maximumError": "16kB"
                 }
               ],
               "outputHashing": "all"
@@ -91,10 +91,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "hotel-analytics-poc:build:production"
+              "buildTarget": "restaurant-analytics:build:production"
             },
             "development": {
-              "buildTarget": "hotel-analytics-poc:build:development"
+              "buildTarget": "restaurant-analytics:build:development"
             }
           },
           "defaultConfiguration": "development"

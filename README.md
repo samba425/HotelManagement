@@ -1,6 +1,6 @@
-# Hotel Management Analytics Platform
+# Restaurant Analytics Platform
 
-Enterprise-grade analytics dashboard for a US luxury hotel chain. Features real-time KPIs with animated counters, interactive ECharts visualizations, AI chatbot with chart/table responses, glassmorphism UI, dark mode, and full Docker deployment -- powered entirely by mock data.
+Enterprise-grade analytics dashboard for a US restaurant chain. Features real-time KPIs with animated counters, interactive ECharts visualizations, AI chatbot with chart/table responses, glassmorphism UI, dark mode, and full Docker deployment -- powered entirely by mock data.
 
 ## Quick Start
 
@@ -21,9 +21,9 @@ ng serve
 
 Open **http://localhost:4200**
 
-## US Hotel Properties (Mock Data)
+## US Restaurant Locations (Mock Data)
 
-| Property | City | Rooms | Rating |
+| Location | City | Seats | Rating |
 |----------|------|-------|--------|
 | The Grand Manhattan | New York, NY | 280 | 5-star |
 | Coastal Luxe Miami | Miami Beach, FL | 240 | 5-star |
@@ -32,7 +32,7 @@ Open **http://localhost:4200**
 | Pacific Heights SF | San Francisco, CA | 180 | 4-star |
 | The Oasis Las Vegas | Las Vegas, NV | 320 | 5-star |
 
-Total portfolio: **1,480 rooms** across 6 flagship properties.
+Total portfolio: **1,480 seats** across 6 flagship locations.
 
 ## Features
 
@@ -44,9 +44,9 @@ Total portfolio: **1,480 rooms** across 6 flagship properties.
 - Department cost breakdown (pie chart)
 
 ### Branch Analytics
-- Per-property deep dive with all KPIs scoped to selected branch
+- Per-location deep dive with all KPIs scoped to selected branch
 - Branch-specific revenue, occupancy, and operational metrics
-- Switch between properties via the top-bar branch selector
+- Switch between restaurants via the top-bar branch selector
 
 ### Sales Insights
 - Menu item performance and daily sales trends
@@ -105,12 +105,12 @@ The chatbot responds to natural-language questions matched by keywords. Below ar
 | Example phrases | Response |
 |-----------------|----------|
 | "Utility costs", "Electricity breakdown", "Gas and water" | Pie chart -- Electricity $14,200, Gas $9,800, Water $2,100 |
-| "Utility by branch", "Compare utilities by property" | Bar chart of monthly utility cost per branch (Vegas/Miami highest due to AC) |
+| "Utility by branch", "Compare utilities by restaurant" | Bar chart of monthly utility cost per branch (Vegas/Miami highest due to AC) |
 
 ### Branch Revenue
 | Example phrases | Response |
 |-----------------|----------|
-| "Branch revenue", "Revenue by location", "Property performance" | Bar chart -- Manhattan $2.1M, Vegas $1.9M, Chicago $1.8M, Miami $1.65M, Beverly Hills $1.42M, SF $1.18M |
+| "Branch revenue", "Revenue by location", "Restaurant performance" | Bar chart -- Manhattan $2.1M, Vegas $1.9M, Chicago $1.8M, Miami $1.65M, Beverly Hills $1.42M, SF $1.18M |
 
 ### Revenue Comparison
 | Example phrases | Response |
@@ -158,7 +158,7 @@ The chatbot responds to natural-language questions matched by keywords. Below ar
 
 The chatbot displays clickable suggestion chips that update contextually:
 
-- **Default**: "Top dishes this week?", "Revenue across all properties", "Staff needed for NYE?"
+- **Default**: "Top dishes this week?", "Revenue across all locations", "Staff needed for NYE?"
 - **After dish query**: "Ingredient costs for top dishes", "Revenue by cuisine type", "Peak dining hours"
 - **After revenue query**: "Compare branch profitability", "RevPAR trend this month", "GOPPAR analysis"
 - **After staffing query**: "Labor cost as % of revenue", "Overtime analysis", "Department staffing levels"
@@ -183,11 +183,11 @@ The chatbot displays clickable suggestion chips that update contextually:
 
 | File | Description |
 |------|-------------|
-| `branches.json` | 6 US hotel properties with location, rooms, rating |
+| `branches.json` | 6 US restaurant locations with address, seats, rating |
 | `financial-operations.json` | Revenue, expenses, GOPPAR, RevPAR by branch/month |
 | `daily-sales.json` | Daily transaction-level sales data |
 | `menu-items.json` | Restaurant menu items with pricing and categories |
-| `restaurants.json` | Restaurant outlets within each property |
+| `restaurants.json` | Restaurant outlets within each location |
 | `ingredients.json` | Ingredient inventory, par levels, costs |
 | `recipes.json` | Dish recipes with ingredient quantities |
 | `labor.json` | Staff records by department, shift, branch |
@@ -206,7 +206,7 @@ src/
 │   │   ├── services/       # Data services + KPI engine + chatbot (9 services)
 │   │   └── state/          # Signal-based state (branch, date-range, theme)
 │   ├── features/
-│   │   ├── branch-analytics/   # Per-property deep dive
+│   │   ├── branch-analytics/   # Per-location deep dive
 │   │   ├── chatbot/            # AI chat panel (5 components)
 │   │   ├── dashboard/          # Main KPI dashboard
 │   │   ├── labor/              # Staffing overview

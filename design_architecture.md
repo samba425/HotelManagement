@@ -1,4 +1,4 @@
-# Enterprise Hotel Management Platform — POC Design Architecture
+# Enterprise Restaurant Analytics Platform — POC Design Architecture
 
 ## 1. Executive Summary
 
